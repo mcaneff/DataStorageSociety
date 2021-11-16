@@ -1,0 +1,1002 @@
+﻿gateNo,typeAccepted,refuelingCapable,maxCartsAccepted,stationName,,stationName,location,,trainNo,departureTime,arrivalTime,routeStatus,,trainNo,totalLocomotiveCarts,totalTransportCarts,totalPassengerCarts,rdyForUtil,stationName
+1093,passenger,No,88,IquitosSttaion Station,,IquitosSttaion Station,IquitosSttaion,,"71,035,386,432.00",03:10,,Arrived,,"71,035,386,432.00",2,13,10,TRUE,IquitosSttaion Station
+83752,passenger,Yes,76,Bradford Station,,Bradford Station,Bradford,,"23,296,474,848.00",06:29,,Early,,"23,296,474,848.00",0,16,14,TRUE,Bradford Station
+15619,passenger,Yes,79,Aparecida de GoiÃ¢nia Station,,Aparecida de GoiÃ¢nia Station,Aparecida de GoiÃ¢nia,,"23,533,870,965.00",02:33,,On-Time,,"23,533,870,965.00",2,9,14,FALSE,Aparecida de GoiÃ¢nia Station
+56943,cargo,Yes,86,Háº¡ Long Station,,Háº¡ Long Station,Háº¡ Long,,"32,320,942,818.00",19:45,,On-Time,,"32,320,942,818.00",1,12,4,FALSE,Háº¡ Long Station
+74519,cargo,Yes,73,Äá»“ng XoÃ i Station,,Äá»“ng XoÃ i Station,Äá»“ng XoÃ i,,"773,289,381.00",03:47,,On-Time,,"773,289,381.00",2,13,18,FALSE,Äá»“ng XoÃ i Station
+22670,cargo,No,33,Lagos Station,,Lagos Station,Lagos,,"99,124,084,421.00",13:01,,Arrived,,"99,124,084,421.00",0,7,2,FALSE,Lagos Station
+41070,cargo,No,70,Zwolle Station,,Zwolle Station,Zwolle,,"33,647,345,913.00",08:17,,Early,,"33,647,345,913.00",1,5,16,TRUE,Zwolle Station
+52876,passenger,Yes,68,Allentown Station,,Allentown Station,Allentown,,"49,841,953,107.00",04:18,,Early,,"49,841,953,107.00",2,2,14,TRUE,Allentown Station
+36356,passenger,No,70,Hunan Station,,Hunan Station,Hunan,,"59,792,458,358.00",20:13,,Scheduled,,"59,792,458,358.00",2,16,15,FALSE,Hunan Station
+20807,passenger,Yes,15,Rostov Station,,Rostov Station,Rostov,,"13,087,575,994.00",08:36,,Boarding,,"13,087,575,994.00",0,2,8,FALSE,Rostov Station
+56009,cargo,No,30,Báº¡c LiÃªu Station,,Báº¡c LiÃªu Station,Báº¡c LiÃªu,,"97,756,128,621.00",14:40,,Boarding,,"97,756,128,621.00",0,3,13,TRUE,Báº¡c LiÃªu Station
+58336,passenger,Yes,38,Tomsk Station,,Tomsk Station,Tomsk,,"97,286,049,860.00",12:02,,Boarding,,"97,286,049,860.00",0,3,6,TRUE,Tomsk Station
+71770,passenger,Yes,53,JaboatÃ£o dos Guararapes Station,,JaboatÃ£o dos Guararapes Station,JaboatÃ£o dos Guararapes,,"54,028,978,241.00",14:06,,Scheduled,,"54,028,978,241.00",2,14,11,TRUE,JaboatÃ£o dos Guararapes Station
+9336,passenger,No,91,Grand-Halleux Station,,Grand-Halleux Station,Grand-Halleux,,"2,595,739,209.00",05:59,,Boarding,,"2,595,739,209.00",0,19,4,FALSE,Grand-Halleux Station
+79367,passenger,Yes,35,Nizhny Station,,Nizhny Station,Nizhny,,"30,604,700,404.00",05:14,,On-Time,,"30,604,700,404.00",1,2,4,TRUE,Nizhny Station
+80859,cargo,Yes,66,Calais Station,,Calais Station,Calais,,"1,215,299,373.00",23:18,,Arrived,,"1,215,299,373.00",2,1,12,TRUE,Calais Station
+21660,passenger,Yes,84,Hamburg Station,,Hamburg Station,Hamburg,,"31,764,435,794.00",20:33,,On-Time,,"31,764,435,794.00",1,15,20,FALSE,Hamburg Station
+20552,passenger,Yes,39,Bannu Station,,Bannu Station,Bannu,,"34,371,976,451.00",02:30,,On-Time,,"34,371,976,451.00",0,6,10,FALSE,Bannu Station
+13722,passenger,Yes,38,Gangneung Station,,Gangneung Station,Gangneung,,"79,864,559,453.00",06:46,,On-Time,,"79,864,559,453.00",0,7,19,TRUE,Gangneung Station
+15049,cargo,No,25,Gwangyang Station,,Gwangyang Station,Gwangyang,,"10,921,767,377.00",06:59,,Scheduled,,"10,921,767,377.00",1,17,3,TRUE,Gwangyang Station
+96493,passenger,No,59,Waiheke Island Station,,Waiheke Island Station,Waiheke Island,,"9,159,945,016.00",06:54,,Arrived,,"9,159,945,016.00",0,7,19,FALSE,Waiheke Island Station
+62281,cargo,Yes,44,Dangjin Station,,Dangjin Station,Dangjin,,"52,002,898,889.00",23:04,,Boarding,,"52,002,898,889.00",0,19,13,FALSE,Dangjin Station
+47677,cargo,Yes,72,Stonewall Station,,Stonewall Station,Stonewall,,"22,093,493,736.00",07:01,,Early,,"22,093,493,736.00",1,2,7,TRUE,Stonewall Station
+60644,passenger,No,92,Goulburn Station,,Goulburn Station,Goulburn,,"37,711,433,384.00",23:29,,On-Time,,"37,711,433,384.00",1,5,5,FALSE,Goulburn Station
+18424,passenger,Yes,95,Mercedes Station,,Mercedes Station,Mercedes,,"68,251,009,120.00",00:31,,On-Time,,"68,251,009,120.00",1,16,17,FALSE,Mercedes Station
+68614,cargo,No,77,Lelystad Station,,Lelystad Station,Lelystad,,"62,984,280,811.00",18:54,,Early,,"62,984,280,811.00",2,1,1,TRUE,Lelystad Station
+39576,passenger,No,71,Sint-Agatha-Berchem Station,,Sint-Agatha-Berchem Station,Sint-Agatha-Berchem,,"10,592,712,142.00",18:05,,On-Time,,"10,592,712,142.00",2,20,10,TRUE,Sint-Agatha-Berchem Station
+7657,passenger,No,12,Kursk Station,,Kursk Station,Kursk,,"81,388,980,575.00",14:27,,Arrived,,"81,388,980,575.00",0,3,9,FALSE,Kursk Station
+15946,cargo,No,89,San Pedro de la Paz Station,,San Pedro de la Paz Station,San Pedro de la Paz,,"83,448,110,688.00",03:37,,Arrived,,"83,448,110,688.00",1,10,1,TRUE,San Pedro de la Paz Station
+78567,cargo,No,61,Arica Station,,Arica Station,Arica,,"28,912,225,672.00",16:34,,Early,,"28,912,225,672.00",1,9,15,TRUE,Arica Station
+39923,passenger,Yes,36,Yurimaguas Station,,Yurimaguas Station,Yurimaguas,,"31,844,506,744.00",03:04,,Boarding,,"31,844,506,744.00",2,10,19,FALSE,Yurimaguas Station
+84073,cargo,No,93,Kurram Agency Station,,Kurram Agency Station,Kurram Agency,,"60,418,624,692.00",20:50,,Arrived,,"60,418,624,692.00",2,9,0,FALSE,Kurram Agency Station
+44474,passenger,Yes,14,Chungju Station,,Chungju Station,Chungju,,"7,801,084,284.00",23:05,,On-Time,,"7,801,084,284.00",0,11,15,FALSE,Chungju Station
+81428,cargo,No,21,Saarlouis Station,,Saarlouis Station,Saarlouis,,"24,989,327,674.00",04:21,,Arrived,,"24,989,327,674.00",0,5,5,TRUE,Saarlouis Station
+83730,cargo,Yes,18,Quáº£ng NgÃ£i Station,,Quáº£ng NgÃ£i Station,Quáº£ng NgÃ£i,,"2,908,225,261.00",13:26,,Boarding,,"2,908,225,261.00",1,13,7,FALSE,Quáº£ng NgÃ£i Station
+30257,cargo,Yes,36,Tam Ká»³ Station,,Tam Ká»³ Station,Tam Ká»³,,"99,053,517,226.00",06:42,,Scheduled,,"99,053,517,226.00",1,16,7,FALSE,Tam Ká»³ Station
+65711,cargo,No,96,Jennersdorf Station,,Jennersdorf Station,Jennersdorf,,"55,755,768,311.00",19:55,,Early,,"55,755,768,311.00",1,9,4,FALSE,Jennersdorf Station
+50102,passenger,Yes,15,Abaetetuba Station,,Abaetetuba Station,Abaetetuba,,"96,180,302,728.00",14:42,,Early,,"96,180,302,728.00",1,14,10,TRUE,Abaetetuba Station
+59284,cargo,Yes,88,Dublin Station,,Dublin Station,Dublin,,"31,299,513,696.00",15:42,,Boarding,,"31,299,513,696.00",2,19,15,FALSE,Dublin Station
+23052,cargo,Yes,69,Dumai Station,,Dumai Station,Dumai,,"33,921,992,928.00",11:31,,On-Time,,"33,921,992,928.00",1,12,9,FALSE,Dumai Station
+30004,passenger,No,31,Hohenems Station,,Hohenems Station,Hohenems,,"78,823,209,972.00",11:09,,On-Time,,"78,823,209,972.00",1,4,13,TRUE,Hohenems Station
+92747,passenger,Yes,25,Whitehorse Station,,Whitehorse Station,Whitehorse,,"52,048,560,529.00",20:27,,Scheduled,,"52,048,560,529.00",2,9,7,FALSE,Whitehorse Station
+53132,cargo,Yes,47,Miass Station,,Miass Station,Miass,,"69,296,181,185.00",01:29,,Boarding,,"69,296,181,185.00",2,13,2,TRUE,Miass Station
+52443,cargo,No,51, Station,, Station,,,"66,038,668,427.00",09:56,,On-Time,,"66,038,668,427.00",0,11,20,TRUE, Station
+30762,cargo,Yes,45,Pacasmayo Station,,Pacasmayo Station,Pacasmayo,,"71,537,632,962.00",09:33,,Arrived,,"71,537,632,962.00",0,8,7,TRUE,Pacasmayo Station
+91629,passenger,Yes,49,San AndrÃ©s Station,,San AndrÃ©s Station,San AndrÃ©s,,"26,341,194,418.00",00:41,,Boarding,,"26,341,194,418.00",1,8,1,TRUE,San AndrÃ©s Station
+78254,cargo,No,50,Waitakere Station,,Waitakere Station,Waitakere,,"43,150,798,682.00",16:40,,Boarding,,"43,150,798,682.00",2,3,19,FALSE,Waitakere Station
+75892,passenger,Yes,61,Colombo Station,,Colombo Station,Colombo,,"19,978,133,272.00",22:18,,Early,,"19,978,133,272.00",1,18,1,FALSE,Colombo Station
+54081,cargo,Yes,40,Huppaye Station,,Huppaye Station,Huppaye,,"40,571,650,303.00",16:17,,On-Time,,"40,571,650,303.00",1,7,18,TRUE,Huppaye Station
+56345,cargo,No,83,General Lagos Station,,General Lagos Station,General Lagos,,"85,750,632,770.00",15:44,,Boarding,,"85,750,632,770.00",1,13,1,FALSE,General Lagos Station
+64440,cargo,Yes,21,Arequipa Station,,Arequipa Station,Arequipa,,"53,371,793,463.00",04:08,,Arrived,,"53,371,793,463.00",0,5,2,FALSE,Arequipa Station
+38077,cargo,No,86,San Clemente Station,,San Clemente Station,San Clemente,,"2,527,213,426.00",15:44,,Boarding,,"2,527,213,426.00",1,3,10,TRUE,San Clemente Station
+46451,passenger,No,92,LogroÃ±o Station,,LogroÃ±o Station,LogroÃ±o,,"2,731,948,077.00",19:06,,Early,,"2,731,948,077.00",2,4,7,TRUE,LogroÃ±o Station
+75821,cargo,No,27,Balikpapan Station,,Balikpapan Station,Balikpapan,,"28,559,963,679.00",11:30,,Early,,"28,559,963,679.00",2,7,19,TRUE,Balikpapan Station
+76870,cargo,Yes,69,GijÃ³n Station,,GijÃ³n Station,GijÃ³n,,"47,259,155,308.00",05:56,,On-Time,,"47,259,155,308.00",1,7,1,TRUE,GijÃ³n Station
+18020,passenger,No,43,GuÃ¡piles Station,,GuÃ¡piles Station,GuÃ¡piles,,"51,531,256,799.00",01:57,,Arrived,,"51,531,256,799.00",1,11,5,FALSE,GuÃ¡piles Station
+62930,cargo,No,31,Pondicherry Station,,Pondicherry Station,Pondicherry,,"16,070,113,109.00",06:13,,On-Time,,"16,070,113,109.00",1,7,3,FALSE,Pondicherry Station
+24829,cargo,Yes,55,Fort William Station,,Fort William Station,Fort William,,"87,611,220,607.00",07:45,,Scheduled,,"87,611,220,607.00",2,15,7,FALSE,Fort William Station
+14329,passenger,Yes,66,Xinjiang Station,,Xinjiang Station,Xinjiang,,"90,598,521,781.00",04:40,,On-Time,,"90,598,521,781.00",1,16,1,TRUE,Xinjiang Station
+84632,passenger,No,47,Tver Station,,Tver Station,Tver,,"47,011,309,516.00",20:02,,Arrived,,"47,011,309,516.00",1,13,19,TRUE,Tver Station
+48729,cargo,Yes,74,Versailles Station,,Versailles Station,Versailles,,"88,470,544,444.00",06:38,,Boarding,,"88,470,544,444.00",1,1,6,TRUE,Versailles Station
+18170,passenger,No,64,Kharmang Station,,Kharmang Station,Kharmang,,"12,613,172,926.00",04:17,,Boarding,,"12,613,172,926.00",1,0,15,TRUE,Kharmang Station
+82575,cargo,Yes,61,Barranco Minas Station,,Barranco Minas Station,Barranco Minas,,"48,847,319,400.00",14:07,,Boarding,,"48,847,319,400.00",1,12,15,TRUE,Barranco Minas Station
+49786,passenger,No,56,Murmansk Station,,Murmansk Station,Murmansk,,"17,340,077,012.00",03:44,,Early,,"17,340,077,012.00",2,4,5,FALSE,Murmansk Station
+13954,cargo,Yes,45,Huaraz Station,,Huaraz Station,Huaraz,,"8,217,297,691.00",06:12,,Boarding,,"8,217,297,691.00",1,3,18,TRUE,Huaraz Station
+5217,cargo,Yes,53,Punitaqui Station,,Punitaqui Station,Punitaqui,,"60,800,388,601.00",19:17,,Boarding,,"60,800,388,601.00",2,13,17,FALSE,Punitaqui Station
+38542,passenger,No,23,Nieuwegein Station,,Nieuwegein Station,Nieuwegein,,"81,825,930,208.00",04:58,,Early,,"81,825,930,208.00",1,7,7,TRUE,Nieuwegein Station
+25014,cargo,No,86,Liverpool Station,,Liverpool Station,Liverpool,,"57,951,237,197.00",19:14,,Arrived,,"57,951,237,197.00",2,7,6,TRUE,Liverpool Station
+12681,passenger,Yes,96,Fortaleza Station,,Fortaleza Station,Fortaleza,,"86,655,650,662.00",12:17,,Early,,"86,655,650,662.00",1,6,16,TRUE,Fortaleza Station
+5812,passenger,No,38,Camaragibe Station,,Camaragibe Station,Camaragibe,,"56,788,799,336.00",15:46,,On-Time,,"56,788,799,336.00",0,4,16,TRUE,Camaragibe Station
+4175,passenger,No,52,Burhaniye Station,,Burhaniye Station,Burhaniye,,"4,659,952,890.00",10:15,,Arrived,,"4,659,952,890.00",0,1,9,TRUE,Burhaniye Station
+77255,cargo,Yes,12,Moose Jaw Station,,Moose Jaw Station,Moose Jaw,,"18,015,716,046.00",16:42,,Arrived,,"18,015,716,046.00",1,18,10,TRUE,Moose Jaw Station
+60912,passenger,Yes,69,Fort Wayne Station,,Fort Wayne Station,Fort Wayne,,"43,528,063,761.00",18:04,,Boarding,,"43,528,063,761.00",0,2,9,FALSE,Fort Wayne Station
+47427,cargo,Yes,27,Burin Station,,Burin Station,Burin,,"93,345,627,536.00",06:54,,Scheduled,,"93,345,627,536.00",1,2,11,TRUE,Burin Station
+13058,passenger,No,50,Campinas Station,,Campinas Station,Campinas,,"9,996,013,835.00",23:52,,Boarding,,"9,996,013,835.00",0,11,11,FALSE,Campinas Station
+3015,cargo,No,41,AydÄ±n Station,,AydÄ±n Station,AydÄ±n,,"9,235,664,348.00",23:56,,On-Time,,"9,235,664,348.00",2,0,17,FALSE,AydÄ±n Station
+37017,passenger,Yes,43,Colomiers Station,,Colomiers Station,Colomiers,,"76,635,576,763.00",21:03,,Scheduled,,"76,635,576,763.00",1,17,0,TRUE,Colomiers Station
+19064,cargo,Yes,42,TarnÃ³w Station,,TarnÃ³w Station,TarnÃ³w,,"96,687,412,226.00",13:45,,On-Time,,"96,687,412,226.00",1,8,20,FALSE,TarnÃ³w Station
+19126,cargo,No,67,Santa Maria Station,,Santa Maria Station,Santa Maria,,"73,834,380,382.00",04:13,,On-Time,,"73,834,380,382.00",1,0,5,TRUE,Santa Maria Station
+16787,cargo,Yes,16,Khandwa Station,,Khandwa Station,Khandwa,,"6,361,331,256.00",18:35,,Scheduled,,"6,361,331,256.00",0,6,12,TRUE,Khandwa Station
+98613,cargo,Yes,62,KungÃ¤lv Station,,KungÃ¤lv Station,KungÃ¤lv,,"26,989,072,399.00",04:54,,Boarding,,"26,989,072,399.00",1,8,8,TRUE,KungÃ¤lv Station
+76137,cargo,No,96,AlingsÃ¥s Station,,AlingsÃ¥s Station,AlingsÃ¥s,,"45,509,634,226.00",06:16,,On-Time,,"45,509,634,226.00",1,18,0,TRUE,AlingsÃ¥s Station
+97909,passenger,No,20,Rionegro Station,,Rionegro Station,Rionegro,,"82,396,131,981.00",16:33,,On-Time,,"82,396,131,981.00",2,16,0,FALSE,Rionegro Station
+26707,passenger,No,29,Aizwal Station,,Aizwal Station,Aizwal,,"25,557,152,985.00",17:06,,Boarding,,"25,557,152,985.00",2,19,16,TRUE,Aizwal Station
+45226,cargo,No,22,Salerno Station,,Salerno Station,Salerno,,"54,554,829,269.00",06:51,,Scheduled,,"54,554,829,269.00",0,6,10,TRUE,Salerno Station
+50935,cargo,Yes,86,Pitlochry Station,,Pitlochry Station,Pitlochry,,"53,856,014,611.00",02:03,,Early,,"53,856,014,611.00",1,19,7,FALSE,Pitlochry Station
+66944,passenger,No,72,SÃ¬n Há»“ Station,,SÃ¬n Há»“ Station,SÃ¬n Há»“,,"91,121,617,941.00",08:48,,On-Time,,"91,121,617,941.00",0,2,12,FALSE,SÃ¬n Há»“ Station
+1347,passenger,No,16,Canberra Station,,Canberra Station,Canberra,,"18,721,139,786.00",05:20,,Boarding,,"18,721,139,786.00",2,2,3,FALSE,Canberra Station
+8212,passenger,No,83,Tyumen Station,,Tyumen Station,Tyumen,,"97,170,700,528.00",16:03,,Scheduled,,"97,170,700,528.00",1,4,8,FALSE,Tyumen Station
+54140,cargo,No,68,Orhangazi Station,,Orhangazi Station,Orhangazi,,"481,459,348.00",19:24,,Scheduled,,"481,459,348.00",0,1,12,FALSE,Orhangazi Station
+72145,passenger,No,29,Oaxaca Station,,Oaxaca Station,Oaxaca,,"11,420,096,366.00",01:04,,Scheduled,,"11,420,096,366.00",1,17,16,TRUE,Oaxaca Station
+26497,passenger,Yes,83,Pamplona Station,,Pamplona Station,Pamplona,,"57,147,331,293.00",08:42,,On-Time,,"57,147,331,293.00",2,11,11,TRUE,Pamplona Station
+43967,passenger,No,32,Anderlecht Station,,Anderlecht Station,Anderlecht,,"95,586,712,472.00",19:12,,Boarding,,"95,586,712,472.00",1,9,5,TRUE,Anderlecht Station
+19570,passenger,No,45,Banda Aceh Station,,Banda Aceh Station,Banda Aceh,,"41,105,494,996.00",02:00,,Arrived,,"41,105,494,996.00",1,17,13,FALSE,Banda Aceh Station
+21875,cargo,No,90,Siquirres Station,,Siquirres Station,Siquirres,,"36,670,842,779.00",22:31,,Arrived,,"36,670,842,779.00",1,8,8,FALSE,Siquirres Station
+39881,passenger,Yes,54,Sonipat Station,,Sonipat Station,Sonipat,,"29,213,838,117.00",04:31,,Boarding,,"29,213,838,117.00",0,4,1,FALSE,Sonipat Station
+90218,passenger,Yes,17,Drachten Station,,Drachten Station,Drachten,,"73,488,423,661.00",10:01,,Boarding,,"73,488,423,661.00",0,8,1,FALSE,Drachten Station
+43145,passenger,Yes,19,Sint-Joost-ten-Node Station,,Sint-Joost-ten-Node Station,Sint-Joost-ten-Node,,"8,751,370,422.00",10:42,,Early,,"8,751,370,422.00",1,14,0,TRUE,Sint-Joost-ten-Node Station
+35717,passenger,No,38,KÄ™dzierzyn-KoÅºle Station,,KÄ™dzierzyn-KoÅºle Station,KÄ™dzierzyn-KoÅºle,,"72,954,459,854.00",16:52,,On-Time,,"72,954,459,854.00",2,1,11,FALSE,KÄ™dzierzyn-KoÅºle Station
+15095,cargo,No,57,Kielce Station,,Kielce Station,Kielce,,"15,113,593,859.00",21:28,,Boarding,,"15,113,593,859.00",0,4,6,TRUE,Kielce Station
+17736,cargo,Yes,79,Brisbane Station,,Brisbane Station,Brisbane,,"9,731,795,031.00",00:18,,On-Time,,"9,731,795,031.00",1,5,6,TRUE,Brisbane Station
+17600,cargo,Yes,22,Oviedo Station,,Oviedo Station,Oviedo,,"99,963,454,095.00",03:37,,Early,,"99,963,454,095.00",1,17,16,FALSE,Oviedo Station
+11479,cargo,No,72,Kumluca Station,,Kumluca Station,Kumluca,,"55,190,967,348.00",02:21,,Early,,"55,190,967,348.00",0,9,17,TRUE,Kumluca Station
+84337,passenger,No,86,Palembang Station,,Palembang Station,Palembang,,"96,321,379,172.00",01:47,,On-Time,,"96,321,379,172.00",1,8,18,FALSE,Palembang Station
+20191,passenger,Yes,56,Kano Station,,Kano Station,Kano,,"35,916,190,701.00",13:43,,Boarding,,"35,916,190,701.00",1,20,4,TRUE,Kano Station
+1681,passenger,Yes,64,Igboho Station,,Igboho Station,Igboho,,"49,384,201,521.00",10:39,,Scheduled,,"49,384,201,521.00",0,8,15,TRUE,Igboho Station
+32809,passenger,No,23,Peralillo Station,,Peralillo Station,Peralillo,,"28,784,868,230.00",14:21,,Boarding,,"28,784,868,230.00",1,17,16,TRUE,Peralillo Station
+87453,passenger,No,94,Houston Station,,Houston Station,Houston,,"82,557,389,950.00",21:07,,Boarding,,"82,557,389,950.00",1,4,1,TRUE,Houston Station
+8332,cargo,Yes,24,ValparaÃ­so de GoiÃ¡s Station,,ValparaÃ­so de GoiÃ¡s Station,ValparaÃ­so de GoiÃ¡s,,"29,040,410,439.00",13:39,,Boarding,,"29,040,410,439.00",1,8,6,FALSE,ValparaÃ­so de GoiÃ¡s Station
+79732,cargo,No,78,Shimla Station,,Shimla Station,Shimla,,"80,095,301,208.00",10:27,,Arrived,,"80,095,301,208.00",1,7,5,TRUE,Shimla Station
+54529,passenger,No,96,San Luis RÃ­o Colorado Station,,San Luis RÃ­o Colorado Station,San Luis RÃ­o Colorado,,"11,933,889,723.00",10:48,,On-Time,,"11,933,889,723.00",2,19,1,FALSE,San Luis RÃ­o Colorado Station
+25886,cargo,Yes,92,Tarakan Station,,Tarakan Station,Tarakan,,"43,885,702,541.00",18:28,,Early,,"43,885,702,541.00",1,14,12,FALSE,Tarakan Station
+80115,passenger,Yes,53,Limoges Station,,Limoges Station,Limoges,,"46,045,344,954.00",23:23,,Early,,"46,045,344,954.00",1,4,11,FALSE,Limoges Station
+94578,cargo,Yes,70,Novgorod Station,,Novgorod Station,Novgorod,,"31,788,129,207.00",06:06,,On-Time,,"31,788,129,207.00",0,16,16,TRUE,Novgorod Station
+18055,cargo,No,12,Dalbeattie Station,,Dalbeattie Station,Dalbeattie,,"22,179,396,747.00",06:10,,On-Time,,"22,179,396,747.00",1,14,5,FALSE,Dalbeattie Station
+63224,cargo,Yes,13,Hyderabad Station,,Hyderabad Station,Hyderabad,,"13,871,728,327.00",18:02,,Arrived,,"13,871,728,327.00",1,8,18,TRUE,Hyderabad Station
+59617,passenger,No,72,Glendale Station,,Glendale Station,Glendale,,"30,136,666,230.00",13:05,,On-Time,,"30,136,666,230.00",1,15,1,FALSE,Glendale Station
+14425,passenger,Yes,10,Guarapuava Station,,Guarapuava Station,Guarapuava,,"48,646,623,338.00",10:23,,Early,,"48,646,623,338.00",2,5,11,TRUE,Guarapuava Station
+27414,passenger,No,13,Madrid Station,,Madrid Station,Madrid,,"54,520,864,395.00",19:06,,Boarding,,"54,520,864,395.00",0,19,5,FALSE,Madrid Station
+77370,passenger,No,71,Gongju Station,,Gongju Station,Gongju,,"13,539,795,930.00",22:59,,Boarding,,"13,539,795,930.00",1,4,7,TRUE,Gongju Station
+53737,cargo,Yes,75,Iksan Station,,Iksan Station,Iksan,,"73,747,212,602.00",21:09,,Scheduled,,"73,747,212,602.00",1,15,9,FALSE,Iksan Station
+64800,cargo,No,66,Brahmapur Station,,Brahmapur Station,Brahmapur,,"99,194,295,304.00",12:00,,Early,,"99,194,295,304.00",1,1,11,TRUE,Brahmapur Station
+26449,cargo,No,59,Mapiripana Station,,Mapiripana Station,Mapiripana,,"80,992,421,668.00",09:36,,Early,,"80,992,421,668.00",1,19,14,FALSE,Mapiripana Station
+33374,cargo,Yes,26,Chihuahua Station,,Chihuahua Station,Chihuahua,,"82,560,310,119.00",08:02,,Early,,"82,560,310,119.00",1,8,1,TRUE,Chihuahua Station
+77201,passenger,No,29,LimÃ³n (Puerto LimÃ³n] Station,,LimÃ³n (Puerto LimÃ³n] Station,LimÃ³n (Puerto LimÃ³n],,"67,710,259,644.00",13:52,,Early,,"67,710,259,644.00",0,3,2,TRUE,LimÃ³n (Puerto LimÃ³n] Station
+5828,passenger,No,27,Pangnirtung Station,,Pangnirtung Station,Pangnirtung,,"50,103,974,795.00",08:31,,Boarding,,"50,103,974,795.00",2,11,1,FALSE,Pangnirtung Station
+66498,passenger,Yes,12,Huara Station,,Huara Station,Huara,,"87,185,672,564.00",00:44,,Scheduled,,"87,185,672,564.00",1,19,1,FALSE,Huara Station
+11280,cargo,Yes,75,Sandviken Station,,Sandviken Station,Sandviken,,"36,800,524,346.00",01:22,,Boarding,,"36,800,524,346.00",2,2,11,TRUE,Sandviken Station
+82706,cargo,No,24,Jambi Station,,Jambi Station,Jambi,,"77,620,618,362.00",23:09,,Arrived,,"77,620,618,362.00",0,7,15,FALSE,Jambi Station
+99791,passenger,No,59,Silchar Station,,Silchar Station,Silchar,,"94,041,660,810.00",23:10,,Boarding,,"94,041,660,810.00",1,16,2,TRUE,Silchar Station
+83895,cargo,Yes,52,Uyo Station,,Uyo Station,Uyo,,"47,172,256,997.00",05:05,,Boarding,,"47,172,256,997.00",0,17,9,TRUE,Uyo Station
+20746,cargo,Yes,12,Queanbeyan Station,,Queanbeyan Station,Queanbeyan,,"76,158,032,367.00",22:03,,On-Time,,"76,158,032,367.00",1,10,0,FALSE,Queanbeyan Station
+7501,cargo,Yes,11,AltmÃ¼nster Station,,AltmÃ¼nster Station,AltmÃ¼nster,,"57,939,953,548.00",16:40,,Scheduled,,"57,939,953,548.00",0,18,3,FALSE,AltmÃ¼nster Station
+13654,cargo,No,41,Tambov Station,,Tambov Station,Tambov,,"76,356,001,784.00",04:19,,Early,,"76,356,001,784.00",1,5,4,FALSE,Tambov Station
+97388,passenger,Yes,77,Palu Station,,Palu Station,Palu,,"99,935,580,597.00",15:26,,Early,,"99,935,580,597.00",0,12,16,TRUE,Palu Station
+9594,passenger,Yes,74,Pontevedra Station,,Pontevedra Station,Pontevedra,,"38,697,897,894.00",18:39,,Early,,"38,697,897,894.00",1,12,19,FALSE,Pontevedra Station
+33172,cargo,No,66,Huáº¿ Station,,Huáº¿ Station,Huáº¿,,"75,235,834,498.00",07:59,,Boarding,,"75,235,834,498.00",2,16,8,FALSE,Huáº¿ Station
+3686,cargo,No,79,Lytkarino Station,,Lytkarino Station,Lytkarino,,"12,974,063,961.00",02:36,,Early,,"12,974,063,961.00",1,5,14,TRUE,Lytkarino Station
+91729,cargo,No,50,Pachuca Station,,Pachuca Station,Pachuca,,"52,078,891,490.00",22:41,,Scheduled,,"52,078,891,490.00",1,13,6,FALSE,Pachuca Station
+57495,passenger,Yes,39,Maiduguri Station,,Maiduguri Station,Maiduguri,,"447,282,062.00",08:30,,Boarding,,"447,282,062.00",2,10,6,TRUE,Maiduguri Station
+82490,cargo,Yes,91,Balfour Station,,Balfour Station,Balfour,,"99,610,299,506.00",03:01,,Boarding,,"99,610,299,506.00",1,7,2,TRUE,Balfour Station
+6192,passenger,No,79,Perth Station,,Perth Station,Perth,,"60,327,351,877.00",12:40,,Boarding,,"60,327,351,877.00",1,13,17,TRUE,Perth Station
+89907,passenger,Yes,37,Thuáº­n ChÃ¢u Station,,Thuáº­n ChÃ¢u Station,Thuáº­n ChÃ¢u,,"71,040,926,760.00",19:33,,On-Time,,"71,040,926,760.00",1,2,15,TRUE,Thuáº­n ChÃ¢u Station
+61072,passenger,Yes,59,DiyarbakÄ±r Station,,DiyarbakÄ±r Station,DiyarbakÄ±r,,"52,299,945,318.00",07:37,,Early,,"52,299,945,318.00",1,13,7,FALSE,DiyarbakÄ±r Station
+52775,cargo,Yes,18,Chancay Station,,Chancay Station,Chancay,,"12,015,198,755.00",20:33,,Early,,"12,015,198,755.00",0,11,19,FALSE,Chancay Station
+29388,passenger,No,34,Coatzacoalcos Station,,Coatzacoalcos Station,Coatzacoalcos,,"94,644,890,053.00",07:08,,Boarding,,"94,644,890,053.00",1,9,1,FALSE,Coatzacoalcos Station
+44627,passenger,No,95,Pica Station,,Pica Station,Pica,,"30,780,939,658.00",04:19,,Arrived,,"30,780,939,658.00",1,8,9,FALSE,Pica Station
+27630,cargo,Yes,48,Pishin Valley Station,,Pishin Valley Station,Pishin Valley,,"92,435,653,580.00",09:21,,Boarding,,"92,435,653,580.00",2,14,3,TRUE,Pishin Valley Station
+14121,passenger,Yes,78,SÃ¶ke Station,,SÃ¶ke Station,SÃ¶ke,,"28,624,745,400.00",19:43,,Arrived,,"28,624,745,400.00",2,4,4,TRUE,SÃ¶ke Station
+86320,passenger,Yes,34,MarÃ­a Elena Station,,MarÃ­a Elena Station,MarÃ­a Elena,,"88,211,176,392.00",11:39,,Scheduled,,"88,211,176,392.00",1,10,10,TRUE,MarÃ­a Elena Station
+49750,cargo,Yes,24,AgustÃ­n Codazzi Station,,AgustÃ­n Codazzi Station,AgustÃ­n Codazzi,,"3,405,263,425.00",07:45,,Scheduled,,"3,405,263,425.00",2,9,15,FALSE,AgustÃ­n Codazzi Station
+48318,cargo,Yes,79,Sittard Station,,Sittard Station,Sittard,,"72,271,608,858.00",03:35,,On-Time,,"72,271,608,858.00",1,2,14,TRUE,Sittard Station
+45070,cargo,No,50,Scorrano Station,,Scorrano Station,Scorrano,,"7,520,559,329.00",18:41,,Arrived,,"7,520,559,329.00",1,2,18,FALSE,Scorrano Station
+21777,passenger,No,41,Mogi das Cruzes Station,,Mogi das Cruzes Station,Mogi das Cruzes,,"49,773,030,743.00",08:41,,Boarding,,"49,773,030,743.00",1,4,13,FALSE,Mogi das Cruzes Station
+66088,cargo,Yes,27,Smolensk Station,,Smolensk Station,Smolensk,,"64,128,273,008.00",14:45,,On-Time,,"64,128,273,008.00",1,2,9,TRUE,Smolensk Station
+36640,passenger,No,67,Geoje Station,,Geoje Station,Geoje,,"91,469,956,564.00",14:30,,Boarding,,"91,469,956,564.00",2,18,6,TRUE,Geoje Station
+21241,cargo,Yes,66,Celaya Station,,Celaya Station,Celaya,,"81,362,142,915.00",15:05,,Boarding,,"81,362,142,915.00",2,3,12,TRUE,Celaya Station
+62983,cargo,Yes,45,Sungai Penuh Station,,Sungai Penuh Station,Sungai Penuh,,"23,677,565,473.00",05:48,,On-Time,,"23,677,565,473.00",1,12,5,TRUE,Sungai Penuh Station
+35795,passenger,No,95,Kilmalcolm Station,,Kilmalcolm Station,Kilmalcolm,,"88,346,604,340.00",00:56,,Early,,"88,346,604,340.00",1,16,18,FALSE,Kilmalcolm Station
+20789,cargo,Yes,76,Delhi Station,,Delhi Station,Delhi,,"71,791,267,265.00",16:28,,Scheduled,,"71,791,267,265.00",1,19,18,FALSE,Delhi Station
+82030,cargo,Yes,83,Bengkulu Station,,Bengkulu Station,Bengkulu,,"98,030,485,417.00",23:07,,Arrived,,"98,030,485,417.00",2,18,6,FALSE,Bengkulu Station
+90994,passenger,Yes,40,The Hague Station,,The Hague Station,The Hague,,"27,761,268,642.00",18:31,,On-Time,,"27,761,268,642.00",2,17,18,TRUE,The Hague Station
+37280,passenger,No,40,Nampa Station,,Nampa Station,Nampa,,"85,601,390,999.00",14:10,,On-Time,,"85,601,390,999.00",1,15,12,TRUE,Nampa Station
+71846,passenger,Yes,15,Guadalajara Station,,Guadalajara Station,Guadalajara,,"8,243,324,400.00",07:30,,Arrived,,"8,243,324,400.00",1,15,8,FALSE,Guadalajara Station
+6849,cargo,Yes,35,Whakatane Station,,Whakatane Station,Whakatane,,"50,788,221,635.00",23:05,,Arrived,,"50,788,221,635.00",1,2,13,FALSE,Whakatane Station
+6319,cargo,Yes,85,Newton Stewart Station,,Newton Stewart Station,Newton Stewart,,"93,440,349,316.00",16:06,,Early,,"93,440,349,316.00",2,10,13,TRUE,Newton Stewart Station
+3320,cargo,Yes,12,Bauchi Station,,Bauchi Station,Bauchi,,"53,864,059,891.00",15:39,,Scheduled,,"53,864,059,891.00",2,12,12,TRUE,Bauchi Station
+68784,passenger,No,25,San Rafael Station,,San Rafael Station,San Rafael,,"15,562,293,500.00",10:28,,Boarding,,"15,562,293,500.00",1,1,18,TRUE,San Rafael Station
+45181,passenger,Yes,98,Rangiora Station,,Rangiora Station,Rangiora,,"84,642,243,755.00",04:14,,Boarding,,"84,642,243,755.00",1,3,8,FALSE,Rangiora Station
+57544,passenger,No,37,Banjarmasin Station,,Banjarmasin Station,Banjarmasin,,"96,283,874,978.00",16:12,,Early,,"96,283,874,978.00",1,18,18,FALSE,Banjarmasin Station
+67861,cargo,Yes,74,Fishguard Station,,Fishguard Station,Fishguard,,"68,275,720,590.00",19:47,,Arrived,,"68,275,720,590.00",2,5,3,TRUE,Fishguard Station
+4574,cargo,Yes,64,Hoyerswerda Station,,Hoyerswerda Station,Hoyerswerda,,"72,696,685,594.00",05:17,,On-Time,,"72,696,685,594.00",2,20,12,TRUE,Hoyerswerda Station
+89326,cargo,No,22,Yaroslavl Station,,Yaroslavl Station,Yaroslavl,,"54,177,183,472.00",00:20,,Early,,"54,177,183,472.00",2,8,7,FALSE,Yaroslavl Station
+28149,passenger,No,54,Liberia Station,,Liberia Station,Liberia,,"16,597,806,143.00",17:46,,Boarding,,"16,597,806,143.00",0,7,14,TRUE,Liberia Station
+13999,passenger,No,81,Kaneohe Station,,Kaneohe Station,Kaneohe,,"32,253,982,490.00",10:24,,Arrived,,"32,253,982,490.00",1,14,19,FALSE,Kaneohe Station
+89486,cargo,Yes,36,Da Lat Station,,Da Lat Station,Da Lat,,"15,614,167,509.00",00:57,,Boarding,,"15,614,167,509.00",0,13,9,TRUE,Da Lat Station
+56091,cargo,No,30,Camarones Station,,Camarones Station,Camarones,,"29,759,215,553.00",09:01,,Boarding,,"29,759,215,553.00",0,8,1,TRUE,Camarones Station
+3310,cargo,No,96,Le Petit-Quevilly Station,,Le Petit-Quevilly Station,Le Petit-Quevilly,,"52,473,100,924.00",07:17,,Early,,"52,473,100,924.00",1,7,15,TRUE,Le Petit-Quevilly Station
+62354,cargo,No,65,Istanbul Station,,Istanbul Station,Istanbul,,"59,006,789,524.00",10:58,,Boarding,,"59,006,789,524.00",0,17,3,TRUE,Istanbul Station
+48587,passenger,Yes,91,Wolfsburg Station,,Wolfsburg Station,Wolfsburg,,"58,693,614,290.00",18:31,,Arrived,,"58,693,614,290.00",1,1,7,TRUE,Wolfsburg Station
+73114,passenger,No,71,Brunn am Gebirge Station,,Brunn am Gebirge Station,Brunn am Gebirge,,"51,557,531,846.00",06:48,,On-Time,,"51,557,531,846.00",2,13,17,TRUE,Brunn am Gebirge Station
+59747,cargo,Yes,55,Maryborough Station,,Maryborough Station,Maryborough,,"25,414,343,612.00",22:34,,Early,,"25,414,343,612.00",1,7,12,TRUE,Maryborough Station
+63000,passenger,No,22,JuÃ¡rez Station,,JuÃ¡rez Station,JuÃ¡rez,,"5,754,969,587.00",23:29,,On-Time,,"5,754,969,587.00",2,19,11,TRUE,JuÃ¡rez Station
+80425,passenger,No,81,Kenosha Station,,Kenosha Station,Kenosha,,"63,358,963,451.00",17:55,,Arrived,,"63,358,963,451.00",1,11,4,TRUE,Kenosha Station
+18307,cargo,Yes,96,Jeju Station,,Jeju Station,Jeju,,"94,377,805,707.00",00:15,,Boarding,,"94,377,805,707.00",2,11,5,FALSE,Jeju Station
+5654,cargo,Yes,77,Worms Station,,Worms Station,Worms,,"14,099,041,339.00",06:52,,Early,,"14,099,041,339.00",0,1,9,TRUE,Worms Station
+86365,passenger,No,91,Amiens Station,,Amiens Station,Amiens,,"29,898,066,079.00",06:15,,Early,,"29,898,066,079.00",0,0,19,TRUE,Amiens Station
+62305,cargo,Yes,47,Ledeberg Station,,Ledeberg Station,Ledeberg,,"48,113,586,008.00",06:36,,Arrived,,"48,113,586,008.00",2,1,16,TRUE,Ledeberg Station
+1118,passenger,No,86,Moerbeke Station,,Moerbeke Station,Moerbeke,,"98,113,011,935.00",22:30,,Scheduled,,"98,113,011,935.00",1,2,14,TRUE,Moerbeke Station
+8059,cargo,No,26,Prenzlau Station,,Prenzlau Station,Prenzlau,,"1,612,313,662.00",14:10,,Early,,"1,612,313,662.00",1,13,10,FALSE,Prenzlau Station
+52153,cargo,Yes,70,Ovalle Station,,Ovalle Station,Ovalle,,"17,520,594,338.00",13:31,,Arrived,,"17,520,594,338.00",2,12,11,FALSE,Ovalle Station
+59501,passenger,Yes,99,Ciudad Apodaca Station,,Ciudad Apodaca Station,Ciudad Apodaca,,"37,053,278,667.00",11:42,,Early,,"37,053,278,667.00",0,8,7,FALSE,Ciudad Apodaca Station
+77743,passenger,No,89,Angers Station,,Angers Station,Angers,,"25,498,558,468.00",05:39,,Boarding,,"25,498,558,468.00",0,4,5,FALSE,Angers Station
+74772,passenger,Yes,28,Villahermosa Station,,Villahermosa Station,Villahermosa,,"40,155,956,331.00",04:36,,Arrived,,"40,155,956,331.00",1,7,7,TRUE,Villahermosa Station
+41558,cargo,No,45,Shanxi Station,,Shanxi Station,Shanxi,,"8,045,153,729.00",15:31,,On-Time,,"8,045,153,729.00",0,13,13,TRUE,Shanxi Station
+83579,cargo,No,94,Hofors Station,,Hofors Station,Hofors,,"30,662,366,055.00",20:18,,Scheduled,,"30,662,366,055.00",0,8,1,TRUE,Hofors Station
+2208,passenger,Yes,44,Wick Station,,Wick Station,Wick,,"24,619,837,274.00",22:48,,Early,,"24,619,837,274.00",1,14,9,FALSE,Wick Station
+85698,passenger,No,22,Chongqing Station,,Chongqing Station,Chongqing,,"9,387,990,171.00",16:51,,Boarding,,"9,387,990,171.00",0,4,5,FALSE,Chongqing Station
+33366,cargo,No,59,ThÃ¡i NguyÃªn Station,,ThÃ¡i NguyÃªn Station,ThÃ¡i NguyÃªn,,"68,285,847,892.00",09:06,,Boarding,,"68,285,847,892.00",1,15,16,TRUE,ThÃ¡i NguyÃªn Station
+78191,passenger,Yes,90,TÃ¤by Station,,TÃ¤by Station,TÃ¤by,,"90,642,207,131.00",00:43,,On-Time,,"90,642,207,131.00",0,16,6,FALSE,TÃ¤by Station
+24976,cargo,Yes,54,Bridgeport Station,,Bridgeport Station,Bridgeport,,"70,197,761,604.00",13:50,,On-Time,,"70,197,761,604.00",1,15,3,FALSE,Bridgeport Station
+40268,passenger,Yes,24,Bellevue Station,,Bellevue Station,Bellevue,,"23,039,434,475.00",14:41,,On-Time,,"23,039,434,475.00",2,1,9,TRUE,Bellevue Station
+76113,passenger,No,58,JaÃ©n Station,,JaÃ©n Station,JaÃ©n,,"23,143,722,777.00",19:52,,Boarding,,"23,143,722,777.00",0,16,1,TRUE,JaÃ©n Station
+1012,passenger,No,66,Palopo Station,,Palopo Station,Palopo,,"84,481,995,897.00",04:00,,Scheduled,,"84,481,995,897.00",0,11,11,TRUE,Palopo Station
+78965,cargo,Yes,11,Zamora de Hidalgo Station,,Zamora de Hidalgo Station,Zamora de Hidalgo,,"61,630,790,007.00",10:44,,On-Time,,"61,630,790,007.00",2,15,15,FALSE,Zamora de Hidalgo Station
+27151,cargo,No,45,Gary Station,,Gary Station,Gary,,"91,137,806,680.00",01:08,,On-Time,,"91,137,806,680.00",1,16,14,FALSE,Gary Station
+64872,cargo,Yes,19,AnÃ¡polis Station,,AnÃ¡polis Station,AnÃ¡polis,,"7,911,510,739.00",09:54,,Boarding,,"7,911,510,739.00",1,7,20,FALSE,AnÃ¡polis Station
+70250,cargo,No,67,Gorbea Station,,Gorbea Station,Gorbea,,"49,217,034,070.00",01:43,,Scheduled,,"49,217,034,070.00",0,16,4,FALSE,Gorbea Station
+75407,passenger,No,52,Guysborough Station,,Guysborough Station,Guysborough,,"82,772,577,972.00",01:43,,On-Time,,"82,772,577,972.00",1,16,8,TRUE,Guysborough Station
+12727,passenger,No,87,Helmond Station,,Helmond Station,Helmond,,"29,213,870,566.00",13:45,,Arrived,,"29,213,870,566.00",0,18,11,TRUE,Helmond Station
+84419,cargo,Yes,83,Chuncheon Station,,Chuncheon Station,Chuncheon,,"14,861,602,763.00",15:04,,On-Time,,"14,861,602,763.00",0,4,14,FALSE,Chuncheon Station
+64948,passenger,Yes,59,IpÃ­s Station,,IpÃ­s Station,IpÃ­s,,"8,479,070,315.00",03:51,,On-Time,,"8,479,070,315.00",2,20,8,FALSE,IpÃ­s Station
+72725,passenger,Yes,73,Bischofshofen Station,,Bischofshofen Station,Bischofshofen,,"80,998,754,291.00",23:41,,On-Time,,"80,998,754,291.00",1,19,13,TRUE,Bischofshofen Station
+88045,cargo,No,29,Mesoraca Station,,Mesoraca Station,Mesoraca,,"17,126,509,636.00",19:27,,Boarding,,"17,126,509,636.00",1,6,14,FALSE,Mesoraca Station
+93779,cargo,Yes,72,CametÃ¡ Station,,CametÃ¡ Station,CametÃ¡,,"23,258,985,732.00",02:24,,Scheduled,,"23,258,985,732.00",2,2,13,TRUE,CametÃ¡ Station
+65958,passenger,No,97,Ulyanovsk Station,,Ulyanovsk Station,Ulyanovsk,,"47,027,480,188.00",15:17,,Scheduled,,"47,027,480,188.00",1,7,4,FALSE,Ulyanovsk Station
+81034,cargo,No,30,Yeosu Station,,Yeosu Station,Yeosu,,"3,253,746,398.00",17:18,,Early,,"3,253,746,398.00",2,4,8,TRUE,Yeosu Station
+42628,cargo,Yes,65,KarapÄ±nar Station,,KarapÄ±nar Station,KarapÄ±nar,,"20,618,251,756.00",01:57,,Scheduled,,"20,618,251,756.00",2,2,8,FALSE,KarapÄ±nar Station
+2787,cargo,Yes,98,Melville Station,,Melville Station,Melville,,"42,612,578,857.00",09:20,,Early,,"42,612,578,857.00",2,3,12,TRUE,Melville Station
+30782,cargo,No,33,Inveraray Station,,Inveraray Station,Inveraray,,"87,333,347,883.00",11:20,,Early,,"87,333,347,883.00",1,15,15,FALSE,Inveraray Station
+78407,passenger,No,14,Aubervilliers Station,,Aubervilliers Station,Aubervilliers,,"27,706,452,484.00",11:12,,Early,,"27,706,452,484.00",1,12,4,FALSE,Aubervilliers Station
+99531,passenger,No,85,Galway Station,,Galway Station,Galway,,"17,348,001,056.00",08:55,,Scheduled,,"17,348,001,056.00",1,7,17,TRUE,Galway Station
+51195,passenger,Yes,37,Harnai Station,,Harnai Station,Harnai,,"78,695,700,751.00",07:40,,Early,,"78,695,700,751.00",0,4,19,FALSE,Harnai Station
+3229,passenger,No,34,Hebei Station,,Hebei Station,Hebei,,"14,834,764,024.00",08:52,,Early,,"14,834,764,024.00",1,19,8,FALSE,Hebei Station
+94570,passenger,Yes,43,Huancayo Station,,Huancayo Station,Huancayo,,"25,342,090,394.00",08:35,,Early,,"25,342,090,394.00",1,10,2,TRUE,Huancayo Station
+94464,cargo,No,31,PÅ‚ock Station,,PÅ‚ock Station,PÅ‚ock,,"52,797,428,137.00",06:54,,Boarding,,"52,797,428,137.00",0,4,12,FALSE,PÅ‚ock Station
+19206,cargo,No,24,Lumaco Station,,Lumaco Station,Lumaco,,"40,197,832,402.00",00:19,,Arrived,,"40,197,832,402.00",0,18,11,FALSE,Lumaco Station
+71484,passenger,No,61,Mersin Station,,Mersin Station,Mersin,,"34,750,166,517.00",02:50,,Arrived,,"34,750,166,517.00",1,8,12,FALSE,Mersin Station
+84543,passenger,Yes,15,Kurgan Station,,Kurgan Station,Kurgan,,"3,767,277,670.00",10:07,,Boarding,,"3,767,277,670.00",1,14,6,TRUE,Kurgan Station
+46239,cargo,No,29,Cerreto di Spoleto Station,,Cerreto di Spoleto Station,Cerreto di Spoleto,,"70,991,914,303.00",04:57,,Early,,"70,991,914,303.00",0,16,12,TRUE,Cerreto di Spoleto Station
+5679,passenger,Yes,44,Nowshera Station,,Nowshera Station,Nowshera,,"57,024,108,061.00",04:21,,Scheduled,,"57,024,108,061.00",0,4,13,FALSE,Nowshera Station
+9837,passenger,No,71,Kaluga Station,,Kaluga Station,Kaluga,,"15,284,623,748.00",02:51,,Arrived,,"15,284,623,748.00",2,7,2,FALSE,Kaluga Station
+72340,cargo,No,23,San Francisco Station,,San Francisco Station,San Francisco,,"6,008,753,256.00",20:38,,Early,,"6,008,753,256.00",0,4,13,FALSE,San Francisco Station
+43900,passenger,No,16,Mohmand Agency Station,,Mohmand Agency Station,Mohmand Agency,,"72,154,814,079.00",22:34,,Arrived,,"72,154,814,079.00",1,9,18,FALSE,Mohmand Agency Station
+71305,passenger,Yes,61,Bierges Station,,Bierges Station,Bierges,,"18,536,609,267.00",22:33,,Boarding,,"18,536,609,267.00",1,5,6,TRUE,Bierges Station
+8335,passenger,Yes,32,ChapecÃ³ Station,,ChapecÃ³ Station,ChapecÃ³,,"8,811,026,510.00",07:56,,Scheduled,,"8,811,026,510.00",1,19,15,FALSE,ChapecÃ³ Station
+49300,passenger,No,15,Sichuan Station,,Sichuan Station,Sichuan,,"28,389,821,470.00",08:06,,Boarding,,"28,389,821,470.00",2,6,15,TRUE,Sichuan Station
+37415,passenger,No,76,Alto BiobÃ­o Station,,Alto BiobÃ­o Station,Alto BiobÃ­o,,"14,490,835,246.00",20:53,,On-Time,,"14,490,835,246.00",1,16,10,TRUE,Alto BiobÃ­o Station
+94106,cargo,No,30,Rigolet Station,,Rigolet Station,Rigolet,,"92,376,086,982.00",18:46,,Early,,"92,376,086,982.00",1,18,18,TRUE,Rigolet Station
+27605,cargo,Yes,10,Manokwari Station,,Manokwari Station,Manokwari,,"1,592,000,849.00",17:39,,Boarding,,"1,592,000,849.00",1,13,8,TRUE,Manokwari Station
+46453,passenger,Yes,13,Granada Station,,Granada Station,Granada,,"1,417,572,985.00",09:35,,On-Time,,"1,417,572,985.00",2,19,9,TRUE,Granada Station
+30810,cargo,Yes,90,CÃ³rdoba Station,,CÃ³rdoba Station,CÃ³rdoba,,"71,429,156,981.00",10:38,,On-Time,,"71,429,156,981.00",2,8,17,TRUE,CÃ³rdoba Station
+21518,passenger,No,65,Awka Station,,Awka Station,Awka,,"88,667,910,419.00",02:11,,Boarding,,"88,667,910,419.00",0,1,13,TRUE,Awka Station
+3886,passenger,Yes,54,Greater Hobart Station,,Greater Hobart Station,Greater Hobart,,"28,996,787,326.00",20:35,,On-Time,,"28,996,787,326.00",1,16,2,TRUE,Greater Hobart Station
+56533,cargo,No,15,Semarang Station,,Semarang Station,Semarang,,"2,156,108,307.00",09:18,,Scheduled,,"2,156,108,307.00",2,14,2,FALSE,Semarang Station
+19407,cargo,No,84,Antakya Station,,Antakya Station,Antakya,,"93,396,042,954.00",10:51,,On-Time,,"93,396,042,954.00",1,14,4,FALSE,Antakya Station
+18337,cargo,Yes,93,Vialky Station,,Vialky Station,Vialky,,"77,439,668,547.00",10:20,,Scheduled,,"77,439,668,547.00",1,11,16,TRUE,Vialky Station
+50746,passenger,No,99,Foz do IguaÃ§u Station,,Foz do IguaÃ§u Station,Foz do IguaÃ§u,,"75,376,437,590.00",10:27,,Scheduled,,"75,376,437,590.00",2,16,6,FALSE,Foz do IguaÃ§u Station
+33341,cargo,No,66,Lalbahadur Nagar Station,,Lalbahadur Nagar Station,Lalbahadur Nagar,,"48,103,710,349.00",14:57,,Early,,"48,103,710,349.00",1,4,7,TRUE,Lalbahadur Nagar Station
+56890,passenger,Yes,80,Donosti Station,,Donosti Station,Donosti,,"768,947,210.00",22:21,,On-Time,,"768,947,210.00",2,9,19,FALSE,Donosti Station
+74998,passenger,Yes,59,Ningxia Station,,Ningxia Station,Ningxia,,"41,454,868,605.00",13:34,,Early,,"41,454,868,605.00",2,14,3,FALSE,Ningxia Station
+29537,passenger,No,21,Abbotsford Station,,Abbotsford Station,Abbotsford,,"33,496,163,361.00",15:16,,On-Time,,"33,496,163,361.00",0,3,16,TRUE,Abbotsford Station
+54246,passenger,Yes,35,Zoerle-Parwijs Station,,Zoerle-Parwijs Station,Zoerle-Parwijs,,"72,038,434,936.00",07:34,,Scheduled,,"72,038,434,936.00",2,12,6,TRUE,Zoerle-Parwijs Station
+32610,cargo,No,77,NorrkÃ¶ping Station,,NorrkÃ¶ping Station,NorrkÃ¶ping,,"70,931,353,309.00",15:42,,On-Time,,"70,931,353,309.00",2,6,7,FALSE,NorrkÃ¶ping Station
+35791,passenger,No,21,Kufstein Station,,Kufstein Station,Kufstein,,"4,003,648,576.00",04:48,,Early,,"4,003,648,576.00",0,6,9,FALSE,Kufstein Station
+99540,cargo,Yes,48,YahyalÄ± Station,,YahyalÄ± Station,YahyalÄ±,,"63,812,069,308.00",16:39,,Arrived,,"63,812,069,308.00",1,1,8,FALSE,YahyalÄ± Station
+43134,cargo,No,45,Monclova Station,,Monclova Station,Monclova,,"59,209,621,470.00",08:30,,On-Time,,"59,209,621,470.00",2,15,15,FALSE,Monclova Station
+37836,cargo,No,72,Hamilton Station,,Hamilton Station,Hamilton,,"19,409,521,052.00",14:45,,On-Time,,"19,409,521,052.00",1,18,2,FALSE,Hamilton Station
+33487,passenger,No,17,HÅ½ron Station,,HÅ½ron Station,HÅ½ron,,"8,920,850,099.00",08:50,,Scheduled,,"8,920,850,099.00",1,14,10,TRUE,HÅ½ron Station
+98509,passenger,Yes,65,Torghar Station,,Torghar Station,Torghar,,"31,857,256,975.00",20:45,,Boarding,,"31,857,256,975.00",2,11,12,TRUE,Torghar Station
+59142,passenger,No,40,Asti Station,,Asti Station,Asti,,"70,079,958,828.00",02:01,,Boarding,,"70,079,958,828.00",0,15,3,FALSE,Asti Station
+77276,cargo,Yes,91,Sakhalin Station,,Sakhalin Station,Sakhalin,,"88,567,875,577.00",02:35,,On-Time,,"88,567,875,577.00",2,10,16,TRUE,Sakhalin Station
+39935,passenger,No,85,Cusco Station,,Cusco Station,Cusco,,"35,798,165,728.00",13:56,,Boarding,,"35,798,165,728.00",0,6,1,TRUE,Cusco Station
+63183,passenger,Yes,43,Thá»§ Dáº§u Má»™t Station,,Thá»§ Dáº§u Má»™t Station,Thá»§ Dáº§u Má»™t,,"28,128,579,189.00",04:45,,Early,,"28,128,579,189.00",1,5,8,FALSE,Thá»§ Dáº§u Má»™t Station
+40353,passenger,No,80,Rio de Janeiro Station,,Rio de Janeiro Station,Rio de Janeiro,,"15,985,170,300.00",06:21,,Early,,"15,985,170,300.00",0,1,19,TRUE,Rio de Janeiro Station
+82724,cargo,No,51,Caen Station,,Caen Station,Caen,,"91,493,278,337.00",12:02,,Boarding,,"91,493,278,337.00",1,10,8,TRUE,Caen Station
+82887,passenger,No,96,Akron Station,,Akron Station,Akron,,"99,195,935,823.00",15:47,,Early,,"99,195,935,823.00",2,7,20,TRUE,Akron Station
+22304,passenger,No,66,Starachowice Station,,Starachowice Station,Starachowice,,"92,404,508,947.00",16:08,,Boarding,,"92,404,508,947.00",0,11,14,FALSE,Starachowice Station
+9834,cargo,No,61,Bhimber Station,,Bhimber Station,Bhimber,,"15,189,141,706.00",03:58,,Early,,"15,189,141,706.00",2,16,16,TRUE,Bhimber Station
+79705,passenger,Yes,47,Skardu Station,,Skardu Station,Skardu,,"16,251,947,703.00",23:59,,Boarding,,"16,251,947,703.00",1,5,9,TRUE,Skardu Station
+37131,cargo,Yes,90,Getafe Station,,Getafe Station,Getafe,,"81,248,698,898.00",09:37,,Scheduled,,"81,248,698,898.00",0,17,15,TRUE,Getafe Station
+13829,passenger,Yes,79,ÅÃ³dÅº Station,,ÅÃ³dÅº Station,ÅÃ³dÅº,,"42,144,004,453.00",10:18,,Arrived,,"42,144,004,453.00",0,11,8,TRUE,ÅÃ³dÅº Station
+16225,cargo,Yes,38,Motala Station,,Motala Station,Motala,,"52,588,253,779.00",17:54,,Early,,"52,588,253,779.00",1,2,0,FALSE,Motala Station
+73293,cargo,Yes,96,Houtave Station,,Houtave Station,Houtave,,"21,977,584,245.00",07:34,,On-Time,,"21,977,584,245.00",0,5,17,TRUE,Houtave Station
+75388,passenger,No,32,Salzburg Station,,Salzburg Station,Salzburg,,"18,158,315,398.00",22:06,,Early,,"18,158,315,398.00",1,15,13,FALSE,Salzburg Station
+51503,passenger,No,47,BiaÅ‚ystok Station,,BiaÅ‚ystok Station,BiaÅ‚ystok,,"94,717,806,186.00",06:01,,Early,,"94,717,806,186.00",0,18,11,TRUE,BiaÅ‚ystok Station
+77611,cargo,Yes,79,Guaymas Station,,Guaymas Station,Guaymas,,"48,730,445,698.00",20:50,,Arrived,,"48,730,445,698.00",1,3,20,TRUE,Guaymas Station
+90323,passenger,No,35,Vá»‹ Thanh Station,,Vá»‹ Thanh Station,Vá»‹ Thanh,,"81,321,038,641.00",18:51,,Arrived,,"81,321,038,641.00",1,12,4,TRUE,Vá»‹ Thanh Station
+66810,passenger,Yes,31,Colchane Station,,Colchane Station,Colchane,,"77,092,050,140.00",08:23,,Scheduled,,"77,092,050,140.00",1,2,9,TRUE,Colchane Station
+92131,passenger,No,51,Kaduna Station,,Kaduna Station,Kaduna,,"52,371,378,643.00",14:43,,On-Time,,"52,371,378,643.00",1,17,12,FALSE,Kaduna Station
+4642,cargo,No,77,Reinbek Station,,Reinbek Station,Reinbek,,"80,557,231,950.00",14:36,,Scheduled,,"80,557,231,950.00",1,7,1,FALSE,Reinbek Station
+46125,cargo,Yes,46,Nuremberg Station,,Nuremberg Station,Nuremberg,,"85,570,741,735.00",15:20,,Scheduled,,"85,570,741,735.00",1,19,9,FALSE,Nuremberg Station
+82522,cargo,No,30,Montenero Val Cocchiara Station,,Montenero Val Cocchiara Station,Montenero Val Cocchiara,,"93,182,086,667.00",14:50,,Arrived,,"93,182,086,667.00",1,1,4,TRUE,Montenero Val Cocchiara Station
+35958,passenger,Yes,94,Mespelare Station,,Mespelare Station,Mespelare,,"92,148,941,957.00",17:42,,Early,,"92,148,941,957.00",0,5,1,TRUE,Mespelare Station
+54418,cargo,No,71,Soledad Station,,Soledad Station,Soledad,,"93,440,139,311.00",10:21,,Boarding,,"93,440,139,311.00",2,12,10,TRUE,Soledad Station
+36202,passenger,Yes,61,Betim Station,,Betim Station,Betim,,"72,695,442,944.00",17:21,,Early,,"72,695,442,944.00",0,14,19,FALSE,Betim Station
+24275,passenger,Yes,98,Miramichi Station,,Miramichi Station,Miramichi,,"96,979,918,819.00",20:00,,Early,,"96,979,918,819.00",0,2,15,FALSE,Miramichi Station
+296,cargo,Yes,33,Tamworth Station,,Tamworth Station,Tamworth,,"71,850,383,058.00",19:53,,Boarding,,"71,850,383,058.00",1,12,3,TRUE,Tamworth Station
+86454,cargo,No,47,Aieta Station,,Aieta Station,Aieta,,"59,288,810,103.00",11:43,,Boarding,,"59,288,810,103.00",2,4,13,TRUE,Aieta Station
+72966,cargo,Yes,74,Portland Station,,Portland Station,Portland,,"88,850,359,618.00",02:17,,Early,,"88,850,359,618.00",0,6,7,TRUE,Portland Station
+94899,cargo,No,60,MÃ¶dling Station,,MÃ¶dling Station,MÃ¶dling,,"22,490,711,408.00",10:21,,Scheduled,,"22,490,711,408.00",1,12,10,TRUE,MÃ¶dling Station
+46557,cargo,Yes,82,Bagh Station,,Bagh Station,Bagh,,"82,445,962,833.00",07:25,,Arrived,,"82,445,962,833.00",2,7,13,FALSE,Bagh Station
+39630,cargo,Yes,21,Roxburgh Station,,Roxburgh Station,Roxburgh,,"92,527,749,419.00",05:33,,On-Time,,"92,527,749,419.00",0,20,3,FALSE,Roxburgh Station
+95493,cargo,No,51,Palangka Raya Station,,Palangka Raya Station,Palangka Raya,,"69,029,344,073.00",04:31,,On-Time,,"69,029,344,073.00",1,13,9,FALSE,Palangka Raya Station
+72305,passenger,No,36,Ceuta Station,,Ceuta Station,Ceuta,,"30,427,005,829.00",01:09,,Scheduled,,"30,427,005,829.00",1,1,4,FALSE,Ceuta Station
+78155,cargo,Yes,59,Fremantle Station,,Fremantle Station,Fremantle,,"62,493,114,758.00",08:25,,On-Time,,"62,493,114,758.00",0,0,5,TRUE,Fremantle Station
+90638,cargo,Yes,29,Timaru Station,,Timaru Station,Timaru,,"4,984,719,791.00",18:05,,Boarding,,"4,984,719,791.00",1,2,13,FALSE,Timaru Station
+22611,passenger,Yes,92,Nam Äá»‹nh Station,,Nam Äá»‹nh Station,Nam Äá»‹nh,,"93,420,240,692.00",23:45,,On-Time,,"93,420,240,692.00",2,18,14,FALSE,Nam Äá»‹nh Station
+7614,passenger,Yes,94,Ellon Station,,Ellon Station,Ellon,,"28,054,472,181.00",23:51,,On-Time,,"28,054,472,181.00",1,5,15,FALSE,Ellon Station
+1176,cargo,Yes,16,Geraldton-Greenough Station,,Geraldton-Greenough Station,Geraldton-Greenough,,"42,064,318,036.00",07:19,,Arrived,,"42,064,318,036.00",1,14,9,TRUE,Geraldton-Greenough Station
+70461,cargo,No,72,Okene Station,,Okene Station,Okene,,"20,548,284,694.00",03:25,,Scheduled,,"20,548,284,694.00",1,11,7,TRUE,Okene Station
+57001,cargo,No,52,Aubagne Station,,Aubagne Station,Aubagne,,"61,852,918,080.00",12:05,,Early,,"61,852,918,080.00",2,1,10,TRUE,Aubagne Station
+56570,passenger,Yes,83,Eckville Station,,Eckville Station,Eckville,,"67,528,452,818.00",19:56,,Early,,"67,528,452,818.00",1,10,6,TRUE,Eckville Station
+34854,cargo,Yes,36,Kirov Station,,Kirov Station,Kirov,,"63,689,535,838.00",18:19,,Scheduled,,"63,689,535,838.00",0,15,14,TRUE,Kirov Station
+70290,cargo,No,56,DÃ¶rtyol Station,,DÃ¶rtyol Station,DÃ¶rtyol,,"87,567,356,079.00",05:31,,Early,,"87,567,356,079.00",1,4,1,FALSE,DÃ¶rtyol Station
+57137,cargo,No,87,Nuneaton Station,,Nuneaton Station,Nuneaton,,"67,202,477,897.00",08:48,,Scheduled,,"67,202,477,897.00",1,5,9,FALSE,Nuneaton Station
+17645,cargo,Yes,99,Anglet Station,,Anglet Station,Anglet,,"74,745,118,884.00",17:53,,On-Time,,"74,745,118,884.00",1,17,13,FALSE,Anglet Station
+37591,cargo,Yes,54,Watson Lake Station,,Watson Lake Station,Watson Lake,,"99,308,615,256.00",09:51,,On-Time,,"99,308,615,256.00",0,8,14,FALSE,Watson Lake Station
+35136,passenger,Yes,71,Dehradun Station,,Dehradun Station,Dehradun,,"64,989,996,115.00",05:38,,Scheduled,,"64,989,996,115.00",0,5,15,FALSE,Dehradun Station
+33710,cargo,No,86,Châ€°telineau Station,,Châ€°telineau Station,Châ€°telineau,,"96,223,899,597.00",09:50,,Early,,"96,223,899,597.00",1,16,17,TRUE,Châ€°telineau Station
+86791,cargo,No,35,Tam Äiá»‡p Station,,Tam Äiá»‡p Station,Tam Äiá»‡p,,"88,718,592,736.00",07:01,,Arrived,,"88,718,592,736.00",2,7,2,FALSE,Tam Äiá»‡p Station
+82938,passenger,Yes,41,Uppingham. Cottesmore Station,,Uppingham. Cottesmore Station,Uppingham. Cottesmore,,"41,832,474,502.00",12:16,,Early,,"41,832,474,502.00",1,6,15,FALSE,Uppingham. Cottesmore Station
+83381,cargo,No,51,Jayapura Station,,Jayapura Station,Jayapura,,"11,412,953,760.00",17:44,,Scheduled,,"11,412,953,760.00",1,8,20,TRUE,Jayapura Station
+16180,passenger,Yes,23,Villingen-Schwenningen Station,,Villingen-Schwenningen Station,Villingen-Schwenningen,,"76,578,635,676.00",11:51,,Early,,"76,578,635,676.00",1,16,14,TRUE,Villingen-Schwenningen Station
+16491,cargo,No,25,Montignies-Saint-Christophe Station,,Montignies-Saint-Christophe Station,Montignies-Saint-Christophe,,"40,287,925,940.00",01:11,,Scheduled,,"40,287,925,940.00",2,3,5,FALSE,Montignies-Saint-Christophe Station
+83011,cargo,Yes,72,Montleban Station,,Montleban Station,Montleban,,"26,478,916,546.00",23:52,,Arrived,,"26,478,916,546.00",1,11,14,TRUE,Montleban Station
+60415,passenger,Yes,97,San Donato di Ninea Station,,San Donato di Ninea Station,San Donato di Ninea,,"1,803,022,932.00",16:09,,Scheduled,,"1,803,022,932.00",1,16,1,FALSE,San Donato di Ninea Station
+87119,cargo,No,49,Buguma Station,,Buguma Station,Buguma,,"80,626,082,590.00",04:28,,On-Time,,"80,626,082,590.00",1,2,1,TRUE,Buguma Station
+49718,passenger,No,11,Wals-Siezenheim Station,,Wals-Siezenheim Station,Wals-Siezenheim,,"23,453,709,979.00",20:55,,Boarding,,"23,453,709,979.00",0,1,3,TRUE,Wals-Siezenheim Station
+35059,cargo,Yes,55,Sigillo Station,,Sigillo Station,Sigillo,,"65,902,375,196.00",12:48,,On-Time,,"65,902,375,196.00",2,13,16,FALSE,Sigillo Station
+49189,passenger,No,84,Shangla Station,,Shangla Station,Shangla,,"27,672,939,101.00",00:32,,On-Time,,"27,672,939,101.00",1,11,15,FALSE,Shangla Station
+1122,passenger,No,70,Chimbote Station,,Chimbote Station,Chimbote,,"97,240,184,627.00",21:26,,Boarding,,"97,240,184,627.00",0,9,4,FALSE,Chimbote Station
+87870,cargo,No,70,Tlaquepaque Station,,Tlaquepaque Station,Tlaquepaque,,"79,595,331,780.00",21:40,,Arrived,,"79,595,331,780.00",1,6,4,TRUE,Tlaquepaque Station
+70388,passenger,No,86,Fresno Station,,Fresno Station,Fresno,,"31,620,093,259.00",18:42,,Early,,"31,620,093,259.00",1,12,14,TRUE,Fresno Station
+53849,cargo,No,87,Lima Station,,Lima Station,Lima,,"19,743,466,214.00",21:02,,On-Time,,"19,743,466,214.00",0,13,12,FALSE,Lima Station
+64604,passenger,Yes,67,Tucson Station,,Tucson Station,Tucson,,"19,778,189,351.00",13:18,,On-Time,,"19,778,189,351.00",1,6,9,TRUE,Tucson Station
+5573,passenger,No,72,Develi Station,,Develi Station,Develi,,"6,186,978,557.00",13:57,,Scheduled,,"6,186,978,557.00",1,11,10,FALSE,Develi Station
+15115,cargo,No,53,Tula Station,,Tula Station,Tula,,"7,582,302,514.00",21:22,,On-Time,,"7,582,302,514.00",0,14,14,TRUE,Tula Station
+70314,cargo,Yes,89,Boryeong Station,,Boryeong Station,Boryeong,,"30,643,545,867.00",07:48,,Early,,"30,643,545,867.00",1,9,17,TRUE,Boryeong Station
+60982,cargo,No,57,Santander Station,,Santander Station,Santander,,"46,789,841,782.00",14:35,,Scheduled,,"46,789,841,782.00",0,19,18,TRUE,Santander Station
+1761,cargo,No,38,Warszawa Station,,Warszawa Station,Warszawa,,"97,852,522,151.00",05:45,,Scheduled,,"97,852,522,151.00",1,12,20,TRUE,Warszawa Station
+78632,cargo,Yes,46,Bremen Station,,Bremen Station,Bremen,,"40,803,575,740.00",06:30,,Boarding,,"40,803,575,740.00",1,8,11,FALSE,Bremen Station
+85267,cargo,Yes,21,TehuacÃ¡n Station,,TehuacÃ¡n Station,TehuacÃ¡n,,"73,293,875,468.00",23:23,,Boarding,,"73,293,875,468.00",1,10,16,FALSE,TehuacÃ¡n Station
+70140,passenger,Yes,68,Beausejour Station,,Beausejour Station,Beausejour,,"18,381,688,328.00",22:15,,Early,,"18,381,688,328.00",0,13,4,FALSE,Beausejour Station
+76686,passenger,No,87,Uiwang Station,,Uiwang Station,Uiwang,,"56,544,597,323.00",15:07,,Early,,"56,544,597,323.00",1,3,11,FALSE,Uiwang Station
+12128,cargo,Yes,18,Londrina Station,,Londrina Station,Londrina,,"40,859,856,967.00",07:21,,On-Time,,"40,859,856,967.00",2,2,18,TRUE,Londrina Station
+72498,passenger,Yes,59,Richmond Station,,Richmond Station,Richmond,,"30,454,244,890.00",15:11,,Early,,"30,454,244,890.00",0,20,9,FALSE,Richmond Station
+27278,cargo,No,79,Henderson Station,,Henderson Station,Henderson,,"78,159,632,972.00",21:29,,On-Time,,"78,159,632,972.00",0,13,14,TRUE,Henderson Station
+13382,passenger,Yes,21,Colchester Station,,Colchester Station,Colchester,,"52,494,313,130.00",20:44,,Early,,"52,494,313,130.00",2,18,16,TRUE,Colchester Station
+99683,passenger,Yes,97,Nicoya Station,,Nicoya Station,Nicoya,,"48,489,015,102.00",08:45,,On-Time,,"48,489,015,102.00",1,7,5,TRUE,Nicoya Station
+77985,passenger,No,81,Obertshausen Station,,Obertshausen Station,Obertshausen,,"88,611,009,006.00",17:15,,On-Time,,"88,611,009,006.00",0,17,9,TRUE,Obertshausen Station
+18882,passenger,No,85,Murcia Station,,Murcia Station,Murcia,,"75,047,015,219.00",14:39,,Boarding,,"75,047,015,219.00",2,4,18,FALSE,Murcia Station
+2949,passenger,No,75,Saint-Ã‰tienne-du-Rouvray Station,,Saint-Ã‰tienne-du-Rouvray Station,Saint-Ã‰tienne-du-Rouvray,,"38,099,180,886.00",04:39,,Early,,"38,099,180,886.00",2,12,5,TRUE,Saint-Ã‰tienne-du-Rouvray Station
+97464,passenger,No,71,Zittau Station,,Zittau Station,Zittau,,"12,948,064,954.00",09:18,,Early,,"12,948,064,954.00",1,3,1,TRUE,Zittau Station
+9814,passenger,No,28,Falmouth Station,,Falmouth Station,Falmouth,,"41,281,026,211.00",19:01,,Scheduled,,"41,281,026,211.00",0,11,3,FALSE,Falmouth Station
+45321,passenger,No,16,Sujawal Station,,Sujawal Station,Sujawal,,"77,630,282,692.00",14:26,,On-Time,,"77,630,282,692.00",0,15,6,TRUE,Sujawal Station
+54651,passenger,No,89,Gyeongju Station,,Gyeongju Station,Gyeongju,,"66,244,490,523.00",19:18,,Boarding,,"66,244,490,523.00",1,10,12,TRUE,Gyeongju Station
+10043,cargo,Yes,76,Makassar Station,,Makassar Station,Makassar,,"76,552,666,976.00",04:26,,Arrived,,"76,552,666,976.00",1,7,2,TRUE,Makassar Station
+50287,cargo,No,92,Melilla Station,,Melilla Station,Melilla,,"19,888,841,400.00",09:53,,On-Time,,"19,888,841,400.00",0,7,7,FALSE,Melilla Station
+8827,passenger,No,48,A CoruÃ±a Station,,A CoruÃ±a Station,A CoruÃ±a,,"52,845,274,170.00",22:40,,Early,,"52,845,274,170.00",2,17,6,FALSE,A CoruÃ±a Station
+31963,passenger,Yes,47,Lodhran Station,,Lodhran Station,Lodhran,,"85,421,463,967.00",06:40,,Early,,"85,421,463,967.00",1,13,10,FALSE,Lodhran Station
+72390,passenger,No,52,Ajaccio Station,,Ajaccio Station,Ajaccio,,"34,331,952,612.00",08:28,,Arrived,,"34,331,952,612.00",1,9,18,TRUE,Ajaccio Station
+45655,cargo,No,71,Erode Station,,Erode Station,Erode,,"31,111,784,150.00",16:03,,On-Time,,"31,111,784,150.00",1,2,19,FALSE,Erode Station
+68278,passenger,No,14,Puno Station,,Puno Station,Puno,,"8,754,000,738.00",12:39,,On-Time,,"8,754,000,738.00",1,5,7,FALSE,Puno Station
+131,cargo,Yes,42,Hong Kong Station,,Hong Kong Station,Hong Kong,,"33,003,579,863.00",12:33,,On-Time,,"33,003,579,863.00",1,18,5,FALSE,Hong Kong Station
+77533,cargo,Yes,63,Gansu Station,,Gansu Station,Gansu,,"17,784,312,340.00",09:28,,On-Time,,"17,784,312,340.00",1,14,20,FALSE,Gansu Station
+88055,passenger,No,48,Scheggino Station,,Scheggino Station,Scheggino,,"46,367,758,920.00",05:37,,Early,,"46,367,758,920.00",1,17,20,TRUE,Scheggino Station
+1965,cargo,Yes,41,Owerri Station,,Owerri Station,Owerri,,"41,507,431,295.00",18:20,,Scheduled,,"41,507,431,295.00",1,15,11,FALSE,Owerri Station
+39905,cargo,No,27,Stratford Station,,Stratford Station,Stratford,,"58,784,304,320.00",22:40,,On-Time,,"58,784,304,320.00",2,8,10,TRUE,Stratford Station
+45527,passenger,Yes,41,Sicuani Station,,Sicuani Station,Sicuani,,"84,743,046,797.00",06:57,,On-Time,,"84,743,046,797.00",1,19,9,FALSE,Sicuani Station
+2721,passenger,Yes,38,Hazaribag Station,,Hazaribag Station,Hazaribag,,"97,874,911,323.00",14:38,,Scheduled,,"97,874,911,323.00",1,2,10,TRUE,Hazaribag Station
+16274,cargo,Yes,29,Subbiano Station,,Subbiano Station,Subbiano,,"52,603,326,934.00",12:55,,Boarding,,"52,603,326,934.00",1,0,20,FALSE,Subbiano Station
+97158,passenger,Yes,15,Belgrave Station,,Belgrave Station,Belgrave,,"66,362,807,626.00",03:41,,Boarding,,"66,362,807,626.00",1,6,1,TRUE,Belgrave Station
+65805,cargo,No,23,Lipetsk Station,,Lipetsk Station,Lipetsk,,"89,980,394,448.00",02:39,,On-Time,,"89,980,394,448.00",2,3,16,FALSE,Lipetsk Station
+81218,cargo,Yes,23,Valdivia Station,,Valdivia Station,Valdivia,,"52,765,890,484.00",01:38,,Boarding,,"52,765,890,484.00",1,11,11,TRUE,Valdivia Station
+93216,cargo,No,23,Hawick Station,,Hawick Station,Hawick,,"53,239,521,978.00",12:37,,Early,,"53,239,521,978.00",1,10,2,TRUE,Hawick Station
+29905,passenger,No,65,Sokoto Station,,Sokoto Station,Sokoto,,"50,230,723,310.00",02:54,,On-Time,,"50,230,723,310.00",2,2,9,FALSE,Sokoto Station
+92364,cargo,No,53,Charlottetown Station,,Charlottetown Station,Charlottetown,,"60,815,269,689.00",22:48,,Early,,"60,815,269,689.00",0,4,20,FALSE,Charlottetown Station
+18545,passenger,No,13,Asan Station,,Asan Station,Asan,,"40,862,046,368.00",09:22,,Arrived,,"40,862,046,368.00",2,10,16,TRUE,Asan Station
+35178,passenger,No,70,Silvassa Station,,Silvassa Station,Silvassa,,"94,621,664,057.00",19:38,,Scheduled,,"94,621,664,057.00",1,11,15,FALSE,Silvassa Station
+14259,cargo,Yes,70,Shaanxi Station,,Shaanxi Station,Shaanxi,,"87,616,903,756.00",01:30,,On-Time,,"87,616,903,756.00",2,18,7,FALSE,Shaanxi Station
+82736,passenger,Yes,19,Chiclayo Station,,Chiclayo Station,Chiclayo,,"89,708,830,707.00",10:34,,Early,,"89,708,830,707.00",0,11,19,TRUE,Chiclayo Station
+52033,passenger,Yes,62,Temploux Station,,Temploux Station,Temploux,,"54,873,739,613.00",01:56,,Early,,"54,873,739,613.00",1,7,13,TRUE,Temploux Station
+37642,passenger,No,64,Hoeilaart Station,,Hoeilaart Station,Hoeilaart,,"71,737,246,460.00",12:31,,On-Time,,"71,737,246,460.00",0,11,5,FALSE,Hoeilaart Station
+81920,passenger,No,74,Krasnozavodsk Station,,Krasnozavodsk Station,Krasnozavodsk,,"90,049,077,521.00",12:26,,Boarding,,"90,049,077,521.00",0,11,6,FALSE,Krasnozavodsk Station
+50642,cargo,Yes,88,Roveredo in Piano Station,,Roveredo in Piano Station,Roveredo in Piano,,"71,613,477,661.00",23:32,,On-Time,,"71,613,477,661.00",1,10,3,TRUE,Roveredo in Piano Station
+97903,cargo,Yes,40,Saravena Station,,Saravena Station,Saravena,,"39,134,296,749.00",14:51,,Scheduled,,"39,134,296,749.00",0,7,3,FALSE,Saravena Station
+92915,cargo,Yes,57,Henis Station,,Henis Station,Henis,,"66,291,460,023.00",10:53,,On-Time,,"66,291,460,023.00",2,14,10,TRUE,Henis Station
+59714,cargo,No,79,Banjarbaru Station,,Banjarbaru Station,Banjarbaru,,"28,983,180,877.00",03:18,,Arrived,,"28,983,180,877.00",1,6,16,FALSE,Banjarbaru Station
+33503,passenger,No,37,YÃªn BÃ¡i Station,,YÃªn BÃ¡i Station,YÃªn BÃ¡i,,"89,332,441,470.00",15:30,,Boarding,,"89,332,441,470.00",1,8,3,TRUE,YÃªn BÃ¡i Station
+82997,cargo,No,89,Laguna Blanca Station,,Laguna Blanca Station,Laguna Blanca,,"60,921,202,376.00",06:40,,Early,,"60,921,202,376.00",0,18,15,FALSE,Laguna Blanca Station
+28970,passenger,Yes,28,Leonding Station,,Leonding Station,Leonding,,"16,710,734,171.00",12:26,,Scheduled,,"16,710,734,171.00",0,6,1,FALSE,Leonding Station
+59269,passenger,Yes,29,Tidore Station,,Tidore Station,Tidore,,"24,179,063,360.00",18:29,,Scheduled,,"24,179,063,360.00",2,19,6,FALSE,Tidore Station
+74445,cargo,Yes,77,Sierning Station,,Sierning Station,Sierning,,"49,839,205,232.00",23:49,,Scheduled,,"49,839,205,232.00",0,4,13,FALSE,Sierning Station
+72690,passenger,No,60,AcacÃ­as Station,,AcacÃ­as Station,AcacÃ­as,,"65,196,316,228.00",11:23,,On-Time,,"65,196,316,228.00",1,20,10,FALSE,AcacÃ­as Station
+24310,cargo,No,45,Vinh Station,,Vinh Station,Vinh,,"13,215,065,171.00",04:01,,Early,,"13,215,065,171.00",1,8,12,FALSE,Vinh Station
+88410,passenger,No,46,Sneek Station,,Sneek Station,Sneek,,"44,963,998,327.00",22:21,,Boarding,,"44,963,998,327.00",1,2,3,FALSE,Sneek Station
+64966,passenger,No,67,Tynda Station,,Tynda Station,Tynda,,"43,394,878,815.00",15:10,,Early,,"43,394,878,815.00",0,2,15,FALSE,Tynda Station
+58769,cargo,No,12,Santa Rosa de Cabal Station,,Santa Rosa de Cabal Station,Santa Rosa de Cabal,,"79,245,378,694.00",14:09,,Early,,"79,245,378,694.00",1,4,3,TRUE,Santa Rosa de Cabal Station
+6968,cargo,No,70,BelÃ©m Station,,BelÃ©m Station,BelÃ©m,,"98,416,654,715.00",23:21,,Early,,"98,416,654,715.00",1,15,18,FALSE,BelÃ©m Station
+56871,cargo,No,33,Enschede Station,,Enschede Station,Enschede,,"8,304,549,079.00",08:19,,Early,,"8,304,549,079.00",1,12,10,TRUE,Enschede Station
+40975,passenger,Yes,30,Uribia Station,,Uribia Station,Uribia,,"70,396,487,532.00",00:07,,Early,,"70,396,487,532.00",2,14,8,TRUE,Uribia Station
+47225,cargo,Yes,64,Nuevo Laredo Station,,Nuevo Laredo Station,Nuevo Laredo,,"87,340,942,228.00",21:24,,Early,,"87,340,942,228.00",0,19,1,TRUE,Nuevo Laredo Station
+95793,cargo,Yes,82,Singkawang Station,,Singkawang Station,Singkawang,,"15,328,521,104.00",15:07,,Boarding,,"15,328,521,104.00",0,4,11,TRUE,Singkawang Station
+96858,cargo,No,18,Adelaide Station,,Adelaide Station,Adelaide,,"31,224,686,636.00",20:56,,Early,,"31,224,686,636.00",2,4,17,TRUE,Adelaide Station
+45266,passenger,No,54,Lauterach Station,,Lauterach Station,Lauterach,,"26,136,403,724.00",03:05,,On-Time,,"26,136,403,724.00",1,18,15,FALSE,Lauterach Station
+26971,cargo,Yes,93,Zaria Station,,Zaria Station,Zaria,,"98,428,558,418.00",19:51,,Early,,"98,428,558,418.00",1,9,11,TRUE,Zaria Station
+94040,cargo,Yes,99,Mol Station,,Mol Station,Mol,,"99,265,926,542.00",12:12,,On-Time,,"99,265,926,542.00",1,12,14,TRUE,Mol Station
+64517,passenger,No,96,Trivandrum Station,,Trivandrum Station,Trivandrum,,"63,705,285,676.00",02:57,,On-Time,,"63,705,285,676.00",1,18,3,FALSE,Trivandrum Station
+37136,passenger,No,87,HÃ Ná»™i Station,,HÃ Ná»™i Station,HÃ Ná»™i,,"50,846,211,682.00",14:04,,Boarding,,"50,846,211,682.00",0,13,18,FALSE,HÃ Ná»™i Station
+33859,cargo,No,18,Okigwe Station,,Okigwe Station,Okigwe,,"4,721,571,407.00",12:23,,Early,,"4,721,571,407.00",1,8,12,FALSE,Okigwe Station
+36887,passenger,Yes,70,Pugwash Station,,Pugwash Station,Pugwash,,"64,995,950,881.00",12:38,,Arrived,,"64,995,950,881.00",1,15,19,TRUE,Pugwash Station
+74718,cargo,No,27,San NicolÃ¡s Station,,San NicolÃ¡s Station,San NicolÃ¡s,,"88,390,730,153.00",18:27,,Arrived,,"88,390,730,153.00",2,14,10,FALSE,San NicolÃ¡s Station
+7404,cargo,No,32,Srinagar Station,,Srinagar Station,Srinagar,,"59,783,837,184.00",12:31,,Arrived,,"59,783,837,184.00",0,18,3,TRUE,Srinagar Station
+53345,passenger,No,30,Gorinchem Station,,Gorinchem Station,Gorinchem,,"80,748,836,749.00",19:37,,Boarding,,"80,748,836,749.00",0,10,3,FALSE,Gorinchem Station
+54187,cargo,Yes,30,Jefferson City Station,,Jefferson City Station,Jefferson City,,"62,200,755,374.00",20:51,,Arrived,,"62,200,755,374.00",1,4,2,TRUE,Jefferson City Station
+6007,cargo,No,84,MjÃ¶lby Station,,MjÃ¶lby Station,MjÃ¶lby,,"75,779,325,873.00",14:18,,Early,,"75,779,325,873.00",1,6,5,FALSE,MjÃ¶lby Station
+31531,cargo,No,64,Jiangxi Station,,Jiangxi Station,Jiangxi,,"49,871,659,001.00",14:16,,Boarding,,"49,871,659,001.00",1,4,6,TRUE,Jiangxi Station
+63805,cargo,Yes,88,Calamar Station,,Calamar Station,Calamar,,"80,243,675,378.00",16:19,,On-Time,,"80,243,675,378.00",1,3,8,TRUE,Calamar Station
+21066,passenger,No,17,Soria Station,,Soria Station,Soria,,"85,557,259,875.00",19:02,,On-Time,,"85,557,259,875.00",1,8,16,TRUE,Soria Station
+6537,passenger,Yes,90,ChepÃ©n Station,,ChepÃ©n Station,ChepÃ©n,,"10,385,558,104.00",20:17,,Early,,"10,385,558,104.00",0,6,16,FALSE,ChepÃ©n Station
+3923,passenger,No,90,Montague Station,,Montague Station,Montague,,"65,130,291,303.00",01:47,,Boarding,,"65,130,291,303.00",0,11,13,FALSE,Montague Station
+68420,passenger,Yes,79,Girona Station,,Girona Station,Girona,,"75,049,732,170.00",12:53,,On-Time,,"75,049,732,170.00",1,7,16,FALSE,Girona Station
+44885,passenger,Yes,56,Cittanova Station,,Cittanova Station,Cittanova,,"62,867,972,057.00",02:41,,Scheduled,,"62,867,972,057.00",2,12,7,TRUE,Cittanova Station
+59221,passenger,No,21,Piracicaba Station,,Piracicaba Station,Piracicaba,,"42,695,006,782.00",16:22,,Boarding,,"42,695,006,782.00",1,19,3,FALSE,Piracicaba Station
+12696,cargo,No,87,Äiá»‡n BiÃªn Phá»§ Station,,Äiá»‡n BiÃªn Phá»§ Station,Äiá»‡n BiÃªn Phá»§,,"89,097,059,619.00",18:47,,Arrived,,"89,097,059,619.00",2,18,7,FALSE,Äiá»‡n BiÃªn Phá»§ Station
+87257,passenger,Yes,12,Dera Bugti Station,,Dera Bugti Station,Dera Bugti,,"18,289,375,279.00",18:16,,Boarding,,"18,289,375,279.00",1,18,20,FALSE,Dera Bugti Station
+69040,cargo,No,87,Bucheon Station,,Bucheon Station,Bucheon,,"11,759,946,036.00",13:40,,Boarding,,"11,759,946,036.00",0,9,14,TRUE,Bucheon Station
+54360,passenger,No,97,Buner Station,,Buner Station,Buner,,"12,202,831,789.00",03:34,,Boarding,,"12,202,831,789.00",0,2,14,TRUE,Buner Station
+13657,passenger,Yes,32,Dijon Station,,Dijon Station,Dijon,,"67,100,275,398.00",23:57,,Scheduled,,"67,100,275,398.00",2,16,7,FALSE,Dijon Station
+21373,cargo,No,46,Zwickau Station,,Zwickau Station,Zwickau,,"46,332,813,501.00",09:29,,Early,,"46,332,813,501.00",2,18,2,FALSE,Zwickau Station
+61275,passenger,No,65,ErciÅŸ Station,,ErciÅŸ Station,ErciÅŸ,,"7,133,143,391.00",03:24,,On-Time,,"7,133,143,391.00",1,18,18,FALSE,ErciÅŸ Station
+25586,cargo,No,49,Vezzi Portio Station,,Vezzi Portio Station,Vezzi Portio,,"90,004,565,161.00",17:24,,Boarding,,"90,004,565,161.00",1,19,16,TRUE,Vezzi Portio Station
+451,cargo,No,38,Riosucio Station,,Riosucio Station,Riosucio,,"79,259,574,979.00",21:14,,Boarding,,"79,259,574,979.00",0,11,7,FALSE,Riosucio Station
+41767,passenger,Yes,49,Ergani Station,,Ergani Station,Ergani,,"14,827,452,590.00",20:59,,Boarding,,"14,827,452,590.00",1,20,2,TRUE,Ergani Station
+25162,passenger,No,36,Chapadinha Station,,Chapadinha Station,Chapadinha,,"81,562,688,152.00",08:26,,Arrived,,"81,562,688,152.00",1,17,17,FALSE,Chapadinha Station
+58723,passenger,No,95,Cottbus Station,,Cottbus Station,Cottbus,,"92,335,599,326.00",00:10,,Boarding,,"92,335,599,326.00",1,10,1,FALSE,Cottbus Station
+32935,passenger,Yes,91,Busan Station,,Busan Station,Busan,,"11,484,804,996.00",16:21,,Boarding,,"11,484,804,996.00",0,10,8,TRUE,Busan Station
+52401,cargo,No,71,Santiago Station,,Santiago Station,Santiago,,"18,394,768,059.00",11:23,,Scheduled,,"18,394,768,059.00",1,6,4,TRUE,Santiago Station
+17625,passenger,No,98,Telfs Station,,Telfs Station,Telfs,,"62,919,624,489.00",13:45,,Arrived,,"62,919,624,489.00",0,14,17,FALSE,Telfs Station
+7822,cargo,No,76,Gols Station,,Gols Station,Gols,,"15,107,816,669.00",04:16,,Early,,"15,107,816,669.00",1,17,9,FALSE,Gols Station
+42306,passenger,Yes,46,Campbellton Station,,Campbellton Station,Campbellton,,"934,495,131.00",17:54,,Boarding,,"934,495,131.00",1,6,18,TRUE,Campbellton Station
+36693,passenger,No,36,Neustrelitz Station,,Neustrelitz Station,Neustrelitz,,"96,746,912,572.00",07:38,,Boarding,,"96,746,912,572.00",0,8,2,TRUE,Neustrelitz Station
+63613,cargo,Yes,95,VÃ¤rnamo Station,,VÃ¤rnamo Station,VÃ¤rnamo,,"21,125,968,819.00",16:36,,Boarding,,"21,125,968,819.00",1,9,15,FALSE,VÃ¤rnamo Station
+64900,cargo,No,68,Kalisz Station,,Kalisz Station,Kalisz,,"58,072,458,251.00",13:36,,Arrived,,"58,072,458,251.00",1,14,15,FALSE,Kalisz Station
+21492,cargo,Yes,39,TrognÅ½e Station,,TrognÅ½e Station,TrognÅ½e,,"57,214,491,429.00",01:14,,Arrived,,"57,214,491,429.00",2,3,4,TRUE,TrognÅ½e Station
+9638,cargo,No,13,San Pablo Station,,San Pablo Station,San Pablo,,"74,015,544,603.00",17:11,,Scheduled,,"74,015,544,603.00",1,8,12,FALSE,San Pablo Station
+56870,cargo,No,65,Mozhaysk Station,,Mozhaysk Station,Mozhaysk,,"7,786,948,008.00",01:01,,Boarding,,"7,786,948,008.00",2,4,3,FALSE,Mozhaysk Station
+34189,cargo,Yes,33,FrÃ©jus Station,,FrÃ©jus Station,FrÃ©jus,,"68,074,882,082.00",05:56,,Early,,"68,074,882,082.00",2,11,5,TRUE,FrÃ©jus Station
+89424,passenger,No,94,Iquitos Station,,Iquitos Station,Iquitos,,"12,809,322,341.00",06:41,,On-Time,,"12,809,322,341.00",1,8,12,TRUE,Iquitos Station
+15942,cargo,Yes,98,Pskov Station,,Pskov Station,Pskov,,"59,481,692,156.00",23:43,,Boarding,,"59,481,692,156.00",1,2,15,FALSE,Pskov Station
+83567,cargo,Yes,94,Chesapeake Station,,Chesapeake Station,Chesapeake,,"17,293,004,439.00",06:27,,On-Time,,"17,293,004,439.00",1,14,20,FALSE,Chesapeake Station
+74784,passenger,No,10,O'Higgins Station,,O'Higgins Station,O'Higgins,,"85,361,749,682.00",13:58,,Boarding,,"85,361,749,682.00",1,2,13,FALSE,O'Higgins Station
+93805,passenger,Yes,37,Mexicali Station,,Mexicali Station,Mexicali,,"47,290,870,198.00",08:56,,Scheduled,,"47,290,870,198.00",1,8,0,FALSE,Mexicali Station
+57294,cargo,Yes,60,Ã…kersberga Station,,Ã…kersberga Station,Ã…kersberga,,"54,744,493,966.00",07:33,,Arrived,,"54,744,493,966.00",1,13,4,TRUE,Ã…kersberga Station
+38194,cargo,Yes,96,Welshpool Station,,Welshpool Station,Welshpool,,"67,854,506,885.00",08:22,,On-Time,,"67,854,506,885.00",2,17,9,TRUE,Welshpool Station
+48185,passenger,No,18,LongavÃ­ Station,,LongavÃ­ Station,LongavÃ­,,"32,375,000,269.00",01:38,,Early,,"32,375,000,269.00",1,10,2,TRUE,LongavÃ­ Station
+49695,cargo,Yes,27,Thanh HÃ³a Station,,Thanh HÃ³a Station,Thanh HÃ³a,,"73,141,254,094.00",19:08,,Boarding,,"73,141,254,094.00",1,2,17,FALSE,Thanh HÃ³a Station
+29019,passenger,Yes,29,Los Patios Station,,Los Patios Station,Los Patios,,"12,209,818,627.00",17:33,,Boarding,,"12,209,818,627.00",1,4,4,TRUE,Los Patios Station
+38029,cargo,Yes,37,GÃ¼strow Station,,GÃ¼strow Station,GÃ¼strow,,"21,412,718,321.00",10:25,,On-Time,,"21,412,718,321.00",0,1,5,FALSE,GÃ¼strow Station
+73619,cargo,No,49,Melton Station,,Melton Station,Melton,,"66,953,917,542.00",18:01,,Arrived,,"66,953,917,542.00",1,6,2,TRUE,Melton Station
+81466,cargo,No,93,Qinghai Station,,Qinghai Station,Qinghai,,"99,256,753,142.00",21:55,,On-Time,,"99,256,753,142.00",2,19,11,TRUE,Qinghai Station
+83101,passenger,Yes,85,Jhang Station,,Jhang Station,Jhang,,"47,170,740,236.00",03:29,,Boarding,,"47,170,740,236.00",1,8,9,TRUE,Jhang Station
+12281,passenger,Yes,80,Reynosa Station,,Reynosa Station,Reynosa,,"12,216,065,625.00",03:56,,Arrived,,"12,216,065,625.00",0,3,15,TRUE,Reynosa Station
+2605,cargo,Yes,60,Mandi Bahauddin Station,,Mandi Bahauddin Station,Mandi Bahauddin,,"86,956,808,440.00",01:45,,Early,,"86,956,808,440.00",0,8,4,FALSE,Mandi Bahauddin Station
+29532,passenger,Yes,72,Edremit Station,,Edremit Station,Edremit,,"65,730,256,529.00",09:31,,On-Time,,"65,730,256,529.00",0,8,12,FALSE,Edremit Station
+24130,cargo,No,100,Cali Station,,Cali Station,Cali,,"11,516,157,172.00",01:39,,Early,,"11,516,157,172.00",0,11,13,TRUE,Cali Station
+60464,cargo,No,45,Saalfelden am Steinernen Meer Station,,Saalfelden am Steinernen Meer Station,Saalfelden am Steinernen Meer,,"44,850,187,955.00",14:38,,On-Time,,"44,850,187,955.00",1,15,15,TRUE,Saalfelden am Steinernen Meer Station
+97710,cargo,Yes,61,Kemerovo Station,,Kemerovo Station,Kemerovo,,"71,761,906,947.00",14:16,,Early,,"71,761,906,947.00",2,5,15,FALSE,Kemerovo Station
+50210,passenger,Yes,62,Ceyhan Station,,Ceyhan Station,Ceyhan,,"18,047,808,439.00",12:06,,Early,,"18,047,808,439.00",1,11,9,FALSE,Ceyhan Station
+96019,cargo,No,59,Sfruz Station,,Sfruz Station,Sfruz,,"26,905,953,305.00",13:17,,Early,,"26,905,953,305.00",1,12,18,TRUE,Sfruz Station
+41697,passenger,No,93,Ebenthal in KÃ¤rnten Station,,Ebenthal in KÃ¤rnten Station,Ebenthal in KÃ¤rnten,,"15,343,608,819.00",15:34,,Early,,"15,343,608,819.00",1,4,16,TRUE,Ebenthal in KÃ¤rnten Station
+77855,cargo,Yes,84,MÃ©rida Station,,MÃ©rida Station,MÃ©rida,,"44,300,525,128.00",15:46,,Early,,"44,300,525,128.00",1,15,19,TRUE,MÃ©rida Station
+70639,cargo,Yes,37,Belcarra Station,,Belcarra Station,Belcarra,,"97,771,117,029.00",00:31,,Early,,"97,771,117,029.00",1,0,12,TRUE,Belcarra Station
+81015,cargo,Yes,91,ColbÃºn Station,,ColbÃºn Station,ColbÃºn,,"60,684,476,104.00",09:52,,On-Time,,"60,684,476,104.00",1,11,19,TRUE,ColbÃºn Station
+69417,cargo,Yes,37,Palmerston Station,,Palmerston Station,Palmerston,,"6,066,983,076.00",00:36,,Boarding,,"6,066,983,076.00",1,8,10,FALSE,Palmerston Station
+48456,cargo,Yes,32,Cardedu Station,,Cardedu Station,Cardedu,,"93,287,757,797.00",02:25,,On-Time,,"93,287,757,797.00",0,4,3,TRUE,Cardedu Station
+550,cargo,No,58,Cheonan Station,,Cheonan Station,Cheonan,,"73,741,942,376.00",15:59,,On-Time,,"73,741,942,376.00",1,7,8,FALSE,Cheonan Station
+50170,cargo,Yes,83,Louisville Station,,Louisville Station,Louisville,,"37,395,824,414.00",03:56,,Early,,"37,395,824,414.00",2,16,16,TRUE,Louisville Station
+91118,cargo,Yes,72,Munich Station,,Munich Station,Munich,,"84,634,853,086.00",13:02,,Early,,"84,634,853,086.00",1,1,19,FALSE,Munich Station
+76912,passenger,Yes,55,Campos dos Goytacazes Station,,Campos dos Goytacazes Station,Campos dos Goytacazes,,"35,576,493,738.00",07:51,,On-Time,,"35,576,493,738.00",2,2,15,FALSE,Campos dos Goytacazes Station
+99675,cargo,No,78,BorlÃ¤nge Station,,BorlÃ¤nge Station,BorlÃ¤nge,,"48,090,736,272.00",19:37,,Arrived,,"48,090,736,272.00",1,9,3,TRUE,BorlÃ¤nge Station
+65397,passenger,No,66,Tarma Station,,Tarma Station,Tarma,,"23,726,034,624.00",21:19,,On-Time,,"23,726,034,624.00",1,20,19,TRUE,Tarma Station
+71645,cargo,No,61,CuliacÃ¡n Station,,CuliacÃ¡n Station,CuliacÃ¡n,,"99,851,081,344.00",02:40,,Boarding,,"99,851,081,344.00",1,12,11,TRUE,CuliacÃ¡n Station
+83341,cargo,No,32,Ipswich Station,,Ipswich Station,Ipswich,,"20,394,385,205.00",10:10,,Scheduled,,"20,394,385,205.00",0,20,20,FALSE,Ipswich Station
+51968,passenger,Yes,84,Erchie Station,,Erchie Station,Erchie,,"69,060,381,663.00",10:31,,Early,,"69,060,381,663.00",2,12,11,TRUE,Erchie Station
+75196,passenger,Yes,45,Zapallar Station,,Zapallar Station,Zapallar,,"89,024,363,705.00",02:24,,Arrived,,"89,024,363,705.00",2,9,14,TRUE,Zapallar Station
+17881,passenger,No,64,Suwon Station,,Suwon Station,Suwon,,"32,388,390,189.00",21:09,,Boarding,,"32,388,390,189.00",0,14,7,FALSE,Suwon Station
+43160,cargo,Yes,70,Báº¯c Giang Station,,Báº¯c Giang Station,Báº¯c Giang,,"9,130,650,025.00",22:10,,On-Time,,"9,130,650,025.00",1,16,5,FALSE,Báº¯c Giang Station
+65249,cargo,No,19,ValÃ©ncia Station,,ValÃ©ncia Station,ValÃ©ncia,,"14,726,594,356.00",02:14,,Scheduled,,"14,726,594,356.00",2,19,12,TRUE,ValÃ©ncia Station
+98809,passenger,Yes,15,BorÃ¥s Station,,BorÃ¥s Station,BorÃ¥s,,"19,247,518,240.00",14:32,,Early,,"19,247,518,240.00",2,17,9,TRUE,BorÃ¥s Station
+53164,passenger,Yes,97,Okpoko Station,,Okpoko Station,Okpoko,,"9,868,130,851.00",15:52,,On-Time,,"9,868,130,851.00",1,17,1,TRUE,Okpoko Station
+4477,cargo,No,38,Samsun Station,,Samsun Station,Samsun,,"68,526,216,305.00",17:49,,Arrived,,"68,526,216,305.00",1,10,18,TRUE,Samsun Station
+24162,cargo,Yes,64,Woerden Station,,Woerden Station,Woerden,,"81,765,914,647.00",11:04,,On-Time,,"81,765,914,647.00",2,15,9,FALSE,Woerden Station
+5149,passenger,No,68,Santa Cruz de Tenerife Station,,Santa Cruz de Tenerife Station,Santa Cruz de Tenerife,,"82,897,918,662.00",06:56,,Boarding,,"82,897,918,662.00",1,14,11,TRUE,Santa Cruz de Tenerife Station
+32760,cargo,No,30,Voronezh Station,,Voronezh Station,Voronezh,,"34,170,289,169.00",14:12,,Boarding,,"34,170,289,169.00",1,19,15,FALSE,Voronezh Station
+28235,passenger,Yes,32,Linz Station,,Linz Station,Linz,,"95,967,409,390.00",19:34,,Boarding,,"95,967,409,390.00",1,13,8,TRUE,Linz Station
+77483,cargo,Yes,16,Whitehaven Station,,Whitehaven Station,Whitehaven,,"3,396,406,355.00",07:48,,Arrived,,"3,396,406,355.00",2,13,17,FALSE,Whitehaven Station
+58144,passenger,No,82,Gavirate Station,,Gavirate Station,Gavirate,,"19,072,700,263.00",22:29,,On-Time,,"19,072,700,263.00",1,18,11,FALSE,Gavirate Station
+58018,passenger,No,35,Napier Station,,Napier Station,Napier,,"87,739,954,797.00",16:20,,Early,,"87,739,954,797.00",2,19,20,TRUE,Napier Station
+23197,passenger,Yes,90,Savannah Station,,Savannah Station,Savannah,,"95,677,392,498.00",17:56,,On-Time,,"95,677,392,498.00",0,13,9,TRUE,Savannah Station
+27749,cargo,No,60,Tournefeuille Station,,Tournefeuille Station,Tournefeuille,,"28,040,032,401.00",11:50,,Arrived,,"28,040,032,401.00",1,10,7,FALSE,Tournefeuille Station
+80063,passenger,No,22,Metz Station,,Metz Station,Metz,,"27,783,125,175.00",03:30,,Early,,"27,783,125,175.00",1,2,16,TRUE,Metz Station
+32451,passenger,Yes,84,Rio Verde Station,,Rio Verde Station,Rio Verde,,"12,391,192,268.00",16:57,,Early,,"12,391,192,268.00",0,1,4,FALSE,Rio Verde Station
+85148,cargo,No,96,Serang Station,,Serang Station,Serang,,"67,864,058,882.00",20:29,,Early,,"67,864,058,882.00",0,14,1,TRUE,Serang Station
+96167,passenger,No,85,Dunedin Station,,Dunedin Station,Dunedin,,"23,822,075,057.00",21:36,,On-Time,,"23,822,075,057.00",2,18,11,FALSE,Dunedin Station
+27247,passenger,Yes,91,Wonju Station,,Wonju Station,Wonju,,"47,500,687,406.00",12:49,,Scheduled,,"47,500,687,406.00",1,17,9,FALSE,Wonju Station
+5195,cargo,No,55,Minna Station,,Minna Station,Minna,,"54,978,110,764.00",15:31,,On-Time,,"54,978,110,764.00",1,12,5,TRUE,Minna Station
+80625,cargo,No,32,La Paz Station,,La Paz Station,La Paz,,"73,396,951,828.00",14:31,,Arrived,,"73,396,951,828.00",1,15,2,FALSE,La Paz Station
+68521,passenger,Yes,63,Cartagena Station,,Cartagena Station,Cartagena,,"94,540,258,712.00",09:17,,Arrived,,"94,540,258,712.00",1,15,16,FALSE,Cartagena Station
+61280,passenger,No,55,Veenendaal Station,,Veenendaal Station,Veenendaal,,"60,700,000,000.00",03:22,,Early,,"60,700,000,000.00",2,14,3,TRUE,Veenendaal Station
+21337,passenger,No,63,Lafayette Station,,Lafayette Station,Lafayette,,"9,040,000,000.00",12:15,,Arrived,,"9,040,000,000.00",1,13,7,TRUE,Lafayette Station
+81353,cargo,Yes,74,Sudhanoti Station,,Sudhanoti Station,Sudhanoti,,"16,400,000,000.00",04:08,,Early,,"16,400,000,000.00",1,11,19,TRUE,Sudhanoti Station
+61279,cargo,No,75,Cáº§n ThÆ¡ Station,,Cáº§n ThÆ¡ Station,Cáº§n ThÆ¡,,"61,800,000,000.00",19:03,,Early,,"61,800,000,000.00",2,19,19,FALSE,Cáº§n ThÆ¡ Station
+6290,passenger,No,42,Fujian Station,,Fujian Station,Fujian,,"53,600,000,000.00",20:03,,Boarding,,"53,600,000,000.00",2,8,1,TRUE,Fujian Station
+36597,passenger,Yes,45,Port Lincoln Station,,Port Lincoln Station,Port Lincoln,,"13,200,000,000.00",09:35,,On-Time,,"13,200,000,000.00",0,16,16,FALSE,Port Lincoln Station
+84137,passenger,No,67,Shanghai Station,,Shanghai Station,Shanghai,,"24,400,000,000.00",11:38,,Boarding,,"24,400,000,000.00",1,1,16,FALSE,Shanghai Station
+27598,cargo,Yes,78,Gunsan Station,,Gunsan Station,Gunsan,,"77,400,000,000.00",23:27,,Scheduled,,"77,400,000,000.00",1,19,18,TRUE,Gunsan Station
+37256,passenger,Yes,27,Karacabey Station,,Karacabey Station,Karacabey,,"85,000,000,000.00",04:04,,Early,,"85,000,000,000.00",2,20,4,TRUE,Karacabey Station
+56262,cargo,No,65,Istres Station,,Istres Station,Istres,,"2,920,000,000.00",18:28,,Boarding,,"2,920,000,000.00",1,6,5,FALSE,Istres Station
+68987,passenger,No,83,Bhiwani Station,,Bhiwani Station,Bhiwani,,"22,500,000,000.00",17:50,,On-Time,,"22,500,000,000.00",1,3,0,FALSE,Bhiwani Station
+48883,cargo,No,65,Jeonju Station,,Jeonju Station,Jeonju,,"18,000,000,000.00",13:07,,Early,,"18,000,000,000.00",2,11,10,FALSE,Jeonju Station
+51681,passenger,No,66,Guwahati Station,,Guwahati Station,Guwahati,,"69,200,000,000.00",10:46,,Boarding,,"69,200,000,000.00",1,8,5,FALSE,Guwahati Station
+14169,cargo,No,59,Whangarei Station,,Whangarei Station,Whangarei,,"76,500,000,000.00",01:23,,On-Time,,"76,500,000,000.00",1,13,5,FALSE,Whangarei Station
+12075,cargo,Yes,86,Ä°zmit Station,,Ä°zmit Station,Ä°zmit,,"39,800,000,000.00",22:57,,Arrived,,"39,800,000,000.00",1,3,10,FALSE,Ä°zmit Station
+30086,cargo,No,91,Jeongeup Station,,Jeongeup Station,Jeongeup,,"17,300,000,000.00",22:13,,On-Time,,"17,300,000,000.00",2,15,15,TRUE,Jeongeup Station
+11301,passenger,No,96,Yorkton Station,,Yorkton Station,Yorkton,,"30,800,000,000.00",03:05,,Boarding,,"30,800,000,000.00",2,3,3,FALSE,Yorkton Station
+89337,passenger,No,82,Pelarco Station,,Pelarco Station,Pelarco,,"79,400,000,000.00",14:27,,On-Time,,"79,400,000,000.00",0,19,13,FALSE,Pelarco Station
+39823,cargo,Yes,65,Segovia Station,,Segovia Station,Segovia,,"57,700,000,000.00",06:58,,Early,,"57,700,000,000.00",0,2,15,FALSE,Segovia Station
+30276,cargo,No,16,Altach Station,,Altach Station,Altach,,"11,900,000,000.00",07:44,,Early,,"11,900,000,000.00",0,7,15,FALSE,Altach Station
+74311,cargo,Yes,18,SkÃ¶vde Station,,SkÃ¶vde Station,SkÃ¶vde,,"72,000,000,000.00",17:04,,Early,,"72,000,000,000.00",0,8,8,FALSE,SkÃ¶vde Station
+52240,passenger,Yes,78,DoÃ±ihue Station,,DoÃ±ihue Station,DoÃ±ihue,,"20,000,000,000.00",14:08,,Boarding,,"20,000,000,000.00",1,1,6,FALSE,DoÃ±ihue Station
+97146,passenger,Yes,54,GravataÃ­ Station,,GravataÃ­ Station,GravataÃ­,,"90,800,000,000.00",17:10,,Early,,"90,800,000,000.00",2,6,16,FALSE,GravataÃ­ Station
+83019,passenger,Yes,88,Jecheon Station,,Jecheon Station,Jecheon,,"5,800,000,000.00",20:04,,Boarding,,"5,800,000,000.00",2,2,20,TRUE,Jecheon Station
+14198,passenger,Yes,80,Nazilli Station,,Nazilli Station,Nazilli,,"96,000,000,000.00",10:30,,On-Time,,"96,000,000,000.00",0,3,11,TRUE,Nazilli Station
+93770,cargo,Yes,47,Lewiston Station,,Lewiston Station,Lewiston,,"4,240,000,000.00",15:04,,Arrived,,"4,240,000,000.00",0,9,9,TRUE,Lewiston Station
+38343,cargo,No,82,Coevorden Station,,Coevorden Station,Coevorden,,"59,500,000,000.00",05:02,,On-Time,,"59,500,000,000.00",2,19,0,FALSE,Coevorden Station
+85931,passenger,No,48,Hattem Station,,Hattem Station,Hattem,,"26,000,000,000.00",01:15,,Scheduled,,"26,000,000,000.00",2,19,12,TRUE,Hattem Station
+85986,cargo,No,38,Greenlaw Station,,Greenlaw Station,Greenlaw,,"19,800,000,000.00",13:44,,Early,,"19,800,000,000.00",2,5,18,TRUE,Greenlaw Station
+16779,cargo,No,36,Tuscaloosa Station,,Tuscaloosa Station,Tuscaloosa,,"44,300,000,000.00",10:35,,Scheduled,,"44,300,000,000.00",1,17,13,FALSE,Tuscaloosa Station
+90530,passenger,Yes,92,Conca Casale Station,,Conca Casale Station,Conca Casale,,"5,900,000,000.00",13:36,,Scheduled,,"5,900,000,000.00",2,13,16,TRUE,Conca Casale Station
+17921,cargo,Yes,95,Cumaribo Station,,Cumaribo Station,Cumaribo,,"59,000,000,000.00",12:33,,Scheduled,,"59,000,000,000.00",2,1,19,TRUE,Cumaribo Station
+57080,cargo,No,14,Gisborne Station,,Gisborne Station,Gisborne,,"11,400,000,000.00",02:39,,Arrived,,"11,400,000,000.00",0,5,12,TRUE,Gisborne Station
+97586,passenger,No,91,KhoÃ¡i ChÃ¢u Station,,KhoÃ¡i ChÃ¢u Station,KhoÃ¡i ChÃ¢u,,"50,800,000,000.00",19:38,,Boarding,,"50,800,000,000.00",1,13,16,FALSE,KhoÃ¡i ChÃ¢u Station
+7622,cargo,Yes,55,MarabÃ¡ Station,,MarabÃ¡ Station,MarabÃ¡,,"69,100,000,000.00",22:02,,Early,,"69,100,000,000.00",0,10,1,FALSE,MarabÃ¡ Station
+21922,passenger,No,95,ParaÃ­so Station,,ParaÃ­so Station,ParaÃ­so,,"26,600,000,000.00",02:37,,Scheduled,,"26,600,000,000.00",0,12,8,FALSE,ParaÃ­so Station
+2494,passenger,No,56,Frederick Station,,Frederick Station,Frederick,,"87,300,000,000.00",13:18,,Arrived,,"87,300,000,000.00",2,16,18,FALSE,Frederick Station
+51865,cargo,No,14,Bunbury Station,,Bunbury Station,Bunbury,,"32,900,000,000.00",21:22,,Arrived,,"32,900,000,000.00",1,6,10,FALSE,Bunbury Station
+18709,cargo,No,59,Las Palmas Station,,Las Palmas Station,Las Palmas,,"18,400,000,000.00",11:45,,Scheduled,,"18,400,000,000.00",1,17,19,TRUE,Las Palmas Station
+24496,passenger,No,66,Bilbo Station,,Bilbo Station,Bilbo,,"56,400,000,000.00",11:38,,Arrived,,"56,400,000,000.00",1,8,19,TRUE,Bilbo Station
+35216,cargo,Yes,58,Hallein Station,,Hallein Station,Hallein,,"76,500,000,000.00",07:07,,On-Time,,"76,500,000,000.00",2,11,7,TRUE,Hallein Station
+39397,cargo,No,97,Montignies-sur-Sambre Station,,Montignies-sur-Sambre Station,Montignies-sur-Sambre,,"46,500,000,000.00",23:08,,On-Time,,"46,500,000,000.00",1,10,18,FALSE,Montignies-sur-Sambre Station
+51679,cargo,Yes,30,Natales Station,,Natales Station,Natales,,"39,100,000,000.00",06:23,,Early,,"39,100,000,000.00",1,4,16,TRUE,Natales Station
+73399,passenger,Yes,42,Macau Station,,Macau Station,Macau,,"5,570,000,000.00",02:11,,Boarding,,"5,570,000,000.00",1,6,2,TRUE,Macau Station
+9394,cargo,Yes,22,Port Blair Station,,Port Blair Station,Port Blair,,"73,800,000,000.00",13:42,,Early,,"73,800,000,000.00",1,15,0,FALSE,Port Blair Station
+42971,passenger,Yes,19,Alto Hospicio Station,,Alto Hospicio Station,Alto Hospicio,,"92,600,000,000.00",07:01,,Boarding,,"92,600,000,000.00",2,9,10,TRUE,Alto Hospicio Station
+21368,passenger,No,66,Alto del Carmen Station,,Alto del Carmen Station,Alto del Carmen,,"57,500,000,000.00",11:41,,On-Time,,"57,500,000,000.00",0,13,2,FALSE,Alto del Carmen Station
+99576,cargo,Yes,82,Mielec Station,,Mielec Station,Mielec,,"34,200,000,000.00",00:12,,Early,,"34,200,000,000.00",1,15,15,FALSE,Mielec Station
+97228,passenger,Yes,56,Itanagar Station,,Itanagar Station,Itanagar,,"91,700,000,000.00",02:28,,On-Time,,"91,700,000,000.00",1,6,12,FALSE,Itanagar Station
+60440,passenger,Yes,34,Mamuju Station,,Mamuju Station,Mamuju,,"20,800,000,000.00",07:33,,Early,,"20,800,000,000.00",0,0,2,FALSE,Mamuju Station
+35699,cargo,Yes,20,Portigliola Station,,Portigliola Station,Portigliola,,"35,200,000,000.00",23:06,,Boarding,,"35,200,000,000.00",2,20,7,TRUE,Portigliola Station
+13035,cargo,Yes,41,Kelowna Station,,Kelowna Station,Kelowna,,"67,700,000,000.00",02:05,,Arrived,,"67,700,000,000.00",1,3,14,FALSE,Kelowna Station
+80356,passenger,Yes,73,Tianjin Station,,Tianjin Station,Tianjin,,"25,400,000,000.00",08:06,,On-Time,,"25,400,000,000.00",2,14,14,FALSE,Tianjin Station
+6760,cargo,No,48,Wolfsberg Station,,Wolfsberg Station,Wolfsberg,,"39,500,000,000.00",02:53,,Arrived,,"39,500,000,000.00",1,17,11,TRUE,Wolfsberg Station
+18894,cargo,No,75,Saint-Nazaire Station,,Saint-Nazaire Station,Saint-Nazaire,,"80,700,000,000.00",12:27,,Boarding,,"80,700,000,000.00",1,1,4,FALSE,Saint-Nazaire Station
+96790,passenger,No,29,KuÅŸadasÄ± Station,,KuÅŸadasÄ± Station,KuÅŸadasÄ±,,"57,700,000,000.00",18:48,,Early,,"57,700,000,000.00",0,3,0,FALSE,KuÅŸadasÄ± Station
+74480,passenger,Yes,41,Belfort Station,,Belfort Station,Belfort,,"94,200,000,000.00",01:36,,Early,,"94,200,000,000.00",2,9,15,TRUE,Belfort Station
+47480,cargo,Yes,64,Motueka Station,,Motueka Station,Motueka,,"40,000,000,000.00",06:08,,Early,,"40,000,000,000.00",1,19,8,TRUE,Motueka Station
+27407,cargo,No,29,Birmingham Station,,Birmingham Station,Birmingham,,"6,400,000,000.00",04:12,,Early,,"6,400,000,000.00",1,18,18,FALSE,Birmingham Station
+31118,cargo,Yes,47,Moscow Station,,Moscow Station,Moscow,,"33,300,000,000.00",01:05,,Arrived,,"33,300,000,000.00",1,8,7,TRUE,Moscow Station
+95871,passenger,No,22,EÅ‚k Station,,EÅ‚k Station,EÅ‚k,,"70,600,000,000.00",04:25,,On-Time,,"70,600,000,000.00",1,9,4,TRUE,EÅ‚k Station
+83601,cargo,Yes,69,TuyÃªn Quang Station,,TuyÃªn Quang Station,TuyÃªn Quang,,"85,600,000,000.00",22:56,,Arrived,,"85,600,000,000.00",2,19,1,TRUE,TuyÃªn Quang Station
+4878,cargo,Yes,88,Washuk Station,,Washuk Station,Washuk,,"58,300,000,000.00",13:07,,Arrived,,"58,300,000,000.00",2,5,2,FALSE,Washuk Station
+86257,cargo,No,32,Berwick Station,,Berwick Station,Berwick,,"68,700,000,000.00",13:34,,Boarding,,"68,700,000,000.00",1,1,12,TRUE,Berwick Station
+34543,passenger,Yes,64,LuziÃ¢nia Station,,LuziÃ¢nia Station,LuziÃ¢nia,,"544,000,000.00",20:04,,Early,,"544,000,000.00",1,18,13,FALSE,LuziÃ¢nia Station
+39496,passenger,Yes,17,Korkino Station,,Korkino Station,Korkino,,"81,700,000,000.00",18:30,,Scheduled,,"81,700,000,000.00",0,9,19,TRUE,Korkino Station
+91938,passenger,Yes,65,Oldenzaal Station,,Oldenzaal Station,Oldenzaal,,"19,100,000,000.00",22:12,,Early,,"19,100,000,000.00",1,0,1,TRUE,Oldenzaal Station
+9306,passenger,Yes,28,Darwin Station,,Darwin Station,Darwin,,"42,000,000,000.00",03:57,,Early,,"42,000,000,000.00",1,13,2,FALSE,Darwin Station
+30589,passenger,Yes,88,Vernon Station,,Vernon Station,Vernon,,"1,010,000,000.00",00:20,,Arrived,,"1,010,000,000.00",0,16,11,FALSE,Vernon Station
+42399,passenger,Yes,47,Mataram Station,,Mataram Station,Mataram,,"79,900,000,000.00",11:23,,On-Time,,"79,900,000,000.00",0,19,1,TRUE,Mataram Station
+87682,cargo,Yes,61,Cuautla Station,,Cuautla Station,Cuautla,,"6,070,000,000.00",13:54,,Boarding,,"6,070,000,000.00",2,6,12,TRUE,Cuautla Station
+68627,passenger,Yes,46,Southaven Station,,Southaven Station,Southaven,,"82,500,000,000.00",18:08,,On-Time,,"82,500,000,000.00",0,2,4,FALSE,Southaven Station
+19177,cargo,Yes,23,Ostrowiec ÅšwiÄ™tokrzyski Station,,Ostrowiec ÅšwiÄ™tokrzyski Station,Ostrowiec ÅšwiÄ™tokrzyski,,"32,700,000,000.00",11:29,,Early,,"32,700,000,000.00",1,6,18,TRUE,Ostrowiec ÅšwiÄ™tokrzyski Station
+52998,cargo,Yes,67,Santa Croce sull'Arno Station,,Santa Croce sull'Arno Station,Santa Croce sull'Arno,,"21,300,000,000.00",22:13,,Boarding,,"21,300,000,000.00",2,1,9,FALSE,Santa Croce sull'Arno Station
+52682,passenger,No,37,BiÃªn HÃ²a Station,,BiÃªn HÃ²a Station,BiÃªn HÃ²a,,"85,600,000,000.00",12:07,,Boarding,,"85,600,000,000.00",1,13,10,TRUE,BiÃªn HÃ²a Station
+5950,cargo,Yes,55,Omsk Station,,Omsk Station,Omsk,,"91,500,000,000.00",23:02,,Scheduled,,"91,500,000,000.00",1,13,5,FALSE,Omsk Station
+60554,cargo,No,43,Tanjungbalai Station,,Tanjungbalai Station,Tanjungbalai,,"52,500,000,000.00",14:48,,Early,,"52,500,000,000.00",1,4,13,TRUE,Tanjungbalai Station
+32038,passenger,Yes,12,Guarulhos Station,,Guarulhos Station,Guarulhos,,"95,800,000,000.00",10:17,,On-Time,,"95,800,000,000.00",2,4,17,TRUE,Guarulhos Station
+1233,passenger,Yes,28,Diadema Station,,Diadema Station,Diadema,,"69,500,000,000.00",06:50,,On-Time,,"69,500,000,000.00",1,19,17,FALSE,Diadema Station
+94129,passenger,No,42,Deventer Station,,Deventer Station,Deventer,,"50,800,000,000.00",03:52,,Early,,"50,800,000,000.00",2,6,12,TRUE,Deventer Station
+20432,passenger,Yes,72,Spremberg Station,,Spremberg Station,Spremberg,,"11,800,000,000.00",09:15,,Boarding,,"11,800,000,000.00",1,18,2,FALSE,Spremberg Station
+89217,passenger,No,40,Stargard SzczeciÅ„ski Station,,Stargard SzczeciÅ„ski Station,Stargard SzczeciÅ„ski,,"99,500,000,000.00",08:51,,Arrived,,"99,500,000,000.00",0,18,8,TRUE,Stargard SzczeciÅ„ski Station
+74332,cargo,Yes,54,Brandon Station,,Brandon Station,Brandon,,"1,730,000,000.00",13:18,,Scheduled,,"1,730,000,000.00",1,16,2,FALSE,Brandon Station
+81951,passenger,No,33,Aurillac Station,,Aurillac Station,Aurillac,,"37,100,000,000.00",22:06,,Arrived,,"37,100,000,000.00",0,3,1,TRUE,Aurillac Station
+86856,cargo,No,54,Diano Arentino Station,,Diano Arentino Station,Diano Arentino,,"18,600,000,000.00",09:47,,Boarding,,"18,600,000,000.00",2,1,14,FALSE,Diano Arentino Station
+36426,cargo,No,62,Thames Station,,Thames Station,Thames,,"39,200,000,000.00",12:49,,Boarding,,"39,200,000,000.00",0,19,14,FALSE,Thames Station
+16237,passenger,Yes,32,KÄ±rÄ±khan Station,,KÄ±rÄ±khan Station,KÄ±rÄ±khan,,"77,600,000,000.00",06:35,,On-Time,,"77,600,000,000.00",1,13,2,TRUE,KÄ±rÄ±khan Station
+75568,passenger,No,56,Montrose Station,,Montrose Station,Montrose,,"61,800,000,000.00",13:23,,Scheduled,,"61,800,000,000.00",1,11,6,FALSE,Montrose Station
+47096,passenger,No,50,Tolyatti Station,,Tolyatti Station,Tolyatti,,"71,400,000,000.00",11:49,,Scheduled,,"71,400,000,000.00",2,13,7,FALSE,Tolyatti Station
+79143,passenger,Yes,24,Cork Station,,Cork Station,Cork,,"72,600,000,000.00",22:57,,Early,,"72,600,000,000.00",1,13,4,TRUE,Cork Station
+97362,passenger,Yes,60,Los Muermos Station,,Los Muermos Station,Los Muermos,,"9,890,000,000.00",04:31,,Early,,"9,890,000,000.00",1,15,19,TRUE,Los Muermos Station
+82604,cargo,No,14,Tunja Station,,Tunja Station,Tunja,,"48,200,000,000.00",01:52,,Scheduled,,"48,200,000,000.00",1,1,2,TRUE,Tunja Station
+79531,cargo,Yes,56,Hudiksvall Station,,Hudiksvall Station,Hudiksvall,,"98,100,000,000.00",09:25,,Arrived,,"98,100,000,000.00",1,19,17,TRUE,Hudiksvall Station
+15300,cargo,Yes,56,RezÃ© Station,,RezÃ© Station,RezÃ©,,"95,200,000,000.00",20:33,,Scheduled,,"95,200,000,000.00",2,9,12,TRUE,RezÃ© Station
+14070,passenger,No,65,BollnÃ¤s Station,,BollnÃ¤s Station,BollnÃ¤s,,"64,600,000,000.00",16:43,,Scheduled,,"64,600,000,000.00",1,2,8,FALSE,BollnÃ¤s Station
+97137,passenger,No,64,Rutland Station,,Rutland Station,Rutland,,"21,800,000,000.00",06:57,,On-Time,,"21,800,000,000.00",1,4,5,TRUE,Rutland Station
+14538,cargo,No,14,Deutschkreutz Station,,Deutschkreutz Station,Deutschkreutz,,"93,600,000,000.00",00:31,,Scheduled,,"93,600,000,000.00",0,1,13,TRUE,Deutschkreutz Station
+5575,passenger,No,31,Bad Ischl Station,,Bad Ischl Station,Bad Ischl,,"42,500,000,000.00",07:28,,Boarding,,"42,500,000,000.00",0,3,6,FALSE,Bad Ischl Station
+81168,cargo,No,69,Beauvais Station,,Beauvais Station,Beauvais,,"36,400,000,000.00",05:48,,Early,,"36,400,000,000.00",2,11,5,TRUE,Beauvais Station
+90952,cargo,No,39,MaganguÃ© Station,,MaganguÃ© Station,MaganguÃ©,,"48,200,000,000.00",14:31,,On-Time,,"48,200,000,000.00",0,4,3,TRUE,MaganguÃ© Station
+9641,passenger,No,28,Schwedt Station,,Schwedt Station,Schwedt,,"97,900,000,000.00",21:12,,Early,,"97,900,000,000.00",1,5,6,TRUE,Schwedt Station
+63995,passenger,Yes,24,Santomenna Station,,Santomenna Station,Santomenna,,"53,200,000,000.00",03:16,,Early,,"53,200,000,000.00",1,8,2,FALSE,Santomenna Station
+81820,passenger,Yes,69,LiÃ©vin Station,,LiÃ©vin Station,LiÃ©vin,,"47,800,000,000.00",09:54,,Scheduled,,"47,800,000,000.00",2,5,16,TRUE,LiÃ©vin Station
+67566,passenger,No,39,Leersum Station,,Leersum Station,Leersum,,"24,000,000,000.00",13:55,,On-Time,,"24,000,000,000.00",2,4,19,FALSE,Leersum Station
+77817,cargo,Yes,23,TomaszÃ³w Mazowiecki Station,,TomaszÃ³w Mazowiecki Station,TomaszÃ³w Mazowiecki,,"48,300,000,000.00",03:23,,Boarding,,"48,300,000,000.00",1,11,10,FALSE,TomaszÃ³w Mazowiecki Station
+2086,passenger,Yes,58,BalÄ±kesir Station,,BalÄ±kesir Station,BalÄ±kesir,,"51,300,000,000.00",01:58,,Arrived,,"51,300,000,000.00",1,1,13,TRUE,BalÄ±kesir Station
+20106,passenger,No,63,Worksop Station,,Worksop Station,Worksop,,"24,200,000,000.00",18:20,,Boarding,,"24,200,000,000.00",1,13,11,FALSE,Worksop Station
+14885,cargo,No,20,VÃ¶lklingen Station,,VÃ¶lklingen Station,VÃ¶lklingen,,"71,200,000,000.00",03:43,,Boarding,,"71,200,000,000.00",1,2,16,FALSE,VÃ¶lklingen Station
+26576,passenger,Yes,84,Pirque Station,,Pirque Station,Pirque,,"86,300,000,000.00",15:58,,Arrived,,"86,300,000,000.00",0,17,2,TRUE,Pirque Station
+41669,cargo,Yes,93,ReyhanlÄ± Station,,ReyhanlÄ± Station,ReyhanlÄ±,,"87,900,000,000.00",23:02,,Boarding,,"87,900,000,000.00",1,10,16,TRUE,ReyhanlÄ± Station
+66687,cargo,Yes,13,Cochin Station,,Cochin Station,Cochin,,"14,800,000,000.00",17:29,,On-Time,,"14,800,000,000.00",1,7,10,FALSE,Cochin Station
+92608,cargo,Yes,78,Sherani Station,,Sherani Station,Sherani,,"29,100,000,000.00",14:23,,On-Time,,"29,100,000,000.00",2,4,11,TRUE,Sherani Station
+29409,cargo,Yes,45,Gore Station,,Gore Station,Gore,,"15,800,000,000.00",02:31,,Boarding,,"15,800,000,000.00",1,2,18,FALSE,Gore Station
+59853,cargo,No,71,Bad VÃ¶slau Station,,Bad VÃ¶slau Station,Bad VÃ¶slau,,"53,600,000,000.00",01:23,,Arrived,,"53,600,000,000.00",1,8,6,FALSE,Bad VÃ¶slau Station
+47691,passenger,No,60,Fokino Station,,Fokino Station,Fokino,,"80,300,000,000.00",06:52,,Early,,"80,300,000,000.00",1,17,19,TRUE,Fokino Station
+52023,passenger,No,19,RÃ­o Bueno Station,,RÃ­o Bueno Station,RÃ­o Bueno,,"27,500,000,000.00",16:09,,On-Time,,"27,500,000,000.00",1,7,15,TRUE,RÃ­o Bueno Station
+68959,passenger,Yes,26,Kohima Station,,Kohima Station,Kohima,,"24,100,000,000.00",19:20,,Boarding,,"24,100,000,000.00",0,2,11,TRUE,Kohima Station
+4534,cargo,Yes,72,San CristÃ³bal de las Casas Station,,San CristÃ³bal de las Casas Station,San CristÃ³bal de las Casas,,"29,300,000,000.00",16:32,,On-Time,,"29,300,000,000.00",1,12,2,FALSE,San CristÃ³bal de las Casas Station
+26985,passenger,Yes,66,Leugnies Station,,Leugnies Station,Leugnies,,"39,300,000,000.00",11:40,,On-Time,,"39,300,000,000.00",1,7,19,TRUE,Leugnies Station
+31785,passenger,No,80,ÅžanlÄ±urfa Station,,ÅžanlÄ±urfa Station,ÅžanlÄ±urfa,,"54,100,000,000.00",10:09,,Scheduled,,"54,100,000,000.00",2,8,19,TRUE,ÅžanlÄ±urfa Station
+35993,cargo,No,63,Colorado Springs Station,,Colorado Springs Station,Colorado Springs,,"85,000,000,000.00",14:48,,Early,,"85,000,000,000.00",1,16,5,TRUE,Colorado Springs Station
+56955,passenger,Yes,84,Biloxi Station,,Biloxi Station,Biloxi,,"75,100,000,000.00",10:33,,Arrived,,"75,100,000,000.00",1,9,11,TRUE,Biloxi Station
+50724,cargo,No,74,Wiener Neustadt Station,,Wiener Neustadt Station,Wiener Neustadt,,"49,100,000,000.00",14:09,,Early,,"49,100,000,000.00",0,17,8,TRUE,Wiener Neustadt Station
+91724,cargo,Yes,95,Ashbourne Station,,Ashbourne Station,Ashbourne,,"52,900,000,000.00",14:42,,Early,,"52,900,000,000.00",1,6,14,TRUE,Ashbourne Station
+19358,passenger,No,59,Caucaia Station,,Caucaia Station,Caucaia,,"80,500,000,000.00",00:55,,Early,,"80,500,000,000.00",0,11,13,FALSE,Caucaia Station
+88668,cargo,Yes,23,Valledupar Station,,Valledupar Station,Valledupar,,"62,300,000,000.00",18:53,,Scheduled,,"62,300,000,000.00",1,5,19,FALSE,Valledupar Station
+76996,passenger,Yes,81,LÃ o Cai Station,,LÃ o Cai Station,LÃ o Cai,,"51,100,000,000.00",18:27,,Boarding,,"51,100,000,000.00",2,16,9,TRUE,LÃ o Cai Station
+87276,passenger,No,86,Huaral Station,,Huaral Station,Huaral,,"39,300,000,000.00",22:18,,Arrived,,"39,300,000,000.00",0,6,15,TRUE,Huaral Station
+85438,passenger,Yes,39,Meeuwen Station,,Meeuwen Station,Meeuwen,,"1,710,000,000.00",21:16,,On-Time,,"1,710,000,000.00",0,19,10,TRUE,Meeuwen Station
+98984,cargo,No,56,Ockelbo Station,,Ockelbo Station,Ockelbo,,"17,100,000,000.00",08:35,,Early,,"17,100,000,000.00",1,9,16,FALSE,Ockelbo Station
+89189,cargo,No,49,Stafford Station,,Stafford Station,Stafford,,"18,100,000,000.00",20:58,,Arrived,,"18,100,000,000.00",1,2,14,FALSE,Stafford Station
+57216,passenger,No,13,MÆ°á»ng Lay Station,,MÆ°á»ng Lay Station,MÆ°á»ng Lay,,"20,000,000,000.00",18:00,,Early,,"20,000,000,000.00",1,6,20,FALSE,MÆ°á»ng Lay Station
+58601,passenger,No,18,Ghanche Station,,Ghanche Station,Ghanche,,"99,900,000,000.00",14:41,,On-Time,,"99,900,000,000.00",1,5,19,FALSE,Ghanche Station
+48692,cargo,Yes,17,Zele Station,,Zele Station,Zele,,"65,600,000,000.00",09:11,,Arrived,,"65,600,000,000.00",1,7,13,FALSE,Zele Station
+68976,passenger,No,87,Cartagena del ChairÃ¡ Station,,Cartagena del ChairÃ¡ Station,Cartagena del ChairÃ¡,,"87,600,000,000.00",11:50,,Boarding,,"87,600,000,000.00",1,16,16,FALSE,Cartagena del ChairÃ¡ Station
+97745,passenger,No,75,Uruapan Station,,Uruapan Station,Uruapan,,"95,500,000,000.00",14:23,,Early,,"95,500,000,000.00",0,7,12,TRUE,Uruapan Station
+24159,cargo,No,48,Seogwipo Station,,Seogwipo Station,Seogwipo,,"50,300,000,000.00",07:06,,Boarding,,"50,300,000,000.00",2,11,13,TRUE,Seogwipo Station
+63125,cargo,Yes,91,Leiden Station,,Leiden Station,Leiden,,"46,200,000,000.00",17:30,,Boarding,,"46,200,000,000.00",1,19,19,TRUE,Leiden Station
+20897,passenger,No,36,Wanganui Station,,Wanganui Station,Wanganui,,"55,000,000,000.00",06:58,,Scheduled,,"55,000,000,000.00",0,12,4,TRUE,Wanganui Station
+62115,cargo,Yes,98,Warri Station,,Warri Station,Warri,,"39,400,000,000.00",17:13,,Scheduled,,"39,400,000,000.00",1,13,9,FALSE,Warri Station
+96034,passenger,Yes,94,Vienna Station,,Vienna Station,Vienna,,"80,900,000,000.00",03:33,,Early,,"80,900,000,000.00",1,17,2,TRUE,Vienna Station
+35344,passenger,No,40,JÃ¶nkÃ¶ping Station,,JÃ¶nkÃ¶ping Station,JÃ¶nkÃ¶ping,,"64,200,000,000.00",03:05,,On-Time,,"64,200,000,000.00",1,12,16,FALSE,JÃ¶nkÃ¶ping Station
+2629,cargo,Yes,98,Sargodha Station,,Sargodha Station,Sargodha,,"35,400,000,000.00",10:28,,Boarding,,"35,400,000,000.00",1,7,13,TRUE,Sargodha Station
+26551,cargo,Yes,98,Falun Station,,Falun Station,Falun,,"95,400,000,000.00",17:15,,Early,,"95,400,000,000.00",1,16,15,TRUE,Falun Station
+44284,passenger,Yes,88,Cromer Station,,Cromer Station,Cromer,,"94,300,000,000.00",17:09,,Early,,"94,300,000,000.00",0,11,4,FALSE,Cromer Station
+96122,passenger,Yes,18,Recife Station,,Recife Station,Recife,,"40,000,000,000.00",15:31,,On-Time,,"40,000,000,000.00",1,12,19,TRUE,Recife Station
+54840,passenger,No,68,Soissons Station,,Soissons Station,Soissons,,"19,300,000,000.00",23:38,,Boarding,,"19,300,000,000.00",2,3,5,FALSE,Soissons Station
+79719,passenger,No,64,WaÅ‚brzych Station,,WaÅ‚brzych Station,WaÅ‚brzych,,"56,600,000,000.00",05:39,,Early,,"56,600,000,000.00",0,12,10,TRUE,WaÅ‚brzych Station
+88794,cargo,Yes,35,Pereira Station,,Pereira Station,Pereira,,"55,200,000,000.00",17:41,,Boarding,,"55,200,000,000.00",1,16,11,TRUE,Pereira Station
+81763,passenger,No,63,Stalowa Wola Station,,Stalowa Wola Station,Stalowa Wola,,"85,100,000,000.00",03:39,,Boarding,,"85,100,000,000.00",1,8,12,FALSE,Stalowa Wola Station
+97218,cargo,Yes,26,Scunthorpe Station,,Scunthorpe Station,Scunthorpe,,"89,700,000,000.00",20:20,,Early,,"89,700,000,000.00",0,6,17,FALSE,Scunthorpe Station
+96803,passenger,No,67,Eastbourne Station,,Eastbourne Station,Eastbourne,,"81,500,000,000.00",12:48,,On-Time,,"81,500,000,000.00",2,13,3,TRUE,Eastbourne Station
+29112,cargo,Yes,13,Tomohon Station,,Tomohon Station,Tomohon,,"24,200,000,000.00",18:33,,On-Time,,"24,200,000,000.00",1,11,3,FALSE,Tomohon Station
+76080,cargo,No,50,Laon Station,,Laon Station,Laon,,"27,300,000,000.00",11:14,,Boarding,,"27,300,000,000.00",0,12,7,TRUE,Laon Station
+56942,passenger,Yes,50,Potenza Station,,Potenza Station,Potenza,,"53,000,000,000.00",06:43,,On-Time,,"53,000,000,000.00",1,18,13,FALSE,Potenza Station
+45342,passenger,Yes,31,Dutse Station,,Dutse Station,Dutse,,"39,100,000,000.00",13:02,,Arrived,,"39,100,000,000.00",1,16,6,TRUE,Dutse Station
+85462,passenger,Yes,79,San Marcos Station,,San Marcos Station,San Marcos,,"82,900,000,000.00",14:49,,Arrived,,"82,900,000,000.00",0,12,19,FALSE,San Marcos Station
+94817,cargo,No,63,Rae-Edzo Station,,Rae-Edzo Station,Rae-Edzo,,"82,000,000,000.00",16:36,,On-Time,,"82,000,000,000.00",0,9,8,TRUE,Rae-Edzo Station
+73307,cargo,Yes,86,Henan Station,,Henan Station,Henan,,"21,300,000,000.00",14:43,,On-Time,,"21,300,000,000.00",1,3,3,TRUE,Henan Station
+50772,cargo,Yes,44,Caxias do Sul Station,,Caxias do Sul Station,Caxias do Sul,,"41,300,000,000.00",15:39,,Arrived,,"41,300,000,000.00",2,3,6,TRUE,Caxias do Sul Station
+73089,passenger,Yes,92,Bremerhaven Station,,Bremerhaven Station,Bremerhaven,,"81,500,000,000.00",10:29,,On-Time,,"81,500,000,000.00",2,12,14,TRUE,Bremerhaven Station
+45581,cargo,No,61,Bourges Station,,Bourges Station,Bourges,,"84,300,000,000.00",12:20,,On-Time,,"84,300,000,000.00",0,17,18,FALSE,Bourges Station
+65277,cargo,Yes,84,Burgos Station,,Burgos Station,Burgos,,"74,700,000,000.00",05:42,,Boarding,,"74,700,000,000.00",1,16,7,TRUE,Burgos Station
+61480,cargo,No,56,Fairbanks Station,,Fairbanks Station,Fairbanks,,"52,400,000,000.00",18:39,,Early,,"52,400,000,000.00",1,18,3,TRUE,Fairbanks Station
+71077,passenger,No,29,Piura Station,,Piura Station,Piura,,"30,400,000,000.00",10:33,,Boarding,,"30,400,000,000.00",0,6,16,FALSE,Piura Station
+75874,passenger,Yes,16,Tame Station,,Tame Station,Tame,,"32,500,000,000.00",14:23,,On-Time,,"32,500,000,000.00",0,5,2,FALSE,Tame Station
+35737,passenger,Yes,75,Parral Station,,Parral Station,Parral,,"91,900,000,000.00",07:02,,On-Time,,"91,900,000,000.00",0,2,18,TRUE,Parral Station
+98744,passenger,No,72,Tierra Amarilla Station,,Tierra Amarilla Station,Tierra Amarilla,,"35,000,000,000.00",01:01,,On-Time,,"35,000,000,000.00",0,2,1,TRUE,Tierra Amarilla Station
+68002,cargo,No,46,Saumur Station,,Saumur Station,Saumur,,"4,450,000,000.00",21:28,,Boarding,,"4,450,000,000.00",1,10,2,FALSE,Saumur Station
+61318,passenger,Yes,93,Oldenburg Station,,Oldenburg Station,Oldenburg,,"15,200,000,000.00",20:58,,Scheduled,,"15,200,000,000.00",1,11,11,FALSE,Oldenburg Station
+90856,cargo,Yes,18,Enns Station,,Enns Station,Enns,,"43,700,000,000.00",20:56,,Boarding,,"43,700,000,000.00",1,1,8,FALSE,Enns Station
+63277,passenger,Yes,25,Langholm Station,,Langholm Station,Langholm,,"46,600,000,000.00",11:46,,Scheduled,,"46,600,000,000.00",1,10,9,FALSE,Langholm Station
+93299,cargo,No,13,Haveli Station,,Haveli Station,Haveli,,"97,900,000,000.00",05:10,,On-Time,,"97,900,000,000.00",0,0,10,TRUE,Haveli Station
+21124,passenger,No,12,Cantalupo in Sabina Station,,Cantalupo in Sabina Station,Cantalupo in Sabina,,"25,400,000,000.00",21:16,,On-Time,,"25,400,000,000.00",1,14,8,TRUE,Cantalupo in Sabina Station
+63003,cargo,Yes,21,Wanaka Station,,Wanaka Station,Wanaka,,"35,600,000,000.00",17:12,,Arrived,,"35,600,000,000.00",0,3,8,FALSE,Wanaka Station
+2268,cargo,Yes,68,Emmen Station,,Emmen Station,Emmen,,"92,400,000,000.00",21:08,,Scheduled,,"92,400,000,000.00",1,5,20,FALSE,Emmen Station
+11487,cargo,Yes,77,Saint-DiÃ©-des-Vosges Station,,Saint-DiÃ©-des-Vosges Station,Saint-DiÃ©-des-Vosges,,"54,100,000,000.00",04:57,,Scheduled,,"54,100,000,000.00",0,12,13,TRUE,Saint-DiÃ©-des-Vosges Station
+23843,cargo,No,94,Corozal Station,,Corozal Station,Corozal,,"18,300,000,000.00",09:01,,On-Time,,"18,300,000,000.00",0,19,0,TRUE,Corozal Station
+39125,cargo,No,54,Jilin Station,,Jilin Station,Jilin,,"20,500,000,000.00",04:14,,Arrived,,"20,500,000,000.00",1,10,10,FALSE,Jilin Station
+16593,passenger,Yes,88,Kinross Station,,Kinross Station,Kinross,,"32,800,000,000.00",02:14,,On-Time,,"32,800,000,000.00",0,11,16,FALSE,Kinross Station
+75992,cargo,No,99,Puntarenas Station,,Puntarenas Station,Puntarenas,,"39,000,000,000.00",08:18,,Boarding,,"39,000,000,000.00",0,1,2,TRUE,Puntarenas Station
+68622,cargo,No,52,Battagram Station,,Battagram Station,Battagram,,"76,000,000,000.00",18:01,,Early,,"76,000,000,000.00",2,14,17,FALSE,Battagram Station
+95927,passenger,No,77,Traiskirchen Station,,Traiskirchen Station,Traiskirchen,,"29,200,000,000.00",20:46,,Boarding,,"29,200,000,000.00",2,17,5,FALSE,Traiskirchen Station
+19026,passenger,Yes,28,Itzehoe Station,,Itzehoe Station,Itzehoe,,"95,500,000,000.00",21:16,,Early,,"95,500,000,000.00",2,1,14,FALSE,Itzehoe Station
+3530,passenger,No,37,Schweinfurt Station,,Schweinfurt Station,Schweinfurt,,"87,400,000,000.00",12:47,,Scheduled,,"87,400,000,000.00",1,2,17,FALSE,Schweinfurt Station
+25134,cargo,Yes,43,Liaoning Station,,Liaoning Station,Liaoning,,"5,940,000,000.00",17:55,,On-Time,,"5,940,000,000.00",0,10,14,FALSE,Liaoning Station
+64942,cargo,No,60,SahagÃºn Station,,SahagÃºn Station,SahagÃºn,,"54,800,000,000.00",19:41,,Boarding,,"54,800,000,000.00",0,19,17,TRUE,SahagÃºn Station
+16092,passenger,Yes,36,KitzbÃ¼hel Station,,KitzbÃ¼hel Station,KitzbÃ¼hel,,"50,200,000,000.00",22:23,,Early,,"50,200,000,000.00",0,7,6,TRUE,KitzbÃ¼hel Station
+13226,cargo,No,98,Katsina Station,,Katsina Station,Katsina,,"64,000,000,000.00",23:48,,Early,,"64,000,000,000.00",1,4,14,FALSE,Katsina Station
+1698,cargo,Yes,74,Illkirch-Graffenstaden Station,,Illkirch-Graffenstaden Station,Illkirch-Graffenstaden,,"3,240,000,000.00",09:05,,Early,,"3,240,000,000.00",2,10,16,TRUE,Illkirch-Graffenstaden Station
+73773,passenger,Yes,41,San Mauro Marchesato Station,,San Mauro Marchesato Station,San Mauro Marchesato,,"68,300,000,000.00",16:02,,Scheduled,,"68,300,000,000.00",1,10,16,TRUE,San Mauro Marchesato Station
+35609,passenger,Yes,33,Mexico City Station,,Mexico City Station,Mexico City,,"46,500,000,000.00",02:57,,Arrived,,"46,500,000,000.00",2,15,1,TRUE,Mexico City Station
+85758,passenger,No,35,Niort Station,,Niort Station,Niort,,"17,000,000,000.00",21:04,,Early,,"17,000,000,000.00",2,7,13,TRUE,Niort Station
+91342,cargo,Yes,52,Ä°mamoÄŸlu Station,,Ä°mamoÄŸlu Station,Ä°mamoÄŸlu,,"53,100,000,000.00",05:03,,Scheduled,,"53,100,000,000.00",1,10,6,FALSE,Ä°mamoÄŸlu Station
+33106,cargo,Yes,11,Lakki Marwat Station,,Lakki Marwat Station,Lakki Marwat,,"90,700,000,000.00",15:07,,Early,,"90,700,000,000.00",0,18,1,TRUE,Lakki Marwat Station
+42954,passenger,No,22,KÃ¶ln Station,,KÃ¶ln Station,KÃ¶ln,,"35,300,000,000.00",11:44,,On-Time,,"35,300,000,000.00",0,14,17,FALSE,KÃ¶ln Station
+26183,cargo,Yes,72,Beijing Station,,Beijing Station,Beijing,,"87,500,000,000.00",03:37,,On-Time,,"87,500,000,000.00",0,19,18,TRUE,Beijing Station
+6239,cargo,No,54,Upplands VÃ¤sby Station,,Upplands VÃ¤sby Station,Upplands VÃ¤sby,,"57,900,000,000.00",11:10,,Early,,"57,900,000,000.00",1,17,2,FALSE,Upplands VÃ¤sby Station
+40600,cargo,Yes,25,MauÃ¡ Station,,MauÃ¡ Station,MauÃ¡,,"57,700,000,000.00",01:35,,On-Time,,"57,700,000,000.00",1,16,11,FALSE,MauÃ¡ Station
+94347,cargo,Yes,34,Äá»“ng Há»›i Station,,Äá»“ng Há»›i Station,Äá»“ng Há»›i,,"55,900,000,000.00",07:51,,Boarding,,"55,900,000,000.00",1,13,19,FALSE,Äá»“ng Há»›i Station
+28251,passenger,Yes,58,Watford Station,,Watford Station,Watford,,"76,200,000,000.00",07:28,,Boarding,,"76,200,000,000.00",1,16,6,TRUE,Watford Station
+76370,passenger,Yes,34,Uikhoven Station,,Uikhoven Station,Uikhoven,,"10,900,000,000.00",21:44,,Early,,"10,900,000,000.00",1,10,17,FALSE,Uikhoven Station
+85889,cargo,No,40,Argyle Station,,Argyle Station,Argyle,,"3,430,000,000.00",09:47,,Boarding,,"3,430,000,000.00",0,18,9,TRUE,Argyle Station
+49795,passenger,Yes,77,Siracusa Station,,Siracusa Station,Siracusa,,"15,800,000,000.00",12:51,,Boarding,,"15,800,000,000.00",0,2,7,FALSE,Siracusa Station
+11789,cargo,Yes,41,Frankston Station,,Frankston Station,Frankston,,"42,900,000,000.00",08:40,,Boarding,,"42,900,000,000.00",0,9,12,TRUE,Frankston Station
+19237,passenger,Yes,75,Stockholm Station,,Stockholm Station,Stockholm,,"68,400,000,000.00",06:25,,Scheduled,,"68,400,000,000.00",1,11,4,TRUE,Stockholm Station
+36905,cargo,No,47,Mokpo Station,,Mokpo Station,Mokpo,,"76,400,000,000.00",22:12,,Scheduled,,"76,400,000,000.00",2,8,16,FALSE,Mokpo Station
+86183,passenger,Yes,45,CheÅ‚m Station,,CheÅ‚m Station,CheÅ‚m,,"23,000,000,000.00",03:24,,Scheduled,,"23,000,000,000.00",1,2,19,FALSE,CheÅ‚m Station
+64000,cargo,No,85,ParanaguÃ¡ Station,,ParanaguÃ¡ Station,ParanaguÃ¡,,"50,300,000,000.00",20:27,,Early,,"50,300,000,000.00",1,6,13,FALSE,ParanaguÃ¡ Station
+14323,cargo,No,56,Te Awamutu Station,,Te Awamutu Station,Te Awamutu,,"8,450,000,000.00",02:44,,Early,,"8,450,000,000.00",1,3,15,FALSE,Te Awamutu Station
+86151,passenger,Yes,15,Anzio Station,,Anzio Station,Anzio,,"76,300,000,000.00",20:02,,Arrived,,"76,300,000,000.00",1,20,19,FALSE,Anzio Station
+86345,cargo,No,81,Siegendorf Station,,Siegendorf Station,Siegendorf,,"19,000,000,000.00",19:21,,Early,,"19,000,000,000.00",0,4,11,TRUE,Siegendorf Station
+94258,passenger,No,55,LeganÃ©s Station,,LeganÃ©s Station,LeganÃ©s,,"51,100,000,000.00",06:42,,Early,,"51,100,000,000.00",1,1,6,TRUE,LeganÃ©s Station
+59638,cargo,Yes,35,Ciudad Real Station,,Ciudad Real Station,Ciudad Real,,"33,100,000,000.00",09:29,,Arrived,,"33,100,000,000.00",2,16,18,FALSE,Ciudad Real Station
+98524,cargo,No,18,Rhemes-Saint-Georges Station,,Rhemes-Saint-Georges Station,Rhemes-Saint-Georges,,"34,500,000,000.00",22:23,,Early,,"34,500,000,000.00",1,2,9,FALSE,Rhemes-Saint-Georges Station
+15258,passenger,Yes,51,Plauen Station,,Plauen Station,Plauen,,"14,100,000,000.00",23:24,,On-Time,,"14,100,000,000.00",2,1,1,FALSE,Plauen Station
+38214,passenger,No,68,Jemappes Station,,Jemappes Station,Jemappes,,"96,900,000,000.00",09:41,,Boarding,,"96,900,000,000.00",0,13,4,FALSE,Jemappes Station
+50756,passenger,No,49,Puerto NariÃ±o Station,,Puerto NariÃ±o Station,Puerto NariÃ±o,,"40,000,000,000.00",08:13,,Scheduled,,"40,000,000,000.00",2,20,8,TRUE,Puerto NariÃ±o Station
+3073,cargo,No,96,Winterswijk Station,,Winterswijk Station,Winterswijk,,"70,500,000,000.00",23:00,,Early,,"70,500,000,000.00",1,14,3,FALSE,Winterswijk Station
+21270,cargo,Yes,16,Coihueco Station,,Coihueco Station,Coihueco,,"57,900,000,000.00",11:37,,Boarding,,"57,900,000,000.00",1,19,15,FALSE,Coihueco Station
+79455,cargo,No,40,Jinju Station,,Jinju Station,Jinju,,"44,400,000,000.00",05:12,,Arrived,,"44,400,000,000.00",1,10,1,TRUE,Jinju Station
+64864,passenger,No,24,Jiangsu Station,,Jiangsu Station,Jiangsu,,"79,600,000,000.00",06:47,,Early,,"79,600,000,000.00",0,15,6,TRUE,Jiangsu Station
+61452,passenger,No,84,Maranguape Station,,Maranguape Station,Maranguape,,"32,000,000,000.00",10:30,,On-Time,,"32,000,000,000.00",1,12,2,FALSE,Maranguape Station
+65551,passenger,Yes,39,Bydgoszcz Station,,Bydgoszcz Station,Bydgoszcz,,"38,000,000,000.00",05:02,,Boarding,,"38,000,000,000.00",2,6,10,FALSE,Bydgoszcz Station
+68840,cargo,Yes,36,Eisleben Station,,Eisleben Station,Eisleben,,"53,800,000,000.00",12:50,,Boarding,,"53,800,000,000.00",2,4,3,FALSE,Eisleben Station
+77849,cargo,Yes,89,Erquelinnes Station,,Erquelinnes Station,Erquelinnes,,"13,500,000,000.00",21:00,,On-Time,,"13,500,000,000.00",1,15,13,TRUE,Erquelinnes Station
+14649,passenger,No,21,Shandong Station,,Shandong Station,Shandong,,"45,400,000,000.00",18:47,,Early,,"45,400,000,000.00",0,5,0,FALSE,Shandong Station
+3068,passenger,Yes,93,Konin Station,,Konin Station,Konin,,"8,430,000,000.00",10:09,,Boarding,,"8,430,000,000.00",2,5,1,FALSE,Konin Station
+81190,cargo,No,86,Rum Station,,Rum Station,Rum,,"81,900,000,000.00",16:22,,Early,,"81,900,000,000.00",1,14,4,TRUE,Rum Station
+22915,cargo,No,85,Ráº¡ch GiÃ¡ Station,,Ráº¡ch GiÃ¡ Station,Ráº¡ch GiÃ¡,,"85,600,000,000.00",16:29,,Arrived,,"85,600,000,000.00",1,5,11,FALSE,Ráº¡ch GiÃ¡ Station
+73724,passenger,No,85,Belfast Station,,Belfast Station,Belfast,,"13,800,000,000.00",09:56,,Early,,"13,800,000,000.00",2,15,8,FALSE,Belfast Station
+89024,cargo,No,44,Sevastopol Station,,Sevastopol Station,Sevastopol,,"80,000,000,000.00",04:35,,Early,,"80,000,000,000.00",1,18,2,TRUE,Sevastopol Station
+23453,passenger,No,36,KrakÃ³w Station,,KrakÃ³w Station,KrakÃ³w,,"15,400,000,000.00",10:01,,Arrived,,"15,400,000,000.00",0,14,10,TRUE,KrakÃ³w Station
+96762,passenger,Yes,20,Monte Patria Station,,Monte Patria Station,Monte Patria,,"5,740,000,000.00",06:16,,Early,,"5,740,000,000.00",1,12,4,FALSE,Monte Patria Station
+17604,passenger,Yes,23,Etroubles Station,,Etroubles Station,Etroubles,,"99,700,000,000.00",08:09,,Arrived,,"99,700,000,000.00",2,6,15,TRUE,Etroubles Station
+78371,cargo,Yes,30,Sankt Ingbert Station,,Sankt Ingbert Station,Sankt Ingbert,,"30,500,000,000.00",06:04,,Scheduled,,"30,500,000,000.00",1,17,7,FALSE,Sankt Ingbert Station
+23083,passenger,Yes,59,Heilongjiang Station,,Heilongjiang Station,Heilongjiang,,"72,400,000,000.00",00:20,,Early,,"72,400,000,000.00",0,18,7,FALSE,Heilongjiang Station
+69158,cargo,Yes,18,Ila Station,,Ila Station,Ila,,"99,100,000,000.00",22:19,,Boarding,,"99,100,000,000.00",2,11,6,TRUE,Ila Station
+19767,cargo,No,66,Whyalla Station,,Whyalla Station,Whyalla,,"52,700,000,000.00",21:49,,Early,,"52,700,000,000.00",1,2,12,FALSE,Whyalla Station
+82374,cargo,No,53,Porto Alegre Station,,Porto Alegre Station,Porto Alegre,,"54,600,000,000.00",13:11,,On-Time,,"54,600,000,000.00",1,1,6,TRUE,Porto Alegre Station
+99369,cargo,Yes,56,Arnhem Station,,Arnhem Station,Arnhem,,"81,300,000,000.00",13:42,,On-Time,,"81,300,000,000.00",1,8,8,FALSE,Arnhem Station
+81095,passenger,No,24,Raigarh Station,,Raigarh Station,Raigarh,,"76,200,000,000.00",16:39,,Scheduled,,"76,200,000,000.00",1,3,14,FALSE,Raigarh Station
+96296,cargo,Yes,96,Strona Station,,Strona Station,Strona,,"35,600,000,000.00",10:34,,Scheduled,,"35,600,000,000.00",1,14,14,TRUE,Strona Station
+78780,cargo,No,15,Hastings Station,,Hastings Station,Hastings,,"3,450,000,000.00",23:12,,On-Time,,"3,450,000,000.00",0,9,14,TRUE,Hastings Station
+93330,cargo,No,93,Renfrew Station,,Renfrew Station,Renfrew,,"84,500,000,000.00",21:33,,Scheduled,,"84,500,000,000.00",1,5,20,TRUE,Renfrew Station
+38988,passenger,No,70,Tuxtla GutiÃ©rrez Station,,Tuxtla GutiÃ©rrez Station,Tuxtla GutiÃ©rrez,,"80,400,000,000.00",21:25,,On-Time,,"80,400,000,000.00",0,5,2,TRUE,Tuxtla GutiÃ©rrez Station
+53643,passenger,Yes,19,Paillaco Station,,Paillaco Station,Paillaco,,"13,700,000,000.00",02:42,,Boarding,,"13,700,000,000.00",1,6,6,FALSE,Paillaco Station
+87916,passenger,No,26,MabomprÅ½ Station,,MabomprÅ½ Station,MabomprÅ½,,"80,800,000,000.00",16:40,,Arrived,,"80,800,000,000.00",1,3,7,FALSE,MabomprÅ½ Station
+83007,cargo,Yes,38,Funtua Station,,Funtua Station,Funtua,,"50,500,000,000.00",15:52,,Scheduled,,"50,500,000,000.00",1,18,9,FALSE,Funtua Station
+76421,passenger,Yes,84,Passau Station,,Passau Station,Passau,,"68,500,000,000.00",00:33,,Scheduled,,"68,500,000,000.00",0,17,5,TRUE,Passau Station
+95492,cargo,Yes,51,Guadalupe Station,,Guadalupe Station,Guadalupe,,"55,300,000,000.00",04:11,,Scheduled,,"55,300,000,000.00",1,5,19,TRUE,Guadalupe Station
+14841,cargo,No,72,CÃ¡ceres Station,,CÃ¡ceres Station,CÃ¡ceres,,"87,100,000,000.00",07:13,,Boarding,,"87,100,000,000.00",1,16,7,TRUE,CÃ¡ceres Station
+56043,cargo,No,40,Geesthacht Station,,Geesthacht Station,Geesthacht,,"20,100,000,000.00",13:13,,Early,,"20,100,000,000.00",2,6,15,TRUE,Geesthacht Station
+83211,passenger,Yes,96,Vladimir Station,,Vladimir Station,Vladimir,,"15,100,000,000.00",08:49,,On-Time,,"15,100,000,000.00",1,9,6,TRUE,Vladimir Station
+46088,passenger,No,25,Kilsyth Station,,Kilsyth Station,Kilsyth,,"95,600,000,000.00",18:02,,Early,,"95,600,000,000.00",2,3,7,TRUE,Kilsyth Station
+40542,cargo,Yes,53,Purmerend Station,,Purmerend Station,Purmerend,,"11,200,000,000.00",08:17,,On-Time,,"11,200,000,000.00",0,17,10,FALSE,Purmerend Station
+22708,passenger,No,67,Imphal Station,,Imphal Station,Imphal,,"50,400,000,000.00",09:57,,On-Time,,"50,400,000,000.00",1,4,6,TRUE,Imphal Station
+30544,cargo,Yes,49,Toowoomba Station,,Toowoomba Station,Toowoomba,,"45,500,000,000.00",02:22,,Early,,"45,500,000,000.00",1,4,8,FALSE,Toowoomba Station
+19680,passenger,Yes,72,Polesella Station,,Polesella Station,Polesella,,"34,500,000,000.00",13:37,,On-Time,,"34,500,000,000.00",1,18,3,FALSE,Polesella Station
+43390,cargo,No,30,Westport Station,,Westport Station,Westport,,"94,900,000,000.00",19:39,,Boarding,,"94,900,000,000.00",1,7,16,FALSE,Westport Station
+1188,passenger,No,82,Dumfries Station,,Dumfries Station,Dumfries,,"80,200,000,000.00",08:53,,Early,,"80,200,000,000.00",2,9,11,TRUE,Dumfries Station
+23990,cargo,Yes,46,Hoorn Station,,Hoorn Station,Hoorn,,"38,400,000,000.00",17:03,,Early,,"38,400,000,000.00",1,10,0,TRUE,Hoorn Station
+95525,passenger,No,67,Dhuy Station,,Dhuy Station,Dhuy,,"76,100,000,000.00",00:10,,Early,,"76,100,000,000.00",0,9,17,FALSE,Dhuy Station
+70407,passenger,No,90,San Gregorio Station,,San Gregorio Station,San Gregorio,,"9,830,000,000.00",05:25,,Early,,"9,830,000,000.00",1,1,15,FALSE,San Gregorio Station
+17427,passenger,Yes,13,VÃ¶cklabruck Station,,VÃ¶cklabruck Station,VÃ¶cklabruck,,"10,200,000,000.00",01:07,,On-Time,,"10,200,000,000.00",1,0,7,FALSE,VÃ¶cklabruck Station
+8113,cargo,Yes,77,PÃ¼ttlingen Station,,PÃ¼ttlingen Station,PÃ¼ttlingen,,"21,000,000,000.00",16:12,,On-Time,,"21,000,000,000.00",2,7,6,TRUE,PÃ¼ttlingen Station
+21555,passenger,No,22,Ruoti Station,,Ruoti Station,Ruoti,,"5,320,000,000.00",00:16,,Arrived,,"5,320,000,000.00",1,5,4,TRUE,Ruoti Station
+42836,passenger,Yes,22,Oakham Station,,Oakham Station,Oakham,,"31,300,000,000.00",23:04,,Scheduled,,"31,300,000,000.00",1,10,12,TRUE,Oakham Station
+89708,cargo,Yes,14,QuillÃ³n Station,,QuillÃ³n Station,QuillÃ³n,,"95,300,000,000.00",10:00,,Early,,"95,300,000,000.00",1,3,10,TRUE,QuillÃ³n Station
+25271,cargo,Yes,42,Barghe Station,,Barghe Station,Barghe,,"83,800,000,000.00",08:42,,Early,,"83,800,000,000.00",1,1,13,TRUE,Barghe Station
+25720,passenger,Yes,69,,,,,,"63,700,000,000.00",09:51,,Boarding,,"63,700,000,000.00",1,3,20,TRUE,
+10002,cargo,Yes,44,,,,,,"34,000,000,000.00",19:59,,Scheduled,,"34,000,000,000.00",1,12,10,FALSE,
+21509,passenger,Yes,86,,,,,,"68,500,000,000.00",11:35,,Boarding,,"68,500,000,000.00",1,15,17,FALSE,
+2710,cargo,No,46,,,,,,"16,100,000,000.00",19:10,,On-Time,,"16,100,000,000.00",2,7,1,FALSE,
+75064,cargo,Yes,89,,,,,,"87,200,000,000.00",19:11,,Boarding,,"87,200,000,000.00",2,9,10,TRUE,
+34234,cargo,No,72,,,,,,"22,400,000,000.00",09:02,,Early,,"22,400,000,000.00",2,14,12,TRUE,
+64867,passenger,No,99,,,,,,"70,400,000,000.00",10:58,,Arrived,,"70,400,000,000.00",0,9,12,FALSE,
+14447,cargo,Yes,16,,,,,,"42,400,000,000.00",04:34,,Scheduled,,"42,400,000,000.00",1,2,11,FALSE,
+83159,passenger,No,36,,,,,,"71,400,000,000.00",07:40,,On-Time,,"71,400,000,000.00",1,16,12,FALSE,
+87054,passenger,No,92,,,,,,"99,900,000,000.00",11:37,,Scheduled,,"99,900,000,000.00",2,16,7,FALSE,
+16074,passenger,Yes,85,,,,,,"27,000,000,000.00",11:06,,Early,,"27,000,000,000.00",1,16,19,FALSE,
+58646,passenger,No,38,,,,,,"79,900,000,000.00",10:36,,Early,,"79,900,000,000.00",1,15,17,FALSE,
+28387,cargo,Yes,33,,,,,,"61,900,000,000.00",09:04,,Boarding,,"61,900,000,000.00",0,8,9,TRUE,
+44405,passenger,No,55,,,,,,"72,000,000,000.00",19:36,,Early,,"72,000,000,000.00",0,20,3,FALSE,
+24364,cargo,No,95,,,,,,"93,900,000,000.00",16:50,,Early,,"93,900,000,000.00",1,15,3,TRUE,
+11669,passenger,Yes,68,,,,,,"89,800,000,000.00",11:50,,Arrived,,"89,800,000,000.00",1,0,13,FALSE,
+17988,cargo,No,29,,,,,,"8,590,000,000.00",11:53,,Early,,"8,590,000,000.00",1,3,19,TRUE,
+43295,passenger,Yes,91,,,,,,"16,800,000,000.00",10:06,,Early,,"16,800,000,000.00",1,4,0,TRUE,
+90772,cargo,No,55,,,,,,"27,800,000,000.00",01:28,,On-Time,,"27,800,000,000.00",1,17,13,TRUE,
+56713,passenger,Yes,66,,,,,,"65,000,000,000.00",16:54,,Early,,"65,000,000,000.00",1,16,16,TRUE,
+15898,cargo,No,46,,,,,,"294,000,000.00",19:54,,On-Time,,"294,000,000.00",1,16,3,FALSE,
+68218,cargo,No,47,,,,,,"64,500,000,000.00",14:08,,On-Time,,"64,500,000,000.00",1,20,12,TRUE,
+62035,passenger,No,16,,,,,,"98,700,000,000.00",14:47,,Early,,"98,700,000,000.00",0,6,13,FALSE,
+84832,cargo,No,28,,,,,,"66,800,000,000.00",16:43,,Scheduled,,"66,800,000,000.00",0,11,18,FALSE,
+48026,passenger,Yes,89,,,,,,"91,700,000,000.00",23:04,,Scheduled,,"91,700,000,000.00",1,8,9,TRUE,
+8082,cargo,Yes,39,,,,,,"32,200,000,000.00",01:32,,Boarding,,"32,200,000,000.00",1,11,8,FALSE,
+1647,passenger,Yes,45,,,,,,"42,600,000,000.00",19:59,,Boarding,,"42,600,000,000.00",1,17,0,FALSE,
+83972,passenger,Yes,64,,,,,,"59,500,000,000.00",00:11,,On-Time,,"59,500,000,000.00",1,8,2,TRUE,
+82652,cargo,Yes,76,,,,,,"381,000,000.00",07:23,,Boarding,,"381,000,000.00",1,5,3,TRUE,
+48556,cargo,No,63,,,,,,"45,900,000,000.00",08:09,,On-Time,,"45,900,000,000.00",2,16,13,TRUE,
+69346,passenger,No,71,,,,,,"74,500,000,000.00",03:56,,On-Time,,"74,500,000,000.00",1,6,8,FALSE,
+50195,passenger,Yes,90,,,,,,"6,680,000,000.00",13:04,,Scheduled,,"6,680,000,000.00",1,2,16,FALSE,
+70561,passenger,No,23,,,,,,"41,600,000,000.00",11:11,,Early,,"41,600,000,000.00",2,10,16,TRUE,
+35315,passenger,Yes,29,,,,,,"91,000,000,000.00",04:11,,Boarding,,"91,000,000,000.00",0,11,6,FALSE,
+79243,passenger,No,40,,,,,,"97,500,000,000.00",22:19,,Boarding,,"97,500,000,000.00",0,2,9,FALSE,
+54066,cargo,Yes,97,,,,,,"86,200,000,000.00",08:54,,Boarding,,"86,200,000,000.00",1,16,2,TRUE,
+84647,cargo,Yes,91,,,,,,"79,700,000,000.00",03:18,,Boarding,,"79,700,000,000.00",1,2,10,FALSE,
+70798,passenger,No,20,,,,,,"2,690,000,000.00",00:44,,Early,,"2,690,000,000.00",1,5,13,TRUE,
+55320,cargo,No,36,,,,,,"65,600,000,000.00",06:49,,Arrived,,"65,600,000,000.00",2,15,2,TRUE,
+95316,cargo,No,96,,,,,,"88,700,000,000.00",14:46,,Boarding,,"88,700,000,000.00",1,6,20,TRUE,
+40864,passenger,Yes,57,,,,,,"21,400,000,000.00",17:08,,Scheduled,,"21,400,000,000.00",1,14,20,TRUE,
+17596,passenger,Yes,76,,,,,,"24,300,000,000.00",17:20,,Early,,"24,300,000,000.00",1,9,4,FALSE,
+31468,passenger,No,54,,,,,,"80,400,000,000.00",21:20,,Early,,"80,400,000,000.00",0,9,19,FALSE,
+43840,passenger,No,36,,,,,,"64,900,000,000.00",15:21,,On-Time,,"64,900,000,000.00",1,18,10,TRUE,
+16072,cargo,No,13,,,,,,"52,300,000,000.00",23:57,,Scheduled,,"52,300,000,000.00",0,12,2,TRUE,
+9667,passenger,Yes,84,,,,,,"43,000,000,000.00",14:10,,Boarding,,"43,000,000,000.00",2,13,8,FALSE,
+87703,passenger,Yes,43,,,,,,"18,900,000,000.00",07:06,,Boarding,,"18,900,000,000.00",2,11,6,FALSE,
+94833,cargo,Yes,66,,,,,,"80,400,000,000.00",15:22,,On-Time,,"80,400,000,000.00",1,14,5,FALSE,
+57135,cargo,No,50,,,,,,"48,600,000,000.00",23:17,,On-Time,,"48,600,000,000.00",2,3,18,FALSE,
+55565,passenger,No,25,,,,,,"39,100,000,000.00",18:07,,Boarding,,"39,100,000,000.00",1,10,18,TRUE,
+75217,cargo,No,92,,,,,,"43,000,000,000.00",03:54,,On-Time,,"43,000,000,000.00",1,18,19,TRUE,
+78242,cargo,Yes,37,,,,,,"53,200,000,000.00",07:29,,Boarding,,"53,200,000,000.00",0,15,2,FALSE,
+17712,passenger,Yes,19,,,,,,"42,200,000,000.00",22:17,,Scheduled,,"42,200,000,000.00",1,11,19,FALSE,
+12195,passenger,Yes,46,,,,,,"9,620,000,000.00",11:42,,Boarding,,"9,620,000,000.00",1,14,17,TRUE,
+81851,cargo,Yes,13,,,,,,"22,800,000,000.00",05:51,,Scheduled,,"22,800,000,000.00",2,6,18,TRUE,
+13381,passenger,No,72,,,,,,"64,100,000,000.00",17:15,,On-Time,,"64,100,000,000.00",2,17,8,FALSE,
+84954,cargo,No,14,,,,,,"78,500,000,000.00",19:29,,Boarding,,"78,500,000,000.00",1,0,18,FALSE,
+55721,cargo,No,76,,,,,,"87,000,000,000.00",22:49,,Arrived,,"87,000,000,000.00",1,7,14,FALSE,
+87001,cargo,Yes,39,,,,,,"11,800,000,000.00",07:55,,Arrived,,"11,800,000,000.00",0,4,14,FALSE,
+17022,cargo,Yes,88,,,,,,"83,500,000,000.00",11:43,,Boarding,,"83,500,000,000.00",1,17,11,TRUE,
+42459,cargo,No,84,,,,,,"89,200,000,000.00",06:45,,Boarding,,"89,200,000,000.00",1,4,11,FALSE,
+82070,passenger,Yes,10,,,,,,"62,300,000,000.00",01:29,,On-Time,,"62,300,000,000.00",0,16,1,TRUE,
+76328,cargo,No,27,,,,,,"43,100,000,000.00",14:34,,Scheduled,,"43,100,000,000.00",0,16,5,FALSE,
+24766,passenger,No,15,,,,,,"7,790,000,000.00",00:22,,Scheduled,,"7,790,000,000.00",2,11,6,TRUE,
+38279,cargo,No,32,,,,,,"29,400,000,000.00",08:02,,Scheduled,,"29,400,000,000.00",2,14,17,FALSE,
+21706,passenger,No,80,,,,,,"70,000,000,000.00",23:18,,Boarding,,"70,000,000,000.00",1,10,9,TRUE,
+99005,passenger,No,46,,,,,,"63,300,000,000.00",18:15,,Arrived,,"63,300,000,000.00",0,13,3,FALSE,
+11232,cargo,Yes,77,,,,,,"75,200,000,000.00",03:04,,Early,,"75,200,000,000.00",1,15,7,TRUE,
+58223,passenger,Yes,80,,,,,,"99,100,000,000.00",16:09,,Boarding,,"99,100,000,000.00",0,19,13,FALSE,
+71611,cargo,No,66,,,,,,"74,100,000,000.00",09:17,,Early,,"74,100,000,000.00",1,2,11,TRUE,
+18077,passenger,No,16,,,,,,"33,400,000,000.00",06:57,,Early,,"33,400,000,000.00",0,4,15,FALSE,
+35213,cargo,No,28,,,,,,"56,700,000,000.00",20:32,,On-Time,,"56,700,000,000.00",2,0,10,FALSE,
+63126,cargo,Yes,30,,,,,,"28,400,000,000.00",16:16,,Arrived,,"28,400,000,000.00",1,15,4,FALSE,
+93460,passenger,No,83,,,,,,"59,000,000,000.00",20:13,,Early,,"59,000,000,000.00",0,2,10,TRUE,
+86190,cargo,Yes,86,,,,,,"42,700,000,000.00",12:06,,Scheduled,,"42,700,000,000.00",2,3,0,TRUE,
+27988,cargo,No,27,,,,,,"98,900,000,000.00",08:11,,On-Time,,"98,900,000,000.00",2,19,15,FALSE,
+51741,passenger,Yes,76,,,,,,"68,800,000,000.00",05:58,,Scheduled,,"68,800,000,000.00",1,7,3,TRUE,
+56780,cargo,No,69,,,,,,"81,200,000,000.00",01:44,,Arrived,,"81,200,000,000.00",0,12,17,FALSE,
+17072,passenger,No,48,,,,,,"45,600,000,000.00",05:04,,Scheduled,,"45,600,000,000.00",1,2,9,FALSE,
+66439,passenger,Yes,62,,,,,,"38,100,000,000.00",07:20,,On-Time,,"38,100,000,000.00",0,6,11,TRUE,
+97839,passenger,Yes,37,,,,,,"37,000,000,000.00",08:11,,Arrived,,"37,000,000,000.00",1,2,5,FALSE,
+84528,passenger,No,17,,,,,,"13,700,000,000.00",02:55,,Early,,"13,700,000,000.00",0,9,4,TRUE,
+35780,passenger,No,53,,,,,,"91,000,000,000.00",18:23,,On-Time,,"91,000,000,000.00",0,10,8,FALSE,
+21851,cargo,No,97,,,,,,"14,700,000,000.00",00:59,,Scheduled,,"14,700,000,000.00",1,15,6,TRUE,
+36074,passenger,Yes,55,,,,,,"70,200,000,000.00",12:51,,On-Time,,"70,200,000,000.00",1,19,6,FALSE,
+98723,cargo,No,96,,,,,,"3,480,000,000.00",14:47,,Early,,"3,480,000,000.00",0,19,8,FALSE,
+42449,passenger,No,89,,,,,,"90,600,000,000.00",14:21,,Arrived,,"90,600,000,000.00",0,2,4,TRUE,
+85795,passenger,Yes,17,,,,,,"88,400,000,000.00",17:01,,On-Time,,"88,400,000,000.00",0,0,6,FALSE,
+72096,cargo,Yes,97,,,,,,"59,800,000,000.00",12:09,,Boarding,,"59,800,000,000.00",1,14,3,FALSE,
+16509,cargo,Yes,48,,,,,,"48,300,000,000.00",05:38,,Boarding,,"48,300,000,000.00",0,6,19,FALSE,
+21702,passenger,No,43,,,,,,"35,500,000,000.00",08:11,,Arrived,,"35,500,000,000.00",1,18,10,FALSE,
+30138,passenger,No,16,,,,,,"92,600,000,000.00",21:55,,Early,,"92,600,000,000.00",1,3,14,TRUE,
+87192,cargo,Yes,30,,,,,,"39,200,000,000.00",18:09,,On-Time,,"39,200,000,000.00",0,9,17,FALSE,
+79997,cargo,No,95,,,,,,"7,870,000,000.00",16:48,,Scheduled,,"7,870,000,000.00",0,20,9,FALSE,
+90833,passenger,No,78,,,,,,"54,300,000,000.00",12:46,,Arrived,,"54,300,000,000.00",1,3,20,TRUE,
+26313,cargo,No,74,,,,,,"81,900,000,000.00",05:11,,Early,,"81,900,000,000.00",0,17,6,FALSE,
+35262,cargo,No,14,,,,,,"96,100,000,000.00",17:49,,Boarding,,"96,100,000,000.00",1,9,19,FALSE,
+17158,cargo,No,57,,,,,,"91,000,000,000.00",23:37,,On-Time,,"91,000,000,000.00",2,18,10,TRUE,
+49864,cargo,Yes,98,,,,,,"15,200,000,000.00",04:52,,Early,,"15,200,000,000.00",1,17,9,TRUE,
+92545,cargo,Yes,30,,,,,,"77,300,000,000.00",00:53,,Boarding,,"77,300,000,000.00",1,13,2,TRUE,
+3737,passenger,No,19,,,,,,"60,200,000,000.00",11:36,,Early,,"60,200,000,000.00",1,17,7,FALSE,
+49823,cargo,Yes,90,,,,,,"71,800,000,000.00",01:34,,On-Time,,"71,800,000,000.00",1,16,14,FALSE,
+44865,passenger,Yes,26,,,,,,"92,900,000,000.00",04:52,,Boarding,,"92,900,000,000.00",2,3,18,TRUE,
+98546,cargo,No,46,,,,,,"91,600,000,000.00",12:40,,Scheduled,,"91,600,000,000.00",1,11,18,TRUE,
+33754,cargo,Yes,23,,,,,,"32,800,000,000.00",07:01,,Boarding,,"32,800,000,000.00",2,18,0,TRUE,
+61188,cargo,No,26,,,,,,"61,200,000,000.00",00:24,,Scheduled,,"61,200,000,000.00",1,3,17,FALSE,
+57751,passenger,Yes,90,,,,,,"20,700,000,000.00",03:57,,Early,,"20,700,000,000.00",2,3,13,TRUE,
+18603,passenger,Yes,74,,,,,,"46,500,000,000.00",03:12,,Boarding,,"46,500,000,000.00",1,16,20,FALSE,
+4761,cargo,No,77,,,,,,"91,700,000,000.00",14:49,,Arrived,,"91,700,000,000.00",1,0,15,FALSE,
+44222,cargo,No,21,,,,,,"70,400,000,000.00",23:28,,Arrived,,"70,400,000,000.00",1,14,3,TRUE,
+75464,passenger,Yes,54,,,,,,"42,400,000,000.00",10:54,,Boarding,,"42,400,000,000.00",1,3,13,FALSE,
+83786,cargo,Yes,11,,,,,,"37,200,000,000.00",02:22,,Scheduled,,"37,200,000,000.00",1,16,15,TRUE,
+7439,passenger,No,33,,,,,,"32,600,000,000.00",18:26,,Early,,"32,600,000,000.00",0,1,1,FALSE,
+52143,passenger,Yes,68,,,,,,"83,600,000,000.00",12:02,,Arrived,,"83,600,000,000.00",1,14,11,TRUE,
+87283,cargo,Yes,24,,,,,,"90,100,000,000.00",03:34,,Scheduled,,"90,100,000,000.00",0,19,16,FALSE,
+67344,passenger,Yes,62,,,,,,"99,800,000,000.00",16:33,,Scheduled,,"99,800,000,000.00",0,10,4,TRUE,
+22360,passenger,Yes,23,,,,,,"96,500,000,000.00",09:01,,On-Time,,"96,500,000,000.00",1,11,11,FALSE,
+65134,cargo,No,71,,,,,,"67,300,000,000.00",06:28,,Boarding,,"67,300,000,000.00",1,4,5,TRUE,
+97867,cargo,No,79,,,,,,"11,400,000,000.00",04:06,,Boarding,,"11,400,000,000.00",0,12,18,FALSE,
+60649,passenger,Yes,90,,,,,,"2,330,000,000.00",01:57,,Early,,"2,330,000,000.00",1,8,15,TRUE,
+66333,cargo,No,12,,,,,,"64,700,000,000.00",23:19,,Boarding,,"64,700,000,000.00",1,11,13,FALSE,
+96389,passenger,Yes,95,,,,,,"15,300,000,000.00",22:30,,Arrived,,"15,300,000,000.00",1,12,7,TRUE,
+31169,passenger,Yes,58,,,,,,"85,100,000,000.00",02:45,,Early,,"85,100,000,000.00",1,10,7,TRUE,
+36444,passenger,No,20,,,,,,"51,500,000,000.00",14:34,,Boarding,,"51,500,000,000.00",2,14,9,FALSE,
+72906,passenger,No,85,,,,,,"90,600,000,000.00",17:00,,On-Time,,"90,600,000,000.00",1,12,3,FALSE,
+69220,cargo,No,32,,,,,,"41,400,000,000.00",07:54,,Early,,"41,400,000,000.00",2,3,12,FALSE,
+19154,cargo,Yes,29,,,,,,"67,000,000,000.00",11:33,,Early,,"67,000,000,000.00",2,11,19,FALSE,
+54790,passenger,Yes,36,,,,,,"96,500,000,000.00",17:19,,Early,,"96,500,000,000.00",0,10,15,TRUE,
+22389,cargo,No,48,,,,,,"6,100,000,000.00",14:32,,Boarding,,"6,100,000,000.00",0,7,1,FALSE,
+29301,cargo,Yes,49,,,,,,"15,400,000,000.00",02:28,,On-Time,,"15,400,000,000.00",2,10,19,FALSE,
+76664,passenger,No,94,,,,,,"53,300,000,000.00",06:11,,On-Time,,"53,300,000,000.00",0,17,3,FALSE,
+84947,passenger,No,12,,,,,,"99,900,000,000.00",18:33,,Early,,"99,900,000,000.00",0,12,2,FALSE,
+66911,passenger,Yes,19,,,,,,"68,700,000,000.00",13:20,,On-Time,,"68,700,000,000.00",0,19,14,FALSE,
+50863,cargo,No,11,,,,,,"48,000,000,000.00",15:28,,On-Time,,"48,000,000,000.00",2,2,2,TRUE,
+71054,cargo,No,74,,,,,,"37,600,000,000.00",05:00,,Early,,"37,600,000,000.00",2,14,17,TRUE,
+17757,passenger,Yes,27,,,,,,"65,500,000,000.00",00:40,,On-Time,,"65,500,000,000.00",0,10,14,TRUE,
+71204,passenger,No,59,,,,,,"37,400,000,000.00",04:45,,Boarding,,"37,400,000,000.00",1,17,9,FALSE,
+52517,cargo,Yes,20,,,,,,"96,800,000,000.00",13:56,,Early,,"96,800,000,000.00",2,2,15,FALSE,
+41004,passenger,Yes,80,,,,,,"15,900,000,000.00",16:24,,Early,,"15,900,000,000.00",0,10,3,TRUE,
+52840,cargo,No,57,,,,,,"8,400,000,000.00",04:05,,Scheduled,,"8,400,000,000.00",0,10,14,FALSE,
+90682,passenger,Yes,16,,,,,,"40,200,000,000.00",14:33,,Early,,"40,200,000,000.00",1,20,13,TRUE,
+89380,cargo,Yes,54,,,,,,"43,300,000,000.00",16:39,,Boarding,,"43,300,000,000.00",1,9,8,TRUE,
+96880,cargo,No,11,,,,,,"41,100,000,000.00",22:31,,Early,,"41,100,000,000.00",2,8,17,TRUE,
+79439,cargo,Yes,74,,,,,,"56,700,000,000.00",20:28,,Arrived,,"56,700,000,000.00",0,7,4,TRUE,
+73462,cargo,No,23,,,,,,"85,300,000,000.00",16:01,,Boarding,,"85,300,000,000.00",1,0,16,FALSE,
+3817,passenger,No,43,,,,,,"41,500,000,000.00",09:35,,Early,,"41,500,000,000.00",1,11,8,FALSE,
+67707,cargo,Yes,96,,,,,,"25,600,000,000.00",10:34,,Early,,"25,600,000,000.00",1,14,8,FALSE,
+12833,cargo,No,77,,,,,,"57,600,000,000.00",06:48,,On-Time,,"57,600,000,000.00",1,12,5,FALSE,
+85268,passenger,Yes,54,,,,,,"71,000,000,000.00",10:37,,Boarding,,"71,000,000,000.00",1,10,9,FALSE,
+93646,cargo,No,12,,,,,,"58,000,000,000.00",08:03,,Boarding,,"58,000,000,000.00",0,4,5,FALSE,
+313,cargo,No,90,,,,,,"97,200,000,000.00",16:10,,Boarding,,"97,200,000,000.00",1,17,16,FALSE,
+29077,cargo,No,69,,,,,,"93,000,000,000.00",12:28,,Boarding,,"93,000,000,000.00",2,3,13,TRUE,
+78180,passenger,Yes,55,,,,,,"991,000,000.00",15:51,,On-Time,,"991,000,000.00",1,10,10,TRUE,
+82518,passenger,No,35,,,,,,"14,900,000,000.00",16:50,,On-Time,,"14,900,000,000.00",0,6,8,FALSE,
+15738,passenger,No,44,,,,,,"48,000,000,000.00",20:23,,Early,,"48,000,000,000.00",2,16,7,TRUE,
+57805,passenger,Yes,27,,,,,,"12,600,000,000.00",19:09,,Early,,"12,600,000,000.00",0,6,19,TRUE,
+18362,passenger,Yes,33,,,,,,"58,800,000,000.00",02:31,,Early,,"58,800,000,000.00",1,7,10,TRUE,
+280,cargo,No,83,,,,,,"98,300,000,000.00",20:10,,Early,,"98,300,000,000.00",1,17,10,TRUE,
+57927,cargo,Yes,100,,,,,,"1,120,000,000.00",03:01,,Early,,"1,120,000,000.00",1,7,12,FALSE,
+58271,cargo,Yes,94,,,,,,"56,900,000,000.00",23:53,,Arrived,,"56,900,000,000.00",1,2,5,FALSE,
+762,passenger,Yes,40,,,,,,"71,800,000,000.00",07:56,,On-Time,,"71,800,000,000.00",0,9,13,TRUE,
+62134,passenger,No,88,,,,,,"52,800,000,000.00",16:35,,Boarding,,"52,800,000,000.00",1,14,1,TRUE,
+53331,cargo,Yes,30,,,,,,"13,400,000,000.00",09:38,,Boarding,,"13,400,000,000.00",1,4,8,FALSE,
+78913,passenger,Yes,82,,,,,,"73,900,000,000.00",06:38,,Scheduled,,"73,900,000,000.00",1,7,17,FALSE,
+40713,passenger,Yes,18,,,,,,"71,900,000,000.00",00:01,,On-Time,,"71,900,000,000.00",1,9,1,TRUE,
+4960,cargo,No,28,,,,,,"60,600,000,000.00",03:03,,Scheduled,,"60,600,000,000.00",1,0,11,TRUE,
+98508,cargo,No,53,,,,,,"48,000,000,000.00",14:51,,Boarding,,"48,000,000,000.00",2,18,19,FALSE,
+88492,passenger,No,66,,,,,,"95,900,000,000.00",21:30,,Early,,"95,900,000,000.00",1,7,7,TRUE,
+98693,cargo,No,25,,,,,,"25,300,000,000.00",01:27,,On-Time,,"25,300,000,000.00",1,7,13,TRUE,
+22826,passenger,Yes,13,,,,,,"15,800,000,000.00",21:21,,On-Time,,"15,800,000,000.00",1,10,14,TRUE,
+58863,cargo,Yes,35,,,,,,"71,800,000,000.00",01:03,,On-Time,,"71,800,000,000.00",0,9,15,TRUE,
+21117,cargo,Yes,25,,,,,,"99,600,000,000.00",11:56,,Boarding,,"99,600,000,000.00",0,6,9,FALSE,
+77610,cargo,No,92,,,,,,"61,300,000,000.00",13:36,,Arrived,,"61,300,000,000.00",1,16,12,TRUE,
+60343,cargo,Yes,56,,,,,,"32,500,000,000.00",18:21,,Scheduled,,"32,500,000,000.00",1,5,6,TRUE,
+38638,passenger,Yes,53,,,,,,"85,800,000,000.00",07:24,,Early,,"85,800,000,000.00",2,7,19,TRUE,
+891,cargo,Yes,58,,,,,,"39,300,000,000.00",21:42,,Early,,"39,300,000,000.00",1,13,1,FALSE,
+22668,passenger,Yes,64,,,,,,"64,600,000,000.00",12:51,,Early,,"64,600,000,000.00",1,10,12,TRUE,
+67511,cargo,No,90,,,,,,"67,100,000,000.00",04:30,,Scheduled,,"67,100,000,000.00",0,17,0,FALSE,
+67267,cargo,No,88,,,,,,"25,500,000,000.00",22:55,,Scheduled,,"25,500,000,000.00",0,10,11,FALSE,
+15413,cargo,Yes,52,,,,,,"45,800,000,000.00",22:07,,Scheduled,,"45,800,000,000.00",1,14,2,FALSE,
+21717,cargo,No,18,,,,,,"48,000,000,000.00",17:59,,Boarding,,"48,000,000,000.00",1,17,17,TRUE,
+67085,cargo,Yes,27,,,,,,"33,300,000,000.00",02:07,,Early,,"33,300,000,000.00",1,19,16,FALSE,
+53163,passenger,Yes,69,,,,,,"11,600,000,000.00",22:47,,Early,,"11,600,000,000.00",2,7,4,FALSE,
+31578,passenger,Yes,86,,,,,,"26,100,000,000.00",14:26,,Boarding,,"26,100,000,000.00",1,13,8,TRUE,
+24957,passenger,No,57,,,,,,"65,700,000,000.00",08:14,,Arrived,,"65,700,000,000.00",0,4,18,FALSE,
+24850,cargo,Yes,61,,,,,,"89,600,000,000.00",10:12,,On-Time,,"89,600,000,000.00",1,16,17,TRUE,
+92250,passenger,Yes,89,,,,,,"18,100,000,000.00",14:04,,Scheduled,,"18,100,000,000.00",0,14,1,FALSE,
+44909,passenger,No,92,,,,,,"88,800,000,000.00",21:05,,On-Time,,"88,800,000,000.00",1,4,16,FALSE,
+52711,cargo,Yes,61,,,,,,"85,800,000,000.00",15:03,,Boarding,,"85,800,000,000.00",1,3,13,TRUE,
+90390,cargo,Yes,15,,,,,,"45,400,000,000.00",03:32,,Early,,"45,400,000,000.00",1,8,6,FALSE,
+78497,passenger,Yes,46,,,,,,"57,400,000,000.00",13:32,,Boarding,,"57,400,000,000.00",0,11,2,FALSE,
+92484,cargo,Yes,35,,,,,,"20,100,000,000.00",22:03,,Boarding,,"20,100,000,000.00",2,2,7,TRUE,
+21047,passenger,No,93,,,,,,"29,400,000,000.00",11:12,,Arrived,,"29,400,000,000.00",0,14,11,TRUE,
+96290,cargo,Yes,17,,,,,,"73,600,000,000.00",09:42,,Early,,"73,600,000,000.00",0,16,18,TRUE,
+31388,passenger,Yes,70,,,,,,"87,000,000,000.00",09:21,,Scheduled,,"87,000,000,000.00",2,8,14,FALSE,
+37287,cargo,Yes,23,,,,,,"65,600,000,000.00",12:52,,On-Time,,"65,600,000,000.00",0,2,2,FALSE,
+21540,cargo,Yes,30,,,,,,"80,000,000,000.00",06:53,,Boarding,,"80,000,000,000.00",1,18,6,FALSE,
+42444,cargo,Yes,28,,,,,,"95,500,000,000.00",23:29,,Early,,"95,500,000,000.00",2,17,13,TRUE,
+39634,cargo,Yes,86,,,,,,"65,700,000,000.00",21:12,,Early,,"65,700,000,000.00",1,12,8,FALSE,
+49055,passenger,Yes,94,,,,,,"22,100,000,000.00",05:34,,On-Time,,"22,100,000,000.00",1,4,1,TRUE,
+58058,cargo,No,33,,,,,,"21,300,000,000.00",17:12,,Scheduled,,"21,300,000,000.00",2,13,7,FALSE,
+61655,passenger,No,10,,,,,,"10,400,000,000.00",04:53,,On-Time,,"10,400,000,000.00",1,19,11,FALSE,
+47161,passenger,No,25,,,,,,"69,000,000,000.00",21:58,,Early,,"69,000,000,000.00",2,8,0,TRUE,
+45291,passenger,No,95,,,,,,"10,600,000,000.00",03:30,,Arrived,,"10,600,000,000.00",2,19,9,FALSE,
+542,cargo,No,44,,,,,,"4,170,000,000.00",16:14,,Arrived,,"4,170,000,000.00",2,8,19,FALSE,
+63305,cargo,Yes,29,,,,,,"38,200,000,000.00",01:13,,On-Time,,"38,200,000,000.00",0,1,20,TRUE,
+44630,cargo,No,39,,,,,,"91,000,000,000.00",14:19,,Boarding,,"91,000,000,000.00",1,13,19,FALSE,
+61227,passenger,Yes,62,,,,,,"65,100,000,000.00",15:12,,Boarding,,"65,100,000,000.00",1,2,9,TRUE,
+38598,cargo,No,62,,,,,,"74,400,000,000.00",20:49,,Arrived,,"74,400,000,000.00",2,7,11,FALSE,
+36786,passenger,No,17,,,,,,"24,400,000,000.00",00:26,,Boarding,,"24,400,000,000.00",0,8,20,TRUE,
+23490,cargo,Yes,78,,,,,,"11,600,000,000.00",16:08,,Arrived,,"11,600,000,000.00",2,20,8,FALSE,
+91809,passenger,Yes,20,,,,,,"91,100,000,000.00",07:33,,Scheduled,,"91,100,000,000.00",1,12,20,FALSE,
+78388,passenger,Yes,11,,,,,,"40,800,000,000.00",12:52,,On-Time,,"40,800,000,000.00",2,5,13,TRUE,
+84194,cargo,Yes,67,,,,,,"4,650,000,000.00",06:38,,Boarding,,"4,650,000,000.00",1,13,11,FALSE,
+37495,cargo,No,37,,,,,,"5,560,000,000.00",18:52,,Scheduled,,"5,560,000,000.00",1,5,18,FALSE,
+46274,passenger,Yes,12,,,,,,"90,500,000,000.00",16:43,,Early,,"90,500,000,000.00",1,10,11,FALSE,
+66576,passenger,No,66,,,,,,"98,000,000,000.00",02:30,,Arrived,,"98,000,000,000.00",0,12,6,FALSE,
+69883,cargo,No,47,,,,,,"74,400,000,000.00",07:07,,Early,,"74,400,000,000.00",2,4,18,FALSE,
+94038,cargo,No,39,,,,,,"87,300,000,000.00",13:44,,Early,,"87,300,000,000.00",2,10,12,FALSE,
+28934,cargo,Yes,79,,,,,,"26,800,000,000.00",13:32,,Scheduled,,"26,800,000,000.00",1,17,12,TRUE,
+18930,cargo,No,74,,,,,,"38,600,000,000.00",09:15,,Arrived,,"38,600,000,000.00",1,19,19,TRUE,
+64937,cargo,Yes,50,,,,,,"2,500,000,000.00",12:15,,Early,,"2,500,000,000.00",0,15,17,TRUE,
+81435,passenger,Yes,46,,,,,,"2,250,000,000.00",15:23,,On-Time,,"2,250,000,000.00",0,15,10,FALSE,
+49402,passenger,Yes,21,,,,,,"27,100,000,000.00",20:16,,Early,,"27,100,000,000.00",1,14,5,TRUE,
+53023,cargo,No,50,,,,,,"50,900,000,000.00",00:59,,Boarding,,"50,900,000,000.00",1,7,6,TRUE,
+84075,cargo,Yes,50,,,,,,"6,620,000,000.00",20:02,,Boarding,,"6,620,000,000.00",1,13,11,FALSE,
+21055,passenger,Yes,89,,,,,,"24,600,000,000.00",20:50,,Early,,"24,600,000,000.00",2,9,2,FALSE,
+77022,passenger,Yes,95,,,,,,"73,500,000,000.00",19:03,,Arrived,,"73,500,000,000.00",1,18,1,TRUE,
+11264,passenger,Yes,60,,,,,,"6,150,000,000.00",00:41,,Early,,"6,150,000,000.00",2,17,10,FALSE,
+36705,cargo,No,69,,,,,,"74,600,000,000.00",20:21,,Early,,"74,600,000,000.00",2,7,5,FALSE,
+73508,cargo,Yes,22,,,,,,,,,,,,,,,,
